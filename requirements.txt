@@ -1,3 +1,5 @@
 feedparser
 requests
 trafilatura
+pandas
+openpyxl
