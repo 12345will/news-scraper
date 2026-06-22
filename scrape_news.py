@@ -10,9 +10,7 @@ You only ever need to edit the CONFIG block below.
 """
 
 import csv
-import os
 import re
-import json
 import datetime as dt
 import urllib.parse
 from pathlib import Path
@@ -143,35 +141,6 @@ def append_rows(path: str, rows: list[dict]) -> None:
         w.writerows(rows)
 
 
-def push_to_google_sheet(rows: list[dict]) -> None:
-    """Append rows to a Google Sheet. No-op if the GOOGLE_* env vars aren't set."""
-    if not rows:
-        return
-    creds_json = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
-    sheet_id = os.environ.get("GOOGLE_SHEET_ID")
-    if not creds_json or not sheet_id:
-        print("  (Google Sheets not configured — skipping sheet update)")
-        return
-    try:
-        import gspread
-        from google.oauth2.service_account import Credentials
-
-        creds = Credentials.from_service_account_info(
-            json.loads(creds_json),
-            scopes=["https://www.googleapis.com/auth/spreadsheets"],
-        )
-        ws = gspread.authorize(creds).open_by_key(sheet_id).sheet1
-        if not ws.acell("A1").value:                       # add header if sheet is empty
-            ws.append_row(FIELDS, value_input_option="USER_ENTERED")
-        ws.append_rows(
-            [[r[f] for f in FIELDS] for r in rows],
-            value_input_option="USER_ENTERED",
-        )
-        print(f"  → pushed {len(rows)} row(s) to Google Sheet")
-    except Exception as e:
-        print(f"  ! Google Sheets update failed: {e}")
-
-
 def main() -> None:
     seen = load_seen_links(OUTPUT_FILE)
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=LOOKBACK_HOURS)
@@ -231,7 +200,6 @@ def main() -> None:
             print(f"  ✓ kept: {title[:70]}")
 
     append_rows(OUTPUT_FILE, new_rows)
-    push_to_google_sheet(new_rows)
     print(f"\nDone. {len(new_rows)} new article(s) added to {OUTPUT_FILE}.")
 
 
