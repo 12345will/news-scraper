@@ -12,6 +12,7 @@ You only ever need to edit the CONFIG block below.
 import csv
 import re
 import datetime as dt
+import urllib.parse
 from pathlib import Path
 
 import feedparser
@@ -19,22 +20,74 @@ import requests
 import trafilatura
 
 # ============================== CONFIG =================================
-# Add as many feeds as you want. Google News query feeds work here too —
-# tune the q= part of the URL to change what you track.
-FEEDS = [
-    "https://news.google.com/rss/search?q=Vestas+wind+when:1d&hl=en-US&gl=US&ceid=US:en",
+# Companies / topics to track. Each line becomes a Google News search over the
+# last 24 hours. Add or remove freely — just type a name. Wrap multi-word names
+# in single quotes with inner double quotes to force an exact phrase, e.g.
+# '"Siemens Gamesa"'. Append a word like "wind" to disambiguate common names.
+GOOGLE_NEWS_QUERIES = [
+    # --- Turbine manufacturers (OEMs) ---
+    "Vestas wind",
+    '"GE Vernova" wind',
+    "Goldwind",
+    '"Envision Energy" wind',
+    "Mingyang wind",
+    "Nordex wind",
+    "Enercon wind",
+    "Suzlon wind",
+    # --- Developers / operators ---
+    "Orsted offshore wind",
+    "RWE wind",
+    "Iberdrola wind",
+    '"NextEra Energy" wind',
+    "Equinor wind",
+    # --- Extras: uncomment to widen coverage ---
+    # '"EDP Renewables" wind',
+    # "Engie wind",
+    # "Acciona wind",
+    # '"Dongfang Electric" wind',
+    # '"Shanghai Electric" wind',
+    # "Windey wind turbine",
+    # "Sany wind turbine",
+    # "offshore wind farm order",   # broad industry sweep
+]
+
+# Plain publisher RSS feeds (direct article links — extract more reliably than
+# Google News). Drop in any you find from trade press or a company's own feed.
+EXTRA_FEEDS = [
+    # "https://www.windpowermonthly.com/rss",
     # "https://www.technologyreview.com/feed/",
-    # "https://some-publisher.com/rss",
 ]
 
 # An article is kept if its text contains ANY of these words (whole-word,
-# case-insensitive — so "air" will NOT match "repair"). Leave as [] to keep all.
-KEYWORDS = ["vestas", "offshore", "turbine", "order", "MW"]
+# case-insensitive — so "air" will NOT match "repair"). These target *what a
+# company is doing*; pure financial/governance filings (buy-backs, AGMs) lack
+# them and get filtered out. Leave as [] to keep everything.
+KEYWORDS = [
+    "order", "orders", "MW", "GW", "gigawatt", "megawatt",
+    "offshore", "onshore", "floating", "turbine", "nacelle", "blade",
+    "contract", "repowering", "prototype", "factory", "facility",
+    "acquisition", "partnership", "joint venture", "supply",
+]
 
-MAX_ARTICLES_PER_RUN = 30      # safety cap so a busy day can't blow up the log
+MAX_ARTICLES_PER_RUN = 50      # safety cap so a busy day can't blow up the log
 LOOKBACK_HOURS = 26            # ignore items older than this (slight overlap w/ a daily run)
 OUTPUT_FILE = "news_log.csv"
+
+# Any article whose title or body contains one of these (whole-word, case-
+# insensitive) is dropped — even if it matched a KEYWORD above. Use this to
+# suppress a company you don't want, including when it's mentioned inside
+# another company's story. Leave as [] to disable.
+EXCLUDE_KEYWORDS = []
 # ======================================================================
+
+
+def _google_news_feed(query: str) -> str:
+    """Build a 'last 24 hours' Google News RSS search URL from a plain query."""
+    q = urllib.parse.quote_plus(query + " when:1d")
+    return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+
+FEEDS = [_google_news_feed(q) for q in GOOGLE_NEWS_QUERIES] + EXTRA_FEEDS
 
 REQUEST_TIMEOUT = 20
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; news-scraper/1.0)"}
@@ -118,6 +171,10 @@ def main() -> None:
             body = fetch_article_text(link)
             # what we keyword-match against: title + full body (or RSS summary if body failed)
             haystack = title + " " + (body or strip_html(entry.get("summary", "")))
+
+            # hard exclusions: drop the article if it mentions anything on the block list
+            if EXCLUDE_KEYWORDS and keyword_hits(haystack, EXCLUDE_KEYWORDS):
+                continue
 
             if KEYWORDS:
                 matches = keyword_hits(haystack, KEYWORDS)
