@@ -1,37 +1,36 @@
-name: Daily news scrape
+name: Daily News Scraper
 
 on:
   schedule:
-    # GitHub cron is in UTC. 13:00 UTC ≈ 9:00 AM US Eastern during summer (EDT).
-    # In winter (EST) this fires at 8:00 AM Eastern. Change to "0 14 * * *" if you
-    # want a steady 9:00 AM in winter. Day-of-the-week/month fields are * (every day).
-    - cron: "0 13 * * *"
-  workflow_dispatch:   # adds a "Run workflow" button so you can trigger it by hand
+    - cron: "17 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  scrape:
+  scrape-news:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # lets the job commit the updated CSV back to the repo
+
     steps:
-      - name: Check out the repo
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run the scraper
-        run: python scrape_news.py
+      - name: Run scraper
+        run: python news_scraper.py
 
-      - name: Commit the updated log
+      - name: Commit updated news files
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add news_log.csv
-          git diff --staged --quiet || git commit -m "Update news log ($(date -u +%Y-%m-%d))"
+          git config user.email "github-actions@github.com"
+          git add news_log.csv news_log.xlsx
+          git diff --cached --quiet || git commit -m "Update daily news log"
           git push
