@@ -11,6 +11,7 @@ You only ever need to edit the CONFIG block below.
 
 import csv
 import re
+import json
 import datetime as dt
 import urllib.parse
 from pathlib import Path
@@ -71,7 +72,8 @@ KEYWORDS = [
 
 MAX_ARTICLES_PER_RUN = 50      # safety cap so a busy day can't blow up the log
 LOOKBACK_HOURS = 26            # ignore items older than this (slight overlap w/ a daily run)
-OUTPUT_FILE = "news_log.csv"
+OUTPUT_FILE = "news_log.csv"   # full cumulative log (source of truth + dedup)
+LATEST_FILE = "latest.json"    # just THIS run's new rows, for Power Automate to read
 
 # Any article whose title or body contains one of these (whole-word, case-
 # insensitive) is dropped — even if it matched a KEYWORD above. Use this to
@@ -141,6 +143,16 @@ def append_rows(path: str, rows: list[dict]) -> None:
         w.writerows(rows)
 
 
+def write_latest_json(rows: list[dict], path: str) -> None:
+    """Write just this run's new rows, stamped with today's date, for Power Automate."""
+    payload = {
+        "date": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d"),
+        "rows": rows,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 def main() -> None:
     seen = load_seen_links(OUTPUT_FILE)
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=LOOKBACK_HOURS)
@@ -200,6 +212,7 @@ def main() -> None:
             print(f"  ✓ kept: {title[:70]}")
 
     append_rows(OUTPUT_FILE, new_rows)
+    write_latest_json(new_rows, LATEST_FILE)
     print(f"\nDone. {len(new_rows)} new article(s) added to {OUTPUT_FILE}.")
 
 
