@@ -12,6 +12,7 @@ You only ever need to edit the CONFIG block below.
 import csv
 import re
 import json
+import html
 import datetime as dt
 import urllib.parse
 from pathlib import Path
@@ -96,9 +97,16 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; news-scraper/1.0)"}
 FIELDS = ["Date", "Article Name", "Article Source", "Key Phrases", "Summary"]
 
 
+def clean_text(s: str) -> str:
+    """Decode HTML entities (&nbsp;, &amp;, &#39; …) and normalize odd whitespace."""
+    s = html.unescape(s or "")
+    s = s.replace("\xa0", " ").replace("\u200b", "")   # non-breaking + zero-width spaces
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def strip_html(s: str) -> str:
-    """Crude HTML-tag remover for RSS summary fallbacks."""
-    return re.sub(r"<[^>]+>", " ", s or "").strip()
+    """Remove HTML tags, then decode entities and tidy whitespace."""
+    return clean_text(re.sub(r"<[^>]+>", " ", s or ""))
 
 
 def keyword_hits(text: str, keywords: list[str]) -> list[str]:
@@ -179,7 +187,7 @@ def main() -> None:
             else:
                 pub_dt = dt.datetime.now(dt.timezone.utc)
 
-            title = (entry.get("title") or "").strip()
+            title = clean_text(entry.get("title") or "")
             body = fetch_article_text(link)
             # what we keyword-match against: title + full body (or RSS summary if body failed)
             haystack = title + " " + (body or strip_html(entry.get("summary", "")))
@@ -196,7 +204,8 @@ def main() -> None:
                 matches = []
 
             if body:
-                summary = body[:1000] + ("…" if len(body) > 1000 else "")
+                clean = clean_text(body)
+                summary = clean[:1000] + ("…" if len(clean) > 1000 else "")
             else:
                 summary = strip_html(entry.get("summary", ""))[:1000]
 
