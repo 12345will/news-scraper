@@ -2,10 +2,12 @@ name: Daily news scrape
 
 on:
   schedule:
-    # GitHub cron is in UTC. 13:00 UTC ≈ 9:00 AM US Eastern during summer (EDT).
-    # In winter (EST) this fires at 8:00 AM Eastern. Change to "0 14 * * *" if you
-    # want a steady 9:00 AM in winter. Day-of-week/month fields are * (every day).
-    - cron: "0 13 * * *"
+    # GitHub cron is in UTC, and does NOT adjust for daylight saving.
+    # 12:43 UTC = 8:43 AM US Eastern during summer (EDT).
+    # In winter (EST) this same line fires at 8:43 AM Eastern — change to
+    # "43 13 * * *" if you want to hold 9:43 AM through the winter months.
+    # Off-the-hour minute (:43) is deliberate — on-the-hour jobs get dropped under load.
+    - cron: "43 12 * * *"   # 8:43 UTC = 8:43 AM US Eastern (EDT, summer)
   workflow_dispatch:   # adds a "Run workflow" button so you can trigger it by hand
 
 jobs:
