@@ -1,355 +1,166 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "rows": [
     {
-      "Date": "2026-06-26 12:00",
-      "Article Name": "Vestas unveils 869 MW of orders for undisclosed US projects - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm9TT2ozS2Z4UXh4M0JuTU1fbmlZbEhvXzhVUTE2WHpuTXY5TTdFZG5sUlpIZWVQaXNldDBUMkRic0JEc1NUYWRYcUQtc0dkWVYzRXh1OEVHQ3NhYTRoZU82MnpQZ1BOdlNrMmdxMzNHUXVYMTI2NlpPckthVEpUMGRQSlZNWTlyczlKel9OQVhwazJfaHFPbW9kSkVlTWhI?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "Vestas unveils 869 MW of orders for undisclosed US projects Renewables Now"
-    },
-    {
-      "Date": "2026-06-26 06:45",
-      "Article Name": "Vestas wins near-gigawatt order in the US - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XNDgzZkRfdEJsQjVsTkVCVGxoQlRJU0tvelFzMU5fZ3QtUGlzUDRXcGpzY2h4cUxXWFk4UENTV0JidkVJVVlCZXNwTjd5LUdkNVNrS2owTVlMT1p4ZFBoYW1WY1J0V1lKYnpB?oc=5",
-      "Key Phrases": "order, gigawatt",
-      "Summary": "Vestas wins near-gigawatt order in the US EnergyWatch"
-    },
-    {
-      "Date": "2026-06-26 08:42",
-      "Article Name": "Vestas adds 869MW to US orders - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mMVloWEdFUHgxMHQzNGxDUzVsN3ZERHRMVXNkdHBNdGNDMUVsMmdTNjZIcTFrUE1ZY0w1Z2Z6SFFzWDdIaS1DRWFzYU4zMTNlMjhUeUIzN2M0MXhxWUdvb0lENklkRHMxSXBSUEJlMDBURlEtVXc?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "Vestas adds 869MW to US orders reNEWS"
-    },
-    {
-      "Date": "2026-06-26 04:38",
-      "Article Name": "Vestas adds 869 MW to Q2 order intake - Windtech International",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnk0bDMwOHE3V2UtdURWSlJ6OWJWZFVkZFFrMl9VRlZzV2VIRjFUblFUanh3RVdYN3FyQVVjemNjMDRPMkZSTlcySWp0bGRWRWZvREpwUXR0YmtVWkU4S2hsSWtjUkFaSUJsdWhfaC1GUW5qRXNWcGpETUppN1FwSWRLdVp5ZGpzSzlXZXVlUnRYVERMeElzRDBHZkpBb0Ft?oc=5",
+      "Date": "2026-06-27 09:10",
+      "Article Name": "Vestas Announces 40 MW Order for Reken Hülsterholt Wind Project - Inspenet",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDU3V2xqSDFnWVNocnJETmNXbFBKSDJ4aFVzMmFnTzlKcFNCV1VFZDdta1o0dFgwaDlDbnRFdEIzLUlVTVZocENUQ2dIZ3o2dlllM0F3UzNBWllkVGFqSVcyQ3FER2Jqcm55bURVY0s5NHhSRDBXYnh1T0lhQmxfeVB2MjdCXzdteU5VZXktdmg3R2NSb3FfMQ?oc=5",
       "Key Phrases": "order, MW",
-      "Summary": "Vestas adds 869 MW to Q2 order intake Windtech International"
+      "Summary": "Vestas Announces 40 MW Order for Reken Hülsterholt Wind Project Inspenet"
     },
     {
-      "Date": "2026-06-26 05:04",
-      "Article Name": "Vestas wins 869 MW order in the United States - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY25oY0d5T0VIckpJX2E2dXlrR0o3ak52TEhvWm1TMkRGWk91RHJ1MEVhOEd0TVJGN2hPb3U2bDJnUmxtTjY4SHN4RlJRbDl4dk5Wb25rQnR4TXdBaUpnUnQySWtMZHNLTmRsdm90dzVKSElMM0d6WUZISDJMelhXQUUzdmhFYXhudDBpc1dmeEVuZnB0Z1RkNGE1eTBqYUE?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Vestas wins 869 MW order in the United States marketscreener.com"
-    },
-    {
-      "Date": "2026-06-26 09:20",
-      "Article Name": "Offshore wind revenue decline pulls down Crown Estate profit - Baird Maritime",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0FpMGlVdnNaVmpsWWpVZERRRVBwVkF0dEpNMUswaDlHd1NrUUNvNTdTbHZCOTBjbTRWYlBnOVQ3LXJvMDFGV0JzNEdVUUJKa1pQeVBQZkVPNlVwbW95M2pIQ0dvalFzanMxTzU3SnZ0RUFPQVpUSzNLOXlXeDMzN1lGWVdpUjBQNmxqU2F3VG9FMDJiSHphTk9iQWNxVVJ2MzdkQVdTa0JJWGR5RTJoMlNoZmNEYlhwRkNpdkQ1UlhqQdIBzwFBVV95cUxNdVAyNmVHcFlKUjRzWkpvbFI1WkVYX182YnNnYVBWSEV0ZlJRSzhLanNxRThXR3R4OXZTLXhBSXg0NnhoV2xuX3FULXJlVGdKaU9KNEZ5QW9SRmlzNnQxZktxdThHaG05a1ZoSWVxeHNlQ2syd1FVQ0NyVlR2cnpuLUEwNm1jTzRTemVtbE1oRVVnaW5kZnVia0ZiNFpNc3gzdVg1OWlvVWZpZEFORUdaSkJubmgyZjRSQThJNldNUUxwenY2LW1TdFVzZEEzZzA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Offshore wind revenue decline pulls down Crown Estate profit Baird Maritime"
-    },
-    {
-      "Date": "2026-06-26 09:20",
-      "Article Name": "Deals of the Week: One offshore wind project scores three big deals - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVhhdmpZVFg3NnRUZ3JybFk2R0V6SENzNUhNeFZZTzY0NjN5aG9iZDN2aGdPXzhva1d5SnlzNlRiYXlRZF83WHFJVE53T25leEhscGhKcGpZc2VIS3FzdkRxNTllQ25zcW5mQXN3WEF6bGF3Sm14alVqZmJTMXgxUEQ3c1RxbTR3WS14NnBTM1VucW1jaElTQVhxRGF6MHN0N1A1Y0ZRbjNvS2pnZFQ3ZWtUd1lTU2E0WG9CMlpR?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Deals of the Week: One offshore wind project scores three big deals Recharge News"
-    },
-    {
-      "Date": "2026-06-25 19:17",
-      "Article Name": "GE Vernova ramps gas turbine capacity for AI demand, shares hold above 1,050 dollars - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZm9sRDZXenRTdGkxek5PTGs0ZkpxTnRndjNmTTd4RFVPSWNNM2JLc1Q3MG1Xd3RueDJPOHUycVI5M3JiLWxGTmpPbUFyMllyMmZ3UmNrZGpNNDVZdE5Qb2wwSlZMWllJSjhBY3dTeEpMT2dKYTd3d1NMbm5KRjJBbTVYQ1N6UzgtdnlhckQyMjQ4SnBlOV9fRDk0a05iOFFmOXJ0NjY0QlhLVHpfMFB1TVdoSUdrYXpHZXg1NHQzSzNSaVNMbG9v?oc=5",
+      "Date": "2026-06-27 08:22",
+      "Article Name": "Vestas Wind outlines long-term turbine strategy, shares tracked against global wind peers - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzhCMU93d0RrVmI4bDN3MXFWemhpWUFLcEFJeGNPUWkwaGtyZ2NXVjVVa3NjX0hzTzV1dTh1VXZIQzA2M3RJdzg5X0Y4MnJYeTVTSzhiX1NSVnp2Slk0eW5BNC10N0ZvYkFWOUJTSWszYmNCRXF4cFV6OUdoM1dqeHJHU2RGUHlrMm1TdUVlQ0pPZFFTZWhGRmJqZmlmNG1jVFN5bkE1UVdjN1V2V3BtdFJPalZOY1FpWE8yWDl2MlJOdF9TQ3hkTg?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "GE Vernova ramps gas turbine capacity for AI demand, shares hold above 1,050 dollars Ad-hoc-news.de"
+      "Summary": "Vestas Wind outlines long-term turbine strategy, shares tracked against global wind peers Ad-hoc-news.de"
     },
     {
-      "Date": "2026-06-26 07:54",
-      "Article Name": "Envision Energy and Juniper Green Energy commission 5 MW wind turbine in India - Windtech International",
-      "Article Source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU0ZwNWswdjBBMUNGVVRJU2JCRVVsTlN6R2FSZGFWTzh1bnVoYnVuUUczNEc4T21xYlVmVnZ5c1c4NC1yYXl5QjY5dkEwbVpBd3M2LUFGdDNUWDgyb3JrNHhleV9rUm82ajZiMDluaVVnM09vdVAxM01qa1N4b2lyN0tJVVUwMGhkYnlSRld4X19yNmM2M3AtM0tLN0tER1V5RllDZDg3aGVxRE4tMzhMZG9VOWo5Ni04VFJZT3pOeWlJWnc2cFV2dGZvM2FQaWY3TTR5X2pqZw?oc=5",
-      "Key Phrases": "MW, turbine",
-      "Summary": "Envision Energy and Juniper Green Energy commission 5 MW wind turbine in India Windtech International"
+      "Date": "2026-06-26 17:37",
+      "Article Name": "The Vestas V162-6.2 MW from Vestas Wind Systems A/S - quiet giant for onshore wind parks - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzdJU2plcVRObDRoZzZGY0d1VHBpazB3dGxNMzVKY0UxZGNTaGpPQThqNDhxRV9DY1ZxRzJ1ZVl6MzhQWDFTbzQxSDZ4YTUzVDh6eHNDcEN3S2tUVTlGM3pzZGxIbzVrLXV4eHE2VnRmendrbGxnZTJEb083UzJianh4UkNwVEFFNHNDZWJENWlYYjhKaWNxeC1wN0p6cjVKSGQ1Wm5odEhOcnV1ZkhjZGZQV3hrSF9LSW5zUUxXeTJZSFRY?oc=5",
+      "Key Phrases": "MW, onshore",
+      "Summary": "The Vestas V162-6.2 MW from Vestas Wind Systems A/S - quiet giant for onshore wind parks Ad-hoc-news.de"
     },
     {
-      "Date": "2026-06-25 23:36",
-      "Article Name": "Envision and AMEA Power move ahead with development of a 500 MW wind energy project in Egypt - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQkpxeUpleHhCdUI5SmNJWDhSWEd1UDJJSk9BeERzOUZ0YmRxalVGYnJadmZzNTdKaEh0azQ0T1F6UFR5aHd0WUJTdnV4UV9mb29wTFFyX3doZ24yTXZ5NFZXX1VWdnY4ZXA1aHRSSTl0dWlhOXhHLTZuMA?oc=5",
+      "Date": "2026-06-27 06:43",
+      "Article Name": "United States Renewable Energy Market to Surpass 1,002 GW by 2033 as Solar, Wind, and Clean Energy Investments Accelerate - vocal.media",
+      "Article Source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazdzTlA1bVpuNWtHVWdYeWhpd014Ymx2a2hUaUpxUVJIQWw1SDhvVUp0RmJQYW4wenpURzEtaEVRazh2OWw0Y3pHdmwzczlnOVl3cGlmWFRSN3pYX01kMFNYVkdRNVpxbHNOM3pNb0xEeWZJNDI5eDN5QS1YQ19ULVg3anktZlktSlBFOHYtb1JfaDh3YjU2Q3hQdk5HU3lEYUVvbjBTTGxRaG1lR3U0RFZtVWIzNnoxQ2x1N2xoV1FncTdXRS05cldmb094cHpET3RCdjFLQWxtdw?oc=5",
+      "Key Phrases": "GW",
+      "Summary": "United States Renewable Energy Market to Surpass 1,002 GW by 2033 as Solar, Wind, and Clean Energy Investments Accelerate vocal.media"
+    },
+    {
+      "Date": "2026-06-26 18:16",
+      "Article Name": "DTEK, GE Vernova Sign Agreement for 650-MW Ukraine Gas Power Plant - Pipeline and Gas Journal",
+      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONl9CeENhTWlQM1RmMExZQ0VtU29uSC11RGRWWkpPTEQ1cFBmRUtQT21IZWNYS0FPSXlMaFAzZkVTNE9SNDlRVi1SMkVxaHNJYmhVV0g2Q25LNnRvYlozZEZ6OHdxMnM3VF9JOWVMWkFONDFrUlFSZWhxZXlOMTBfOHlRSy0wZ0pTMnpFS2tmTm9XbjVzZ3B3RF81OFI5SVZtdGFVWg?oc=5",
       "Key Phrases": "MW",
-      "Summary": "Envision and AMEA Power move ahead with development of a 500 MW wind energy project in Egypt Energies Media"
+      "Summary": "DTEK, GE Vernova Sign Agreement for 650-MW Ukraine Gas Power Plant Pipeline and Gas Journal"
     },
     {
-      "Date": "2026-06-26 09:07",
-      "Article Name": "Juniper Green Energy Commissions India’s Largest Wind Turbine with Envision Energy - Machine Maker",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzd4dHV1Y01Wb3pCdzZmeHpFTkd6SUNsSmtMeHZPckNESVltZGVFRmdKY3F6YUx3Q2trMW5QdDdZRzFLVWRXejhjaXBGdy1ubDlrd0VXWEF0Nk5DYU9Pcmp3S19sV0VmNm9GVmlqR3VCQ2pzemRfOXZIbzJONGdiZkViS0pycC10NGRXZ0hmNnh5ZTFBcGZYRS01cXVVeG9FTUM3QzY1Q085M3dzUWpueFRNS1Nqdw?oc=5",
+      "Date": "2026-06-27 02:10",
+      "Article Name": "Haliade?X offshore wind turbine from GE Vernova Inc. - 14 MW machine pushes the energy transition - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0l6aFJiVnEwbjVBR3pJX0JvQ2ZFRlY1aFV2SlltZFBDWl8tdDNqNUd0cmxJdHU4NjlrUkNMS1FJUmZ4aVB2UFRQNEx2c2NfRTBVV2JWN0pUR1QtRG14dzdJQVlQMXRaUkhzLTR2b3FzQVBTcy1rMFl5THdsNnNSZDUxODl4N0czYnYycUhPTXM1Y2wyUzhSWFhUaTI2SnpYQ0JVSXFWWWJqSnN5QU9CTkxTd3dfcm1DSmZ3YnB0UDJQdw?oc=5",
+      "Key Phrases": "MW, offshore, turbine",
+      "Summary": "Haliade?X offshore wind turbine from GE Vernova Inc. - 14 MW machine pushes the energy transition Ad-hoc-news.de"
+    },
+    {
+      "Date": "2026-06-27 06:20",
+      "Article Name": "Envision, Juniper commission India’s largest wind turbine - Construction World",
+      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSW43R2FhdnpRbk5RcGdrb2p4MVMtQmM4aV9DZTI5WHRRYWtrSXBzR0QwdnAzSVBIeTNDd0t5eFhBVk02TlBkdVh0NXZELWxHN0EyV0xpbHQwaHNVaHA0YWdQRDlabHRxUjc0d0NmZkhTS0dIN1NnMFA1Y0xwVktXSGZhU2hodnVFcGhCUmZFbkxrMHNPd19NMkNQdXJRbnZPSko4d2ZrZ3dEMTNwYmRfTmx5VFp2YWVqc1pJZlpfc1p4UGlYaTVGSFlnQ3Bwa3BybngzMVM4bWFyWER2aVBIcw?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "Juniper Green Energy Commissions India’s Largest Wind Turbine with Envision Energy Machine Maker"
+      "Summary": "Envision, Juniper commission India’s largest wind turbine Construction World"
     },
     {
-      "Date": "2026-06-26 08:53",
-      "Article Name": "Envision and Juniper launch India’s largest wind turbine - Manufacturing Today India",
-      "Article Source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSGdNSXZ2ckFoRlZ3am1WbTdpN0J2UGFxV2FwakR2X2p5NkdHaThpT1FUWGpiT1o0UlIyS3QtamNtZHB0S01ZQU9LWHBCTE9xeE1jdUcyMkRPaDhFdWxENnc2SGxtbjVnbnZtajJ0ZF9MRHlOVy1faFZPcDlFZw?oc=5",
+      "Date": "2026-06-27 07:06",
+      "Article Name": "Juniper Green Energy Deploys India’s Largest Wind Turbine with Envision Energy India - Chemical Industry Digest",
+      "Article Source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0piWTJCdWxQaVJRSW5UaE1yRWlSWHpTMVAtUlRDWkMweWtuSk4xeDV3ZlJXNmF0RlJtVzZnZ1A1VkFjT2dzeFZWdUtFOEJMTXlfOUxCT3Vlbm0xMm1DOVpZbWU4YjE5OGs3aXBnRjJGOUZKMER3VFdLSDRMeDIzVjBub3dmaDlGRWRvTGVyeHh1a05DYkZPXzZER1kzdWtvUDhfNmV3WEZFdWo2eHc?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "Envision and Juniper launch India’s largest wind turbine Manufacturing Today India"
+      "Summary": "Juniper Green Energy Deploys India’s Largest Wind Turbine with Envision Energy India Chemical Industry Digest"
     },
     {
-      "Date": "2026-06-26 07:56",
-      "Article Name": "Envision Energy India Commissions India’s Largest Wind Turbine with Juniper Green Energy - Energetica India Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzJpUGo3bW9jV1FpVk9ObmhnMDFMYUd0UGhHTzQwV3gyUVdDTXUzd0o3VUlJTHhGTXZWekpDU1d2aG9lSGFoV0NSLVBmQkxQN25CQmRYN0ZaeXd4SlZQYk5kZFdFUmFiNUVZS2pNSzVfUll1TXVmS3Zxekg1b05XdDc0dmljYUVILTIzdTBWMEdxUTZMOGVVZ2dPN2Y4S2hQUVoxb3pVUUtxdHNFZHJINEtiN0pPMDJjVlBFWnN1SzFBTGM?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Envision Energy India Commissions India’s Largest Wind Turbine with Juniper Green Energy Energetica India Magazine"
-    },
-    {
-      "Date": "2026-06-25 16:00",
-      "Article Name": "Vivant buys 200-MW wind farm in Northern Samar - Philstar.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHEwblRMSEYwbWNsMld1LUZqYjN3WmlySGdCVUhjaE9majhPWG80WG13dm5BamNHS3E5WjBCUUM0Rk1vT1NTSnBjc3Yxbi1iOWxIZTJSYnhYS25TcGxmLWJfbnJWdnMtRlctdldYdHZGNnJRbDRtb2R1YXI3dElIQ0thRjNLaFVnNDRrYWxJVlYtb3VWZzNhY015UGVZSTV1NEpYMG5OVl9ScHplVTZBWHlnRmZZSkJLR2fSAboBQVVfeXFMUGRxMG5UTEhGMG1jbDJXdS1GamIzd1ppckhnQlVIY2hPZmo4T1hvNFhtd3ZuQWpjR0txOVowQlFDNEZNb09TU0pwY3N2MW4tYjlsSGUyUmJ4WEtuU3BsZi1iX25yVnZzLUZXLXZXWHR2RjZyUWw0bW9kdWFyN3RJSENLYUYzS2hVZzQ0a2FsSVZWLW91VmczYWNNeVBlWUk1dTRKWDBuTlZfUnB6ZVU2QVh5Z0ZmWUpCS0dn?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Vivant buys 200-MW wind farm in Northern Samar Philstar.com"
-    },
-    {
-      "Date": "2026-06-26 08:50",
-      "Article Name": "Equinor quits another offshore wind market after abandoning renewables target - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVU9DdFlaVjZaN3Jid3Z5THZYbzZGbjFWUmR3VUFjLUtERzNFeUZhS1ZvejRSeUpSczBpQUZDNVhJVldFZWtZc2pFaUVWSWM0VDY5anBCY3ZGbnhEclRNT1c2bGc1dlI0a3hzQTVrQk1VMS1FeUhnZFBmZVN6X2lwWTBpNUsxT1dPaEJPVmEzZ0JBelozX1JHTkJpbkt4RE9fOEtGaUF0SEVXZWllMjZacjg5SHlFckY5bU1CTDFkdFdTV3VQRGVTY19JTzc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor quits another offshore wind market after abandoning renewables target Recharge News"
-    },
-    {
-      "Date": "2026-06-26 13:25",
-      "Article Name": "How New 596 MW Wind Orders At Nordex (XTRA:NDX1) Have Changed Its Investment Story - simplywall.st",
-      "Article Source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3ZjMFlOd0xGTW1JSlZENld6UFlJTVc4a2g5WXAtbVo0akVrY00xaXhEMHVwZFVmODF5MmdpdTVtTi1TMGFwb3h4U0lSVDRvcVdxSGN3RUJLV19mQ0ZxWEpFdzVGRURmbEhEU0FCcDY2Y2Q2MWtsRXJJbjRlODNfbzUxM0hjNlJ1M00tbDNNU2RaQjRNb3pPVTJpdnJSS3pvZHhnOC02bVpjdGxYODZVUTZOcVhJZVN6aFh3VzNzU1RkSHlOMDFPRjdfZHF6MXFEd3pqOdIB1AFBVV95cUxPM3ZjMFlOd0xGTW1JSlZENld6UFlJTVc4a2g5WXAtbVo0akVrY00xaXhEMHVwZFVmODF5MmdpdTVtTi1TMGFwb3h4U0lSVDRvcVdxSGN3RUJLV19mQ0ZxWEpFdzVGRURmbEhEU0FCcDY2Y2Q2MWtsRXJJbjRlODNfbzUxM0hjNlJ1M00tbDNNU2RaQjRNb3pPVTJpdnJSS3pvZHhnOC02bVpjdGxYODZVUTZOcVhJZVN6aFh3VzNzU1RkSHlOMDFPRjdfZHF6MXFEd3pqOQ?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "How New 596 MW Wind Orders At Nordex (XTRA:NDX1) Have Changed Its Investment Story simplywall.st"
-    },
-    {
-      "Date": "2026-06-26 07:03",
-      "Article Name": "Nordex SE - Start Of Turbine Manufacturing In Romania's Pestera II Wind Project - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQakh2cF85MVdvSUgtaVdsQ29TaHBNbVJFcXQyTDBMV2dxa2pHSUJlS01Yek1Ob2hNMjZUQlRHSW5GZm1VX0FKVy10blRJUVBCRUZib0ZrQ282U1BVVERmaFhocDFnZDJ5Zkp2T3UtSkE2U1l0NXVHVFlRb3JLSk5ldHIxMElQVGxSemNnZUx2ZndqT2FmTFhDM21KbFFvUllyWGhSeDZfUFhiQVZzRjBveXl2UWJHUU41d2lDSGJoa2pYNy1sV0tocE1MbjZGdFUybV84ZEo1NExtbTNVaXlfbw?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Nordex SE - Start Of Turbine Manufacturing In Romania's Pestera II Wind Project TradingView"
-    },
-    {
-      "Date": "2026-06-26 07:03",
-      "Article Name": "Nordex order flow supports the week, shares in MDAX sector focus - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1ZYOERSckN4eW42azhvOTItX1ZibnJzY3JYSWo2UTdKMGZyaS1Yb3VBbnY0dXMzTHBkZFVZejl2Sm43aExNdW9Gb3YtN1FLc1praU5pdEdFbmhVbW9XT2NkMThpU1Z5ZjNETmxzendGS0toVUJNdFZSc3pRRC15UGFNdEFEcFRmOFlSOFRGQWlSdWdRaC1CSlRSNGlSSzlxM0RtQlJvdmVKR1BTR2d3Xzhlb1JBMk9FV3lXMXZ6WQ?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Nordex order flow supports the week, shares in MDAX sector focus Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-25 16:01",
-      "Article Name": "Nordex secures 484 MW in new US orders, shares firm on Xetra - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnRaaDRQS3BmQlluNDBxWWNLSGVhVzNkNDQ3ZjVwV04yN2JaTFpHWTNvc2dUWUhWcTJNQW85bUczb3Roa29XTzBPVDJPRkFuS2R4LVFibjhXdVJmY3Q2UDFuNjhrSDdfUDBLTng3UXRGT0ZnRDYyR2UzWlllc1djdDA5Y2E4dF9ZRG1iSkVMdHBnbDNvTFdEMGVkZmdsejNMdkNpQ1Zzd01qYU9JVmpTRVZQaU5iVXpyd0E?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "Nordex secures 484 MW in new US orders, shares firm on Xetra Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-26 03:42",
-      "Article Name": "Suzlon Wins 400 MW Wind Project from Tata Power in Andhra Pradesh - Daily Pioneer",
-      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckdPSGp5Y3pxR0RMVEpXZGp3QV9LVVJhckpTckwwZmRldDhoWmdFc2tCTkw2eng0c0wwV21QQzR3UWQ4bzQzSWNUZjQ2a3llVE5SNEpTQy03YlBiNHBCbnRYVVpPVk5jdGJoVmsyNkl6STRpMF9lOEs3eFZGYVNtLWZHSndYSlpKQW9odXRnaXJ2bnU0Y0tzeUVhUzFJeFF5OTJPQXU2VjRBUWNGSUg5V0FKcVV6M3c?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Suzlon Wins 400 MW Wind Project from Tata Power in Andhra Pradesh Daily Pioneer"
-    },
-    {
-      "Date": "2026-06-26 06:44",
-      "Article Name": "Suzlon Bags 400 MW Wind Power Order from Tata Power for Andhra Pradesh Project. - News on Projects",
-      "Article Source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXhGLWVkY0lFaVUxWWpaZFlhTWwzNXVBS3lDNG9relN2bUJDbUZZa29aSTZXZDVmbVoybEpPV2xLMjQ5bzctTVJWdGxmNy1WbWY3QkVwaWo4QVZ5NF9JZllKdE1TdjhHRVREbUlnY0lBbnozM3hxT1JHYmFOcEJFZGo3aXd3R0ZRZnhRS1B5dGFick1YOFlwQ2d0dnE2eE9JRlVKTTJnTWUzOFc4WFMzTW5ocTk?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Suzlon Bags 400 MW Wind Power Order from Tata Power for Andhra Pradesh Project. News on Projects"
-    },
-    {
-      "Date": "2026-06-26 07:08",
-      "Article Name": "Suzlon secures 400 MW wind EPC contract from TPREL - Indian Infrastructure Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1oxSXY2NkVoOUpmSkpzZUxXaklRbUZOT3NnczFGdGhtbW9pUzNkaDNVVmd5anlRdXluNVhPb2pXV2FsalBlcnlvLUlLbk5Ic1dMX0llVk9OX1AxTkh1SnpEU1Q0c0hLSUpHOFAxQWFqWFBlVnpjb1ZMY2oxTDZ0bENFdExnSFJvWGJid2IwYU1XM2w1eDdOc2Vxaw?oc=5",
+      "Date": "2026-06-26 15:49",
+      "Article Name": "RES Secures 130 MW Wind Farm Asset Management Contract in Mexico - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbC1KSnI3T1B5d3Vha29OYXV6OXlYVUE0SEVncXRONFVTRDVjNFRkbmk2SXY0RzVpaUsybjRuUmFkaFVQNGRCOHl2QU81WElwRHhRTzlzaUR1NnVId1pHeEJhRmMzcFdJdFRsMFlrR2N2dklWQkNvRWEzRTNpOG1hSHNnVVVWZXUxQWRPUkQwT3did2d4?oc=5",
       "Key Phrases": "MW, contract",
-      "Summary": "Suzlon secures 400 MW wind EPC contract from TPREL Indian Infrastructure Magazine"
+      "Summary": "RES Secures 130 MW Wind Farm Asset Management Contract in Mexico energynews.pro"
     },
     {
-      "Date": "2026-06-26 05:59",
-      "Article Name": "MNRE Amends Prototype Wind Turbine Guidelines, Allows Sale Of Power To DISCOMs - Saur Energy",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVhVRGxuck1RTFJ4Q3VPRm9Jb1RaRlE3UEg4MWJuTXd3ZGJ1VVJ1Q28wQTBndjJOdHd0QTFhcnd4dm9hWG16ZThnLWVRZUFNZVJtakw1bkluR1NEZ0xVanE3dHBvZFpKWERsYXpQTWxyVnZ2QmJUNXVsbGtITnVZWHhGNmFGcFM4TnE0NE1NVFNDbzBKUHI2RHEzb2ZfWGY3b1dEVndFVHBCM21UY3NmYlJQWnI5M1IyR0JVeEFnSnpObzlXaVhUT0NRWQ?oc=5",
-      "Key Phrases": "turbine, prototype",
-      "Summary": "MNRE Amends Prototype Wind Turbine Guidelines, Allows Sale Of Power To DISCOMs Saur Energy"
+      "Date": "2026-06-26 15:37",
+      "Article Name": "Equinor Scuttles Japanese Offshore Wind Plan - Marine News Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0EtaHdDWGdkOTFYbmVpQW0wZ0o2VDRYdGVILXh3QjFzcXdSbFhtWTFhaFNHTERyanVhWmFBMFNLaVZ4Y2VzYms4Zm05UjVxdllPbE5jV3UyRlpVNUdpeUh4QlBxMkFNZDd0SGRTczlmOU1OcGgwakp3a1B4Y2NGWHpHaUk?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Equinor Scuttles Japanese Offshore Wind Plan Marine News Magazine"
     },
     {
-      "Date": "2026-06-26 06:59",
-      "Article Name": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW EPC order - orissadiary.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOThTSFhGSzdYLWk1Ni1sTVNma0pjbzlQYUxRQ1hiWkZDQnVrZnJWdFFCSWZHUm1OYjNVXzUwRGR2REk0MXFUSFgwUmw0VTFrS0dMSXZWZklkYnhBVG1WR2VtTi1NYlJJNnlsRXlWOUJNV09pQzZKczV5elduVGNGbU1rWFUwd1kwUWZCUUxEalV0ZVJEZXhjWW85SGgxeXdneDI1RlloaVc?oc=5",
-      "Key Phrases": "order, MW, GW, partnership",
-      "Summary": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW EPC order orissadiary.com"
+      "Date": "2026-06-27 09:26",
+      "Article Name": "Ørsted strategy in focus, offshore wind stock under long term review - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG1OUFVDWjlmbGg2TXM3VUFrWFhoanJZZFNBcXVONW5WZERxWVBfZzM5UXdRQlQ5M0xhbVZBX1hHcUVjbGJMSVRDODd5NTByanBsS2xiWXNQV0t2WTNtTkZ1S1hQd1dRT3czM0dLRkR4VzBaMlJKbm10MUV1RDhDMEMtdnZ1WExoWVQ0RldrcFRhaFA4WWhUYVh0SnRMdmxsV05wZHoyZ3Zxb0xoajRwd1NtT2YyLWI2ZkNNOE5BaGZQcVdFWmc?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Ørsted strategy in focus, offshore wind stock under long term review Ad-hoc-news.de"
     },
     {
-      "Date": "2026-06-25 17:49",
-      "Article Name": "Suzlon wins 400 MW wind project from Tata Power | Tap to know more | Inshorts - Inshorts",
-      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2RnNm5nd1IxbmZUSUNVaEFtSXF5ODFXal9fUl9UVkxLN1pHS1lZVnRiWXVsa0hWbGdZZ0JHVmpnaTdoaFMzOGhzMVotNjd3S1pNdkxnNjN4U2NpU01kVXVvWUtoeF82UnRJT3RjWUJBUVpCeUd6RW02SWplZVlfVHBpanJWSFNTaHY3LVBIaWdVNDJ5WC1WMy1R0gGaAUFVX3lxTE9fZGc2bmd3UjFuZlRJQ1VoQW1JcXk4MVdqX19SX1RWTEs3WkdLWVlWdGJZdWxrSFZsZ1lnQkdWamdpN2hoUzM4aHMxWi02N3dLWk12TGc2M3hTY2lTTWRVdW9ZS2h4XzZSdElPdGNZQkFRWkJ5R3pFbTZJamVlWV9UcGlqclZIU1NodjctUEhpZ1U0MnlYLVYzLVE?oc=5",
+      "Date": "2026-06-26 17:52",
+      "Article Name": "What's Behind TotalEnergies' $1 Billion Offshore Wind Exit - Kavout | AI",
+      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGVZMkRVUkdzSUQ0dC03ZG94alRvVU5kbm4zQWRCTzRZcG1NdTllRnF3bEJPUzFDZUh3ZTR3SUEtNVN0VEcxb0xhNDFRUV9BQkxLbGc3a3ZCZ3lCeExiSWt6allwbGlEdTRJR2YzdHpkVkd6a1lwb0NZUjNpbER2bEhGUDFHNDIzZVNETVpDSUhOc25lRGc?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "What's Behind TotalEnergies' $1 Billion Offshore Wind Exit Kavout | AI"
+    },
+    {
+      "Date": "2026-06-26 15:34",
+      "Article Name": "Equinor Scuttles Japanese Offshore Wind Plan - Offshore Engineer Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHU3U3NNakhxd3J3SnRCR0lETVA0bElIcXFHLWg3SHVFTnRna05FUFNKR25CbEdtc1lpRnNxUGxSTnNRTE9WSkY3Y2YwRUpBUEVsWkQ0V3gxdFc4YXIxTWp1aHotR0wzYkJqQTVwVkcwWWRzNE11eEJtQWlPZG5JZXFuUVlqcHpGREVRYUdsTQ?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Equinor Scuttles Japanese Offshore Wind Plan Offshore Engineer Magazine"
+    },
+    {
+      "Date": "2026-06-26 15:45",
+      "Article Name": "Bavaria says federal wind-turbine awards leave it at a disadvantage - marketscreener.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUElBcjh1U2FtM3R4a3VWR29pWnZZaUlnSTJfV196WlZzTXNwV0lDV0VYYlN5UTBmTWI1SWc2R196ME1fcFd4aWtHQkZTelVJamVrZFNMd212c1JIdWFHWDJieU5SNC1zLVc1MV96SFd6Z3N6eU9VeXBQMndNaUtmblE3TE5KSXU4aVUtaDQwWlhvaU1YZTBfeUJwakhFX095bW9FOTZsVkU4R2FLVU1LaTdaOVk3Ul9NYUVJWg?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Bavaria says federal wind-turbine awards leave it at a disadvantage marketscreener.com"
+    },
+    {
+      "Date": "2026-06-27 07:53",
+      "Article Name": "East Anglia ONE from Iberdrola S.A. - 714 MW offshore wind in daily operation - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1JKVnNSckdha2xlLV9DMVc0cDdwTTVFZElmd1NKMFpLT0w1SVNuM1dtTGNZa004VG9iYmtOQTcyQWsxUzZYYUN4ZGE3OXFxYjEwQ2RxdDJjOFZKMkRURTFhOVZDVExtLVdVS1pHUDQ1aldIMnlXdF8xaDZLWFdSb2M2TWowdXZUTHdpOU9KNlRTcWtpQ1hGN2dUbHBzanlOQ3BfeUw2ZzBjNmthMFNiUHBQNGdWY09kQWhUak5jWVo?oc=5",
+      "Key Phrases": "MW, offshore",
+      "Summary": "East Anglia ONE from Iberdrola S.A. - 714 MW offshore wind in daily operation Ad-hoc-news.de"
+    },
+    {
+      "Date": "2026-06-26 15:49",
+      "Article Name": "Iberdrola inaugurates Fénix, its largest solar plant in Italy at 243 MW - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2ZkX3FXQUJXRUI2aFRiaWpaT01TWU9IdmNuX2ZWUF9oQURvemMxNkNjQlZkQWh5MmNXLWhwalp1QVlmaXJCdEROMmx5TC1GQmRfcEhFSTVDc0ZhLXctMUQ4dEdwZ1pLbmxNV2oxbG56N1lMSlNpczV2YnY4NkRzbzVuaXFQX1RabFpSSE5OMmZ0dURnNGdKTHZmNGw?oc=5",
       "Key Phrases": "MW",
-      "Summary": "Suzlon wins 400 MW wind project from Tata Power | Tap to know more | Inshorts Inshorts"
+      "Summary": "Iberdrola inaugurates Fénix, its largest solar plant in Italy at 243 MW energynews.pro"
     },
     {
-      "Date": "2026-06-25 20:44",
-      "Article Name": "Suzlon bags new order from Tata Power - BigInfo.in",
-      "Article Source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZkJwTmE2eDNIb0R0TUxUZkRTZG12eDRRaFJaeFIyTks3RGFUZ3EtbnFaVDhYVEhWcDNBS3FXRDkydEJWb1RwMjRTOXpwaFYxbl8yd3Z4cUp4TUtfZDNSS1hhNE1uWTdDQzBlcTF3?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Suzlon bags new order from Tata Power BigInfo.in"
-    },
-    {
-      "Date": "2026-06-25 20:46",
-      "Article Name": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW DevCo-led EPC order; check stock reaction - MSN",
-      "Article Source": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQY0s0YzBfWFd1MjN1dm5mWmJGZVRSMzVCbUZ0eGtVWElpbUE0RFVWaWduVk1tOWJFa3Y0OUdFenZNeThQODZXTERZT21pM3Q3SXptS2NFRElJMk42a1pKQWtKWDBRZmRSN01JV2FVdkxEQnFrWHhTQUF3TmNEMlYtcTlaUUZ2MlI4RXVFVUc1MEpCUnlaUnR5SVUtY2dWWW01cENsR1RXUUVEQUNwYjM3Sjd4aFpOSkt6Q3BBWW1lYktQUWRFOUFyaUZkd0hhOEVlS3EyY2FteHd2VEV0a2ZvbEdxTzVpRTF1dk5pakN0WldYaGl1ejFETHZCZmx3WDBUd1NZaVd3TUl3WVVlWGVtMWhCd0FSWHJjT3RlN2c3aVBtdDRieTNRd1EtYmJQSHMtT1hQajlSSElacUxveTJfTXUyS3cwMGZscmxZZVhET0FyMk1MWGp2blQ3Z3FBS2ZtZ3J4X0VsV3c4TGRqTFl0VUpjM2VMVUNDOWE0U1o1NF9hTzFZNjcteFl3TmY1dXJwbFFoLUo2X3JGREhZb0J0QkZVNnVMWnhGd1ppSER0clBpZw?oc=5",
-      "Key Phrases": "order, MW, GW, partnership",
-      "Summary": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW DevCo-led EPC order; check stock reaction MSN"
-    },
-    {
-      "Date": "2026-06-26 07:35",
-      "Article Name": "Ørsted offshore wind farm survey reveals centuries-old lead ingots - Splash247",
-      "Article Source": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xb3pfQUZSd1g2bDMwbnBCaEFXd0dZT0g3WHpmSkpMVmtSVmZRT0lsUDI0RzN5dG1JcDJ3anZ0aFQ2RG5mNlJtaU45SUY?oc=5",
+      "Date": "2026-06-26 17:30",
+      "Article Name": "Equinor Pulls Out of Japan's Offshore Wind Market - Crude Oil Prices Today | OilPrice.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3UyUmZPcUhWc0s5OGpWZ2dKOWJiNlUxNDlaMmFZMFZSMjY5Nm00ZEZfZElFdmQ5ajlRbGNoVS1zT25YT2p2eTl4WExZZlRfNkhQV0JHaEdwLWZJb3c5MFcyQXZMYkdCdWVBZE8yOGZXbm5RMlBhU243elh4RGtkTmZidkFwQ19NRnFlNlJqanpmUnBwd0VSTDFjZ2JuSFlQVDJhX2U1RdIBrAFBVV95cUxPc2gxVnh4Q202bWJuQmcySGhXd1pZaGNjaVp1eUkyeXh1OVZnd1pwZjB4T3dvZmxhdzYyTVhpdkFnOXNLb21UUHl0MkZGSmRfbUNrRGFyTlAzQ1prNUZVbUNvSjZreFNuZUVPX0tnZElfVEQyalNzR3ZPRHo1RHNXaE1MNk16UGFiX1V3ZUxxSW9EVklfRWRlU0Y2UkcwT2dzRjczMzlBYnJQV1FB?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Ørsted offshore wind farm survey reveals centuries-old lead ingots Splash247"
+      "Summary": "Equinor Pulls Out of Japan's Offshore Wind Market Crude Oil Prices Today | OilPrice.com"
     },
     {
-      "Date": "2026-06-26 12:57",
-      "Article Name": "Dajin completes monopile supply for Hornsea 3 offshore wind farm - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2steXdTdTJDX2Z0b09YcE0zRVBwRzBsV2VQemh1ZTB0azRKZ04waG91dzNmV2FsdFBwbndFbk1wVTdLZjUwV1VwZThkU1JmN1dnUnBJVkktZ011OHU2X1RkTElLR0trdEI3dzMzVE1hUGl5eXNIU2VNSmk3Tk5xOEltd0lEeXlid3pPaGhodVgydE4wM2lJdzBsTDlvcnltcEE3ejNpcHE?oc=5",
-      "Key Phrases": "offshore, supply",
-      "Summary": "Dajin completes monopile supply for Hornsea 3 offshore wind farm TGS 4C Offshore"
-    },
-    {
-      "Date": "2026-06-25 21:13",
-      "Article Name": "Britain's Crown Estate profits fall to £1.2 billion as offshore wind revenues drop - Reuters",
-      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlRDUzc2aGJDWHZabWxFc0ZMYWN5NWZfek1IeG56TGpBVnhqTTBjWDc3d21ZMzhIRmtudGhHTjI2OXh1bFhaeWZSUHlGeEZJNEZERElzWWxYdFFjSzJndjhnQXlvYU1ES2Y0TUZ0QTFYVWtWR1huc1lHQjdjajRWaUE3MTY5RDJYZ3JqTTBHcnl4RWlHelRJRzJIR243S0lrbUxMM1pNMmJ3UFktSDJmWW95MmxoZXpQa1BFRw?oc=5",
+      "Date": "2026-06-27 00:42",
+      "Article Name": "Equinor Discontinues Offshore Wind Operations in Japan, Shuts Tokyo Office by End of 2026 - News and Statistics - IndexBox",
+      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFE1VjN1TXE1NmxNTEZpakk1dUZSZUxtRTFtWExlVWhCZ1Z2SVZaN2VwUWY5eHJVSUhZeGZ4Z1U2Ulk2YzJ2LTNnOVJINU04dFRjc2QzRE9Bakgyb2VyRlJzclZzbkNQRHZPLXZnVEdsS0NnVGdUX0hrcjlHYzVYSzhYbnBSZ193VXZxM1d0WQ?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Britain's Crown Estate profits fall to £1.2 billion as offshore wind revenues drop Reuters"
+      "Summary": "Equinor Discontinues Offshore Wind Operations in Japan, Shuts Tokyo Office by End of 2026 - News and Statistics IndexBox"
     },
     {
-      "Date": "2026-06-26 06:51",
-      "Article Name": "Norway's Equinor ends plans for offshore wind in Japan - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOEJKVG5vbWpsUDRQRlJjN1M1Y0ZsckZBWjh0YXc5NUVpcEo0QkxCeDFFSjRJd0lJUVJPRVh0b3ZGQmtpcmYxYWZNME5CVWFhcjgxaFBYNmJDWlgydjk4R1ZpWERCTm54ZElfdV9mRkl0TzY0cjh6OG11S0QxN0owVlppbGp2QkRYaWhpQXFUQjdhV2p0R1l2aUUzQm5zN1k?oc=5",
+      "Date": "2026-06-26 17:56",
+      "Article Name": "Equinor Quits Japanese Offshore Wind Sector Amid Broader Rethink - Energy Intelligence",
+      "Article Source": "https://news.google.com/rss/articles/CBMickFVX3lxTE92V2FMamM4dGFFbUdMbC1BaEFTdHoyNWtPRll3a0dFSlBnTGhPWlNvYVVnbXVJdmNOMFJsQkZfS2VGLUN1a2FRR2pNOHBnckIzbmlLY0ZKVlRLREwxR1FGOS1jYXdHdzVNZmVTMkE1blBvUQ?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Norway's Equinor ends plans for offshore wind in Japan marketscreener.com"
+      "Summary": "Equinor Quits Japanese Offshore Wind Sector Amid Broader Rethink Energy Intelligence"
     },
     {
-      "Date": "2026-06-26 10:00",
-      "Article Name": "RWE opens new control centre for offshore wind farms in East Friesland - RWE",
-      "Article Source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEZ1bnZEaUY0aE9RM29qOHpsaVNmWVN5ZGRyS0tXd05qdDN6LTRtTktJVGlFRW52MlU0Uk03ck1BQ1FzMGFaZGdvcU1PVXZxOUU2TndlR2hFQkJCRzhseDZ1eS16bVdQeE5IOVp2QTFWcUVxVktKMFJ5N3FGQmR6TkMzb3J0Ym9FNlY0c2dKWFdLZFN6VDMtTHROb0tSVVhHcWE4cEFmSVJrM0h1RUxKWW5USWg4QmpYT21pd2lueGRvc0puTzZxZTU5MkpUQ3c?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "RWE opens new control centre for offshore wind farms in East Friesland RWE"
-    },
-    {
-      "Date": "2026-06-25 23:39",
-      "Article Name": "RWE offshore wind farms from RWE AG - hydrogen pilots turn turbines into power-to-x hubs - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdElvVTdob3AxZVhLb3ctUElaekkwbEVUMFdELUtKWlBzTlBuVWxZbUluOXhvS2JyaFdMR1Z1d1ZTREQtdWI2QkxJWDhYV1FSaTN1OTNweFBra1VTWk1oTmRVRHM2Y3psS1lHakRpd1pSZHlfSFNJeTRFUHh4UXpOV2liQnh4ZmhJejQ1SlZ2NzY4U2hhQmVOdl9MTFBPVVZ0Z0NBRFRVaHIyQUFSendZMHZzMS1TQzdtYmdTdzByblZVLVR2THYyRg?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "RWE offshore wind farms from RWE AG - hydrogen pilots turn turbines into power-to-x hubs Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-26 12:26",
-      "Article Name": "Equinor to exit offshore wind business in Japan - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTQwbnlyZ253UGxDYUtJSllYWE4zaDA2ZGEzRUEwaXVOMGhDNHc2UmUweC0xYVRBdXNFQzVHYWNRUUM4V2w2Y2xfeXgwQjR5OFN0Q1NFV0Qydnp6UmFENzc5TDhMRDV1bEhJX29Sc0Fla3daQThSNmdwaVZDNE8zc0dNTm9xSFlJdE5pSXRPSWpBajhtdUhMdw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor to exit offshore wind business in Japan TGS 4C Offshore"
-    },
-    {
-      "Date": "2026-06-26 12:56",
-      "Article Name": "Dajin completes monopile supply for Hornsea 3 offshore wind farm - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHNoX2FHZ2FWSllWUmJ5VkN4UWJmakFsOXdtT3h0cTczWmFWWVhQNzIyaFVOVWMtc2hsNzR0NUpCNjVJd05HTmdBYXVJUFg0S2ZlWUpfbXo0TGR1X3NzS2FxcWVKWm9UaVM4MWFCVUZ4RmtCVHZxY3B4QnZJc0w0clZBZFdneTd5cWduZXc0YzJUZ0lKcEYzWlZLaXpXMTdySUpaT0cxNnlNbGVIX01z?oc=5",
-      "Key Phrases": "offshore, supply",
-      "Summary": "Dajin completes monopile supply for Hornsea 3 offshore wind farm TGS 4C Offshore"
-    },
-    {
-      "Date": "2026-06-26 13:17",
-      "Article Name": "Uniper signs first offshore wind PPA with Skyborn's Gennaker project - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUI5V1E2SWxpeFhndFZYdVFrRzBkdGI2dWsxZlZ4WTBxSzJaX1g2M1dFMGZYYzlTdDNDaHVSTEhGQjRKMjdyZEdRSWFWcE9lbGJ0WG9CZkZjZUhHcVQ1akNTYi1uLWRpUS1OM2VNZTI0MVQ0OGc3UFhDRHd2b2kwUTl5QWRGRl8wUFFxd1NYZXBmNmhSLUpIY0RGOVZIbHFCRVVoZ1hOTmRrRFFlOW1CMkF3a2gtZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Uniper signs first offshore wind PPA with Skyborn's Gennaker project TGS 4C Offshore"
-    },
-    {
-      "Date": "2026-06-25 18:03",
-      "Article Name": "Virginia Beach renews offshore wind land option with Dominion - Virginia Business",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXR3bV9HenJDWnZkRDF0ZjJPZDVobF9URU04RS1GcnQycHViZXR1cFdON3ozS3NvQmdXMkdXUml1c3VEbFlfUldZa3BGekRid1NSR2RmY1N5ekhkd1lLYXZyaEg5QUlvTlpiQmJFUzd4QmpmelFEOHFmSzlQSnQ0SVMtR3FPc3RFeEtwTk5DX0FJRThZSEE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Virginia Beach renews offshore wind land option with Dominion Virginia Business"
-    },
-    {
-      "Date": "2026-06-26 10:03",
-      "Article Name": "Norway's Equinor ends plans for offshore wind in Japan - Reuters",
-      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMktISHBoR2E1N2otMl9MWnVQRnQ0Qms1bV9OSDRkc0NQMjZzXzkyYng2ZTVEMDlpYk1Hc2U5bTRuZ0luYXpsUElLTXg0OTRuUFU0VHFGMkhmMG1lVnpMRDY2SjA5QndzZm5yNENHdGl3cjB1bzZoWURkU2Y4ODBld3g1aklGb0d2QVBKaFIyN2FBN0Mx?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Norway's Equinor ends plans for offshore wind in Japan Reuters"
-    },
-    {
-      "Date": "2026-06-26 12:35",
-      "Article Name": "Equinor to exit offshore wind business in Japan - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3NIMktsb3doeExOM1AxNnoxbEpnN0d6c2FuZC0yWkJiMERIenBMVXFESEVtMGdPc3ZUUm5fOG83M3lwTGxZWURZTlVpWDNRNHJpNzg1VU05WmRNVENQSjdURkpHNXpXV25xUUtyMXlpS1JPRVVwcjlwNi1FV3hnbE0yZXdIaEExVV8tMmxxM3hzZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor to exit offshore wind business in Japan TGS 4C Offshore"
-    },
-    {
-      "Date": "2026-06-26 11:07",
-      "Article Name": "Equinor quits another offshore wind market - Wind Power Monthly",
-      "Article Source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnVyRHBqOWp1dHZRTmFpS2thdHVkUklwQmZ1TWZZWVp5cFdsWlNIZ0NlclhaS0xpMnNpVGYzY2pIaUNGT0pqaGFXLVlZb2VZNFVCdjREdDZJb09BSDVuSVY1RUswdjhreVVxTjBlYTg5TVM0RTFHeWdTTmlnVWVjNVFzcEtyVG9YOWxJ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor quits another offshore wind market Wind Power Monthly"
-    },
-    {
-      "Date": "2026-06-26 14:14",
-      "Article Name": "Equinor to end offshore wind activities in Japan - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcms1Q1NIU2Q5SVVUU2ctaUlWWXJLTVJvb3VCODhDTC11bTVVWnRGT3lMRFpONXZFVXBFYmVzbWxNcjVLcGliTW9NYjlGRW41UFNKaFl1MXFWMXlFRUhMekJ1elpWbTFTVmdFSkkwdmVPc2RGRVZOWmxFX25yWmJlUDB5aUZLMGhhSHAydjdSNUZFdw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor to end offshore wind activities in Japan Renewables Now"
-    },
-    {
-      "Date": "2026-06-26 10:17",
-      "Article Name": "No leases, high costs: Equinor walks away from Japan offshore wind market - Baird Maritime",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjVLeVBxNWtmdURfUDVxNi1Kbm42YnpHc0xRRjNvaXZoQW9KTHpuUlZ6Q1QtOXA4c0dtRVc2Y1p6SF9oRlExazRmOFNXWmExd19VYVNvMTNrbFJ1YzMyVGZFdTJwM1dfcUhsMFVNU1ZsUG9aSmttLXNyTHAzaW51bzIzN3ZhZmRGTDI5U1NhVlJqdDVCNHA5bEZ5YjVRZDNDRktRT0FtSUNFbmRKaXltS21nT19fdHFfOG9nRUdXWDhwVlZIc0VmVTNJVXZ2ME9xQ3VFSWpvNnYzZjA2LVHSAd4BQVVfeXFMT1o1S3lQcTVrZnVEX1A1cTYtSm5uNmJ6R3NMUUYzb2l2aEFvSkx6blJWekNULTlwOHNHbUVXNmNaekhfaEZRMWs0ZjhTV1phMXdfVWFTbzEza2xSdWMzMlRmRXUycDNXX3FIbDBVTVNWbFBvWkprbS1zckxwM2ludW8yMzd2YWZkRkwyOVNTYVZSanQ1QjRwOWxGeWI1UWQzQ0ZLUU9BbUlDRW5kSml5bUttZ09fX3RxXzhvZ0VHV1g4cFZWSHNFZlUzSVV2djBPcUN1RUlqbzZ2M2YwNi1R?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "No leases, high costs: Equinor walks away from Japan offshore wind market Baird Maritime"
-    },
-    {
-      "Date": "2026-06-26 11:06",
+      "Date": "2026-06-26 17:37",
       "Article Name": "Equinor (EQNR) Exits Offshore Wind Business in Japan, Closing To - GuruFocus",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0laOHZoWTJzX0l0UEcxVVpLS0hkaWNlLWpmakZoWml1NGZ0OGZETXExcjJnUU5aZFNpSnhoM01PT1BKMGk3aVRPQTJ4M1hrb0sxQ2dWLWFBUzdnUVJOUWZhczNpMWVRd2tsZ0ZlRU1zLWtlRnlBOFo5R0wtVHBVZHg4UGJ1bmtyN01vS3I1NjJ2RGNuWGNhSHV0SVEzTHNPLWhoUWxQVXpSd083Rlg2OThsLVRxRDNEY3c?oc=5",
+      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDZCUXFMbUFzU2lTek5yVTZvVXVQVVpnZk1zb2VoVTRTa0piOXpmU3JqaEFqcGs3N1VTb2tna2dvc2kyb0Uyc0VWUjE4dEFqTGdsOVdsbTIyYnc0LWhVRUh0WE9WNnBCZXlVNTY5dm16UXBYdXZpZGJoQl9wdkZGcnVUS3J3U2l3SjQ3VF9aUHBka2ZmYnJKM3lKVmhjQjlyTTNocmNMX0J1ak00c0l3dmt0Uy0xaWRnczVLNDBuTW9XTF9qVjNaS2Jn?oc=5",
       "Key Phrases": "offshore",
       "Summary": "Equinor (EQNR) Exits Offshore Wind Business in Japan, Closing To GuruFocus"
     },
     {
-      "Date": "2026-06-26 09:33",
-      "Article Name": "Equinor exits Japanese offshore wind and shuts Tokyo office - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkeXVhZ2N5TXNVSm55bklQRzVGVmUtZXpmWTR4V3k1MlVqYVVrZWtuNWQ3SGtmNFEtbURwMzBiTHFsUGVCb2ZvMGlnMkNLUUZ3VGVWYkRkMDB3UF8wVjlJeXl1Q21CZkJYazlvVUdFU1h0LVU1ZE9MZ0ZPY0dwXzg?oc=5",
+      "Date": "2026-06-26 15:15",
+      "Article Name": "Equinor Exits Japan Offshore Wind Market - ChemAnalyst",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcS1WOS1NMTJWRWxMNktpVG9aaW1yYTZVY1VkSkFzRTZSZEV4Z1BTRE1mMDhnWmprODhsVnVTdU0zVDRObS1Pcy0ydkQ1d09NNVgtZ1hEcm15b2NPaTBNM0FWdFRrRHprcEJBeU5PdlU1ODdybkJVLTVWOW5kaTdNTjNnTWllTkZ5MF8zMnUwZDlXcmhSNU9iMXIyQVFjb3BV?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Equinor exits Japanese offshore wind and shuts Tokyo office EnergyWatch"
+      "Summary": "Equinor Exits Japan Offshore Wind Market ChemAnalyst"
     },
     {
-      "Date": "2026-06-26 10:46",
-      "Article Name": "Equinor Scraps Offshore Wind Business In Japan - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHowTTllNzlqT0U0RHlWQy1UMkp5a0VoX0Vnck5ya2NTV0JnTFlQZ0llc1lLclVJbzRUZ21jeXprd3hRMlhFMVlhRGI5RTdiSzJfbDgtOHA2LXZfWUFuZDcwYnMwcFNQS19lMkNpMWtLQVpGZVMwdXJDOGpucWo3elJ4aGNFNlNIcVdqOQ?oc=5",
+      "Date": "2026-06-26 14:28",
+      "Article Name": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power - Yahoo! Finance Canada",
+      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmw4QVBwVmc5QlRVSkswLWxnQmROc2RjYWxHM0hPNmd0bVVZVklyUllrd0ZsdWRlaV9QMFAzM0ZEbTh1bGJrbkR0cXBxNnhYaDY0SUtaTjFRVGN3ekhTZkN6aDgzQ1FZN1ZpNkJNXzNac0NNNkhETUs2dGdiX2RBZDFVVDFOZw?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Equinor Scraps Offshore Wind Business In Japan reNEWS"
+      "Summary": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power Yahoo! Finance Canada"
     },
     {
-      "Date": "2026-06-26 13:32",
-      "Article Name": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power - Zacks Investment Research",
-      "Article Source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVp2TTZrSGRucEpKUlFSQlkxQUQ4NS1lVk44SWxqalZBVTlJbFJPY3piTzE2cXhHYVVtRzhKUzVvbnd1SGhJTFpaSTJSbF9DV0xEa0lFcDRDLW1LOWxvUUN1YmZhd0xDQzJsZURnQTZGV2oyQWFLRVBrRXR1aXZRUTVMbVNOZlRIcTgyb0lKTm9GeWRINjQwZTRBY1JJVWpKSmk2SXZuOXFiVkRKU3c?oc=5",
+      "Date": "2026-06-27 07:38",
+      "Article Name": "Equinor strategy leans into offshore wind, stock in energy transition focus - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa09KOFFtdE5jUDE5Ynk3dGlncnJIeG1LeGNzLUVnanVqS1VtNlZJUU14eWJUeVhRUFd3amEyX1BWNlAzZWRJTEh1X1lhV3lDQ0VRMjY0VnFNaGNId3E3SktLQ0NvY2pXTkRsQ2tnWmJ0UURUeDN2a3NKa2g5RlNWS3VJTWhoNmZvSUxOdHF2NldqQ1RwY2ttVFVPaVVVRERtU2tDUG5PRlNWaVVQUXhNcU1kaFM0S2JHZ0dHeDFyZjVGbVB1UkE?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power Zacks Investment Research"
-    },
-    {
-      "Date": "2026-06-26 08:14",
-      "Article Name": "Equinor to Close Offshore Wind Operations in Japan - Moomoo",
-      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjlBTkpBY1pRUkFoM0VSMjBNV013WkZ4MzROQzBNZEZlakd6TGNybk8yOEJtOXpYcklGbUdDT3Z6UEVMNm1lYTFqejFaTW1HRWtlNXZIY0VXaWd5bnRySEk4d01hWVBLNE5TWmVqR3pqNzhyNHZXTTlFVWhNMXNOY294UFdmV3VSdnVGOS1KMEtzcmI1dUhJ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor to Close Offshore Wind Operations in Japan Moomoo"
-    },
-    {
-      "Date": "2026-06-26 07:09",
-      "Article Name": "Equinor ends plans for offshore wind in Japan - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXFhNVVFeGdJRVExeVVfUEpMOFg0dXdEUzhBakJ5UkNJWWF2V1E0RjFuRXFoWVRpMVZXVWxudURBNEVIMkFtVGszdXpWTEY5VnNiZmE2RElXbVNTZzl6TzhmS1pwcW5YUFVOTEctNHQ2Zk9YZG5Xenkzdi1XaGNmS0U4TmU5NnJCX0tlN0FEM0NENVNwYzZFSXNGSnpya3N1TTFLblVuVFQ4UVZObzQ5OWFsMFRTQQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor ends plans for offshore wind in Japan TradingView"
-    },
-    {
-      "Date": "2026-06-26 08:12",
-      "Article Name": "Equinor winds down its offshore wind push in Japan, but the country remains an 'important market' - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0pLcXZhOVdiTEVFSXpteS1mV3hHZnV1Z0VsUHZYSVI3UG1GU056Y0EzX1NwN25RZ040MUU2emJkeEdIdTM5dmNTYlp6RE1PaUw2eksyQkZEWXQ2S0JyaWZwVDRlRERFZUlkYXk2c1VkMU9KTHVPX2ZnbGxXeG1aczBuMzlNaWRyNDJQVEhoNEJhaWEycFVnTXU2ZU1zUnBRSVBxUGxZZ0dDNVBzM1NjcEtRQUx5QkgydkV1M3NtMTBOWS03bEw1M0lkWTR2aHdOVjhTSWlrUFgxck1wSUxPRA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor winds down its offshore wind push in Japan, but the country remains an 'important market' marketscreener.com"
-    },
-    {
-      "Date": "2026-06-26 09:10",
-      "Article Name": "Equinor quits another offshore wind market after abandoning renewables target - Upstream Online",
-      "Article Source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUF9nNXpDQnNSWEpMRFphNmdQVmczeGtiZk4tLWZBSXdKZTRFWnp0T1U3QlE4OFkyUkk5M3publpteUQ2LW43VmZrUnJWM3o5Zmw3VldOcWR5X0t4a0h1b3pHNE9wMEk5b2o2cG1MaER3RVlLZWtYMlhUcU9zOXRxTnBwcVg3clVBeG1mbGVFYmNlcnlmXzhidkpPSXpOMVpTVHFUSWl2QU1hWGVrNGhmc3gwNGh4ZzlUOFZLVmhKNEx3ZjZRWlM1QVVuT0JSeGVOc21Cbw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor quits another offshore wind market after abandoning renewables target Upstream Online"
+      "Summary": "Equinor strategy leans into offshore wind, stock in energy transition focus Ad-hoc-news.de"
     }
   ]
 }
