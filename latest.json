@@ -1,166 +1,68 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "rows": [
     {
-      "Date": "2026-06-27 09:10",
-      "Article Name": "Vestas Announces 40 MW Order for Reken Hülsterholt Wind Project - Inspenet",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDU3V2xqSDFnWVNocnJETmNXbFBKSDJ4aFVzMmFnTzlKcFNCV1VFZDdta1o0dFgwaDlDbnRFdEIzLUlVTVZocENUQ2dIZ3o2dlllM0F3UzNBWllkVGFqSVcyQ3FER2Jqcm55bURVY0s5NHhSRDBXYnh1T0lhQmxfeVB2MjdCXzdteU5VZXktdmg3R2NSb3FfMQ?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Vestas Announces 40 MW Order for Reken Hülsterholt Wind Project Inspenet"
+      "Date": "2026-06-28 12:51",
+      "Article Name": "Vestas Wind strategy in onshore and offshore, shares on Copenhagen exchange - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNG5fdXNDeG9tdlpyeVdBaHI3SGhudzhFTnNjNHNfT1YxYkRJM3dKRWlnNVdfSGNtZ1V2bkhwUWVwLVAyVjZsWC1WTEg3dmhmVEVTbzY5V2czMGg4anN3QkZuZjlXUnZxdGYtUzRMVGt0and6RzZXN2E2NWs1OHkwekZRdGlyMnNmMU5YMnpORDNUenkyZ2hRLVhsdG1sS0NtREdYVEEtdmk0bFk0M1JIc1Q2YU85NnpUUnJzMHBOb1I2QQ?oc=5",
+      "Key Phrases": "offshore, onshore",
+      "Summary": "Vestas Wind strategy in onshore and offshore, shares on Copenhagen exchange Ad-hoc-news.de"
     },
     {
-      "Date": "2026-06-27 08:22",
-      "Article Name": "Vestas Wind outlines long-term turbine strategy, shares tracked against global wind peers - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzhCMU93d0RrVmI4bDN3MXFWemhpWUFLcEFJeGNPUWkwaGtyZ2NXVjVVa3NjX0hzTzV1dTh1VXZIQzA2M3RJdzg5X0Y4MnJYeTVTSzhiX1NSVnp2Slk0eW5BNC10N0ZvYkFWOUJTSWszYmNCRXF4cFV6OUdoM1dqeHJHU2RGUHlrMm1TdUVlQ0pPZFFTZWhGRmJqZmlmNG1jVFN5bkE1UVdjN1V2V3BtdFJPalZOY1FpWE8yWDl2MlJOdF9TQ3hkTg?oc=5",
+      "Date": "2026-06-28 12:40",
+      "Article Name": "The Hornsea 3 offshore wind farm from Ørsted Energie - 2.9 GW aiming for record-scale clean power - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWTZ1c0xxdXlrbkZ0Mmk5VUR0b2wxZjRyUUV6SmdSX2hnYWt0WUZTV1JsVUdCS3BWMGI2OTBCVmo2aV9iMWxYQzRxdEhQRlg5Q0NlMmxMdVkzdEhUVzJJZk0tRlEtbEJzZ0s2TV9WRzNtLXRmckVFcUFtWTJJdHdXNjZxbzBOT0xqSWVLYU9CVW1ZcGNlRTdXUEVoa0J6NzRyMVA2MV91SVoxcEhJc21tR1M1TVl1YjYxNUIxTmlRZm1Ld25NTEdSbi1B?oc=5",
+      "Key Phrases": "GW, offshore",
+      "Summary": "The Hornsea 3 offshore wind farm from Ørsted Energie - 2.9 GW aiming for record-scale clean power Ad-hoc-news.de"
+    },
+    {
+      "Date": "2026-06-28 01:42",
+      "Article Name": "First turbine installed at RWE’s Nordseecluster A offshore wind farm - TGS 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzMxZFVsXzNjQ01OX3dIU2RwVUlZVVpZOTZWMjBpWmtwTklBTjNKdVNxLUJuTmdTdVNmNGZ4TW9sSlpXNTNjSmhwcXVZcWlYR0hvek5xckpTMTlYNGxMMWJaQVplQVE1bmFUZTAtNDlRNmVIOUE2dUcxLWQxaFYwMkdjWFFUZXU2TWRBVWs0X0JlU294aDhXMzdFY2VmVnhtWnhNT3JQLUNkNFBCMmU4?oc=5",
+      "Key Phrases": "offshore, turbine",
+      "Summary": "First turbine installed at RWE’s Nordseecluster A offshore wind farm TGS 4C Offshore"
+    },
+    {
+      "Date": "2026-06-27 15:05",
+      "Article Name": "Hornsea 3 offshore wind farm from Ørsted A/ S - 2.9 GW project reshapes UK power mix - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2tWakoxMWJzVEotWjR0YXVXRW1Bb01qS1loWWdTMDdVZnNWN1ZMOFl6cGYxQUxGZU9YZ1R5ZG5aZFl5S2FqX3pUdjh1THRzQU9zR0Z2SEJVaWotZ2ZUOFFjVHF4bHFUeTFzMDBMV2VGZnpSdWF2M1AwRDBwQjZkR0MwX0xYbEtoRmVtTEVkTXFHLTBpcGFXMm42aFMtazdOTGM3UWw4dmJjN2thYUdGZVhxa1FZUkZySV9LeE1UdU8tcmk4QVZYLUkwWQ?oc=5",
+      "Key Phrases": "GW, offshore",
+      "Summary": "Hornsea 3 offshore wind farm from Ørsted A/ S - 2.9 GW project reshapes UK power mix Ad-hoc-news.de"
+    },
+    {
+      "Date": "2026-06-28 07:51",
+      "Article Name": "Nordex advances Romanian turbine project, shares in the European wind sector spotlight - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlAyLWxfY0tncDcyRElfRHd4cUVsMTRZRER0ZnVYN3pPbWRsVXVJRHZURVhDZlQ0a193QWswa28zSlRiZXpsUVp1TmtiSTg3bkRkanZLYVRteFNieGpSN2pNLWV1QTE5cG5xRFJNQWFKQVBLR1dOOGRPdUVySnU5WFBwSnF2bllpOHJTbUNDUm9PZlQzUVJ2SDVlSmJlOERwX05KVktQbi1DTGRONjB6b3NMcTNKSWxscnI0bUZmemhETWozeGc?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "Vestas Wind outlines long-term turbine strategy, shares tracked against global wind peers Ad-hoc-news.de"
+      "Summary": "Nordex advances Romanian turbine project, shares in the European wind sector spotlight Ad-hoc-news.de"
     },
     {
-      "Date": "2026-06-26 17:37",
-      "Article Name": "The Vestas V162-6.2 MW from Vestas Wind Systems A/S - quiet giant for onshore wind parks - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzdJU2plcVRObDRoZzZGY0d1VHBpazB3dGxNMzVKY0UxZGNTaGpPQThqNDhxRV9DY1ZxRzJ1ZVl6MzhQWDFTbzQxSDZ4YTUzVDh6eHNDcEN3S2tUVTlGM3pzZGxIbzVrLXV4eHE2VnRmendrbGxnZTJEb083UzJianh4UkNwVEFFNHNDZWJENWlYYjhKaWNxeC1wN0p6cjVKSGQ1Wm5odEhOcnV1ZkhjZGZQV3hrSF9LSW5zUUxXeTJZSFRY?oc=5",
-      "Key Phrases": "MW, onshore",
-      "Summary": "The Vestas V162-6.2 MW from Vestas Wind Systems A/S - quiet giant for onshore wind parks Ad-hoc-news.de"
+      "Date": "2026-06-28 02:24",
+      "Article Name": "Why GE Vernova (GEV) Is Down 5.8% After Joining Russell Top 50 And Securing US$2.4 Billion In AI Data Center Orders - simplywall.st",
+      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUhBSnZBZGViSzRub1ZuYUVCUmx2bGNDSGgzZzNwdVBpRFA3VVFNcG1TdEd6Vm5JcXo1YkdEblNQQXBJbE1YQVpycjRqbl9URTJsV2pPT29JNm1IdWZHVS05VXJPcTMxS2RWRlYzWk9pSnk1LUhlSWV5RExUUEhTd1V1aWNpV1ZXRndXXy1XdGI3Ni0wSENwYkN0bTRxamdaYVVweVdSdlZzMTJDb3RUaS1hLWFqZnNBNXNaQVd6a0xZTGI5WHVPa1RNd9IB0AFBVV95cUxNYUgwektzcW9kM2NWWnl2Y2xYOExzaEtFWGFaUG1SUXFCSS1LWmFDN2dDVDZMTzFmTXBUMzJxSlJzNEs3bWl3aU5ULUstTzlub24yc3p3SGFOZEt4OVNjWnBPUGw4ekFHZ1lzUjZ2b2JEQXZRR0d2OU5fX2pzUkFoUE02RTh5MzNUZC1NX0FwWm14OEJBMzNQTXgtaEVSclZYNU5obUV0bjJieFBVSm1kVlh4ZW9Tb3BFWHVoYWRGVXI3YWR5TDBxM0tMMDZNaDhY?oc=5",
+      "Key Phrases": "orders",
+      "Summary": "Why GE Vernova (GEV) Is Down 5.8% After Joining Russell Top 50 And Securing US$2.4 Billion In AI Data Center Orders simplywall.st"
     },
     {
-      "Date": "2026-06-27 06:43",
-      "Article Name": "United States Renewable Energy Market to Surpass 1,002 GW by 2033 as Solar, Wind, and Clean Energy Investments Accelerate - vocal.media",
-      "Article Source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazdzTlA1bVpuNWtHVWdYeWhpd014Ymx2a2hUaUpxUVJIQWw1SDhvVUp0RmJQYW4wenpURzEtaEVRazh2OWw0Y3pHdmwzczlnOVl3cGlmWFRSN3pYX01kMFNYVkdRNVpxbHNOM3pNb0xEeWZJNDI5eDN5QS1YQ19ULVg3anktZlktSlBFOHYtb1JfaDh3YjU2Q3hQdk5HU3lEYUVvbjBTTGxRaG1lR3U0RFZtVWIzNnoxQ2x1N2xoV1FncTdXRS05cldmb094cHpET3RCdjFLQWxtdw?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "United States Renewable Energy Market to Surpass 1,002 GW by 2033 as Solar, Wind, and Clean Energy Investments Accelerate vocal.media"
+      "Date": "2026-06-27 23:37",
+      "Article Name": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW DevCo-led EPC order; check stock reaction - MSN",
+      "Article Source": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQR1E4VEVFMEp6QlVGcDFnaHp5ZDMxcnZYaTV3dXBKbDF2Q292eFdJU0VYVEVGZVRvcHhLek9yb1hqQlA4SjFPcldoMmNmNTd6STlDMkQ1VHVVNHZ4TVp4MENIUWRJa2c1SUltVm1MeU9KVVU5aWZYX0lORF83WVBnU0F2X3ZJQU5VVGVUN09LcXFrSjB0Qm1zS2dXTTRMWXF0TUJESi1faXpLblBRQzh5MnBnNFRYTzZfb3NZdHVOR3NYZExnWnN5SDdGZUV6T044NG1fNzhMd19rNXRZaWJkanZ6REFMMmJsNDNkRUdGd2tkOGNCQ3FxejZXN1JRM1BTNEQ3UTdyTGoyNWtoUmdDcUFLeTJSdnA5aXpPOXRXWGFBN1ZoZFY5UUhQQ1ltMXRmOVRFWWlQTS1pcGJsV0lINVY5TE1KeFJVSWd3cXVHRHJrRW5NT2hEZGNUbWNtemc1bXV2ZEtJaEhrMlVDWjJDOHc2VjA3d05jcjZ3My1lQW9wOHVTSHJZMjlFamFMcERfc0ZOQTE3T1dkSUhTRE5UMk5iaFh2S0hQQko1c0ZRUkRlbE0?oc=5",
+      "Key Phrases": "order, MW, GW, partnership",
+      "Summary": "Suzlon crosses 1 GW partnership with Tata Power following a new 400 MW DevCo-led EPC order; check stock reaction MSN"
     },
     {
-      "Date": "2026-06-26 18:16",
-      "Article Name": "DTEK, GE Vernova Sign Agreement for 650-MW Ukraine Gas Power Plant - Pipeline and Gas Journal",
-      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONl9CeENhTWlQM1RmMExZQ0VtU29uSC11RGRWWkpPTEQ1cFBmRUtQT21IZWNYS0FPSXlMaFAzZkVTNE9SNDlRVi1SMkVxaHNJYmhVV0g2Q25LNnRvYlozZEZ6OHdxMnM3VF9JOWVMWkFONDFrUlFSZWhxZXlOMTBfOHlRSy0wZ0pTMnpFS2tmTm9XbjVzZ3B3RF81OFI5SVZtdGFVWg?oc=5",
+      "Date": "2026-06-28 05:58",
+      "Article Name": "What would a huge offshore wind farm mean for Norfolk? - BBC",
+      "Article Source": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jR0tMNEMydW1zcWlXV2lqUnZRVVJrcTdYN2M5LWZweTJJbDB4aERudEF0cEF5MUpJR0dPbTV0UkNYRV9mdU9IOUF4bDNkUUNmNjJRX0pjQS0?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "What would a huge offshore wind farm mean for Norfolk? BBC"
+    },
+    {
+      "Date": "2026-06-28 06:52",
+      "Article Name": "The RWE Mega Battery from RWE AG - 220 MW storage anchors the grid - Ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXZSb0NyS2VkR0xDWGVpUDljWVZvT0d3bl9tSjVKMWo5RlVpRmlrY3lxQy1qSFR6eXhKX2lNcm1QN0dNeEJ1U0VQbGM3aGl5MF9sNGdyTC10WGIwdVh5SUVhWkFwTDlHWVJEWDI2cUVYU2FJaE9NeHFYcWNoVFp0RlNOMzRXMVpIbUQ5YmZ1SUl5UXNab2xsLU5jcTdrSkNOR2EyZ3d0RE1rX0RzSkJiRHdWSnNvNlcyVjlNZU5Kc0E?oc=5",
       "Key Phrases": "MW",
-      "Summary": "DTEK, GE Vernova Sign Agreement for 650-MW Ukraine Gas Power Plant Pipeline and Gas Journal"
-    },
-    {
-      "Date": "2026-06-27 02:10",
-      "Article Name": "Haliade?X offshore wind turbine from GE Vernova Inc. - 14 MW machine pushes the energy transition - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0l6aFJiVnEwbjVBR3pJX0JvQ2ZFRlY1aFV2SlltZFBDWl8tdDNqNUd0cmxJdHU4NjlrUkNMS1FJUmZ4aVB2UFRQNEx2c2NfRTBVV2JWN0pUR1QtRG14dzdJQVlQMXRaUkhzLTR2b3FzQVBTcy1rMFl5THdsNnNSZDUxODl4N0czYnYycUhPTXM1Y2wyUzhSWFhUaTI2SnpYQ0JVSXFWWWJqSnN5QU9CTkxTd3dfcm1DSmZ3YnB0UDJQdw?oc=5",
-      "Key Phrases": "MW, offshore, turbine",
-      "Summary": "Haliade?X offshore wind turbine from GE Vernova Inc. - 14 MW machine pushes the energy transition Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-27 06:20",
-      "Article Name": "Envision, Juniper commission India’s largest wind turbine - Construction World",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSW43R2FhdnpRbk5RcGdrb2p4MVMtQmM4aV9DZTI5WHRRYWtrSXBzR0QwdnAzSVBIeTNDd0t5eFhBVk02TlBkdVh0NXZELWxHN0EyV0xpbHQwaHNVaHA0YWdQRDlabHRxUjc0d0NmZkhTS0dIN1NnMFA1Y0xwVktXSGZhU2hodnVFcGhCUmZFbkxrMHNPd19NMkNQdXJRbnZPSko4d2ZrZ3dEMTNwYmRfTmx5VFp2YWVqc1pJZlpfc1p4UGlYaTVGSFlnQ3Bwa3BybngzMVM4bWFyWER2aVBIcw?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Envision, Juniper commission India’s largest wind turbine Construction World"
-    },
-    {
-      "Date": "2026-06-27 07:06",
-      "Article Name": "Juniper Green Energy Deploys India’s Largest Wind Turbine with Envision Energy India - Chemical Industry Digest",
-      "Article Source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0piWTJCdWxQaVJRSW5UaE1yRWlSWHpTMVAtUlRDWkMweWtuSk4xeDV3ZlJXNmF0RlJtVzZnZ1A1VkFjT2dzeFZWdUtFOEJMTXlfOUxCT3Vlbm0xMm1DOVpZbWU4YjE5OGs3aXBnRjJGOUZKMER3VFdLSDRMeDIzVjBub3dmaDlGRWRvTGVyeHh1a05DYkZPXzZER1kzdWtvUDhfNmV3WEZFdWo2eHc?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Juniper Green Energy Deploys India’s Largest Wind Turbine with Envision Energy India Chemical Industry Digest"
-    },
-    {
-      "Date": "2026-06-26 15:49",
-      "Article Name": "RES Secures 130 MW Wind Farm Asset Management Contract in Mexico - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbC1KSnI3T1B5d3Vha29OYXV6OXlYVUE0SEVncXRONFVTRDVjNFRkbmk2SXY0RzVpaUsybjRuUmFkaFVQNGRCOHl2QU81WElwRHhRTzlzaUR1NnVId1pHeEJhRmMzcFdJdFRsMFlrR2N2dklWQkNvRWEzRTNpOG1hSHNnVVVWZXUxQWRPUkQwT3did2d4?oc=5",
-      "Key Phrases": "MW, contract",
-      "Summary": "RES Secures 130 MW Wind Farm Asset Management Contract in Mexico energynews.pro"
-    },
-    {
-      "Date": "2026-06-26 15:37",
-      "Article Name": "Equinor Scuttles Japanese Offshore Wind Plan - Marine News Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0EtaHdDWGdkOTFYbmVpQW0wZ0o2VDRYdGVILXh3QjFzcXdSbFhtWTFhaFNHTERyanVhWmFBMFNLaVZ4Y2VzYms4Zm05UjVxdllPbE5jV3UyRlpVNUdpeUh4QlBxMkFNZDd0SGRTczlmOU1OcGgwakp3a1B4Y2NGWHpHaUk?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Scuttles Japanese Offshore Wind Plan Marine News Magazine"
-    },
-    {
-      "Date": "2026-06-27 09:26",
-      "Article Name": "Ørsted strategy in focus, offshore wind stock under long term review - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG1OUFVDWjlmbGg2TXM3VUFrWFhoanJZZFNBcXVONW5WZERxWVBfZzM5UXdRQlQ5M0xhbVZBX1hHcUVjbGJMSVRDODd5NTByanBsS2xiWXNQV0t2WTNtTkZ1S1hQd1dRT3czM0dLRkR4VzBaMlJKbm10MUV1RDhDMEMtdnZ1WExoWVQ0RldrcFRhaFA4WWhUYVh0SnRMdmxsV05wZHoyZ3Zxb0xoajRwd1NtT2YyLWI2ZkNNOE5BaGZQcVdFWmc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Ørsted strategy in focus, offshore wind stock under long term review Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-26 17:52",
-      "Article Name": "What's Behind TotalEnergies' $1 Billion Offshore Wind Exit - Kavout | AI",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGVZMkRVUkdzSUQ0dC03ZG94alRvVU5kbm4zQWRCTzRZcG1NdTllRnF3bEJPUzFDZUh3ZTR3SUEtNVN0VEcxb0xhNDFRUV9BQkxLbGc3a3ZCZ3lCeExiSWt6allwbGlEdTRJR2YzdHpkVkd6a1lwb0NZUjNpbER2bEhGUDFHNDIzZVNETVpDSUhOc25lRGc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "What's Behind TotalEnergies' $1 Billion Offshore Wind Exit Kavout | AI"
-    },
-    {
-      "Date": "2026-06-26 15:34",
-      "Article Name": "Equinor Scuttles Japanese Offshore Wind Plan - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHU3U3NNakhxd3J3SnRCR0lETVA0bElIcXFHLWg3SHVFTnRna05FUFNKR25CbEdtc1lpRnNxUGxSTnNRTE9WSkY3Y2YwRUpBUEVsWkQ0V3gxdFc4YXIxTWp1aHotR0wzYkJqQTVwVkcwWWRzNE11eEJtQWlPZG5JZXFuUVlqcHpGREVRYUdsTQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Scuttles Japanese Offshore Wind Plan Offshore Engineer Magazine"
-    },
-    {
-      "Date": "2026-06-26 15:45",
-      "Article Name": "Bavaria says federal wind-turbine awards leave it at a disadvantage - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUElBcjh1U2FtM3R4a3VWR29pWnZZaUlnSTJfV196WlZzTXNwV0lDV0VYYlN5UTBmTWI1SWc2R196ME1fcFd4aWtHQkZTelVJamVrZFNMd212c1JIdWFHWDJieU5SNC1zLVc1MV96SFd6Z3N6eU9VeXBQMndNaUtmblE3TE5KSXU4aVUtaDQwWlhvaU1YZTBfeUJwakhFX095bW9FOTZsVkU4R2FLVU1LaTdaOVk3Ul9NYUVJWg?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Bavaria says federal wind-turbine awards leave it at a disadvantage marketscreener.com"
-    },
-    {
-      "Date": "2026-06-27 07:53",
-      "Article Name": "East Anglia ONE from Iberdrola S.A. - 714 MW offshore wind in daily operation - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1JKVnNSckdha2xlLV9DMVc0cDdwTTVFZElmd1NKMFpLT0w1SVNuM1dtTGNZa004VG9iYmtOQTcyQWsxUzZYYUN4ZGE3OXFxYjEwQ2RxdDJjOFZKMkRURTFhOVZDVExtLVdVS1pHUDQ1aldIMnlXdF8xaDZLWFdSb2M2TWowdXZUTHdpOU9KNlRTcWtpQ1hGN2dUbHBzanlOQ3BfeUw2ZzBjNmthMFNiUHBQNGdWY09kQWhUak5jWVo?oc=5",
-      "Key Phrases": "MW, offshore",
-      "Summary": "East Anglia ONE from Iberdrola S.A. - 714 MW offshore wind in daily operation Ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-06-26 15:49",
-      "Article Name": "Iberdrola inaugurates Fénix, its largest solar plant in Italy at 243 MW - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2ZkX3FXQUJXRUI2aFRiaWpaT01TWU9IdmNuX2ZWUF9oQURvemMxNkNjQlZkQWh5MmNXLWhwalp1QVlmaXJCdEROMmx5TC1GQmRfcEhFSTVDc0ZhLXctMUQ4dEdwZ1pLbmxNV2oxbG56N1lMSlNpczV2YnY4NkRzbzVuaXFQX1RabFpSSE5OMmZ0dURnNGdKTHZmNGw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Iberdrola inaugurates Fénix, its largest solar plant in Italy at 243 MW energynews.pro"
-    },
-    {
-      "Date": "2026-06-26 17:30",
-      "Article Name": "Equinor Pulls Out of Japan's Offshore Wind Market - Crude Oil Prices Today | OilPrice.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3UyUmZPcUhWc0s5OGpWZ2dKOWJiNlUxNDlaMmFZMFZSMjY5Nm00ZEZfZElFdmQ5ajlRbGNoVS1zT25YT2p2eTl4WExZZlRfNkhQV0JHaEdwLWZJb3c5MFcyQXZMYkdCdWVBZE8yOGZXbm5RMlBhU243elh4RGtkTmZidkFwQ19NRnFlNlJqanpmUnBwd0VSTDFjZ2JuSFlQVDJhX2U1RdIBrAFBVV95cUxPc2gxVnh4Q202bWJuQmcySGhXd1pZaGNjaVp1eUkyeXh1OVZnd1pwZjB4T3dvZmxhdzYyTVhpdkFnOXNLb21UUHl0MkZGSmRfbUNrRGFyTlAzQ1prNUZVbUNvSjZreFNuZUVPX0tnZElfVEQyalNzR3ZPRHo1RHNXaE1MNk16UGFiX1V3ZUxxSW9EVklfRWRlU0Y2UkcwT2dzRjczMzlBYnJQV1FB?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Pulls Out of Japan's Offshore Wind Market Crude Oil Prices Today | OilPrice.com"
-    },
-    {
-      "Date": "2026-06-27 00:42",
-      "Article Name": "Equinor Discontinues Offshore Wind Operations in Japan, Shuts Tokyo Office by End of 2026 - News and Statistics - IndexBox",
-      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFE1VjN1TXE1NmxNTEZpakk1dUZSZUxtRTFtWExlVWhCZ1Z2SVZaN2VwUWY5eHJVSUhZeGZ4Z1U2Ulk2YzJ2LTNnOVJINU04dFRjc2QzRE9Bakgyb2VyRlJzclZzbkNQRHZPLXZnVEdsS0NnVGdUX0hrcjlHYzVYSzhYbnBSZ193VXZxM1d0WQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Discontinues Offshore Wind Operations in Japan, Shuts Tokyo Office by End of 2026 - News and Statistics IndexBox"
-    },
-    {
-      "Date": "2026-06-26 17:56",
-      "Article Name": "Equinor Quits Japanese Offshore Wind Sector Amid Broader Rethink - Energy Intelligence",
-      "Article Source": "https://news.google.com/rss/articles/CBMickFVX3lxTE92V2FMamM4dGFFbUdMbC1BaEFTdHoyNWtPRll3a0dFSlBnTGhPWlNvYVVnbXVJdmNOMFJsQkZfS2VGLUN1a2FRR2pNOHBnckIzbmlLY0ZKVlRLREwxR1FGOS1jYXdHdzVNZmVTMkE1blBvUQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Quits Japanese Offshore Wind Sector Amid Broader Rethink Energy Intelligence"
-    },
-    {
-      "Date": "2026-06-26 17:37",
-      "Article Name": "Equinor (EQNR) Exits Offshore Wind Business in Japan, Closing To - GuruFocus",
-      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDZCUXFMbUFzU2lTek5yVTZvVXVQVVpnZk1zb2VoVTRTa0piOXpmU3JqaEFqcGs3N1VTb2tna2dvc2kyb0Uyc0VWUjE4dEFqTGdsOVdsbTIyYnc0LWhVRUh0WE9WNnBCZXlVNTY5dm16UXBYdXZpZGJoQl9wdkZGcnVUS3J3U2l3SjQ3VF9aUHBka2ZmYnJKM3lKVmhjQjlyTTNocmNMX0J1ak00c0l3dmt0Uy0xaWRnczVLNDBuTW9XTF9qVjNaS2Jn?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor (EQNR) Exits Offshore Wind Business in Japan, Closing To GuruFocus"
-    },
-    {
-      "Date": "2026-06-26 15:15",
-      "Article Name": "Equinor Exits Japan Offshore Wind Market - ChemAnalyst",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcS1WOS1NMTJWRWxMNktpVG9aaW1yYTZVY1VkSkFzRTZSZEV4Z1BTRE1mMDhnWmprODhsVnVTdU0zVDRObS1Pcy0ydkQ1d09NNVgtZ1hEcm15b2NPaTBNM0FWdFRrRHprcEJBeU5PdlU1ODdybkJVLTVWOW5kaTdNTjNnTWllTkZ5MF8zMnUwZDlXcmhSNU9iMXIyQVFjb3BV?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor Exits Japan Offshore Wind Market ChemAnalyst"
-    },
-    {
-      "Date": "2026-06-26 14:28",
-      "Article Name": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power - Yahoo! Finance Canada",
-      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmw4QVBwVmc5QlRVSkswLWxnQmROc2RjYWxHM0hPNmd0bVVZVklyUllrd0ZsdWRlaV9QMFAzM0ZEbTh1bGJrbkR0cXBxNnhYaDY0SUtaTjFRVGN3ekhTZkN6aDgzQ1FZN1ZpNkJNXzNac0NNNkhETUs2dGdiX2RBZDFVVDFOZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "EQNR Exits Japan Offshore Wind Business, Prioritizes Integrated Power Yahoo! Finance Canada"
-    },
-    {
-      "Date": "2026-06-27 07:38",
-      "Article Name": "Equinor strategy leans into offshore wind, stock in energy transition focus - Ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa09KOFFtdE5jUDE5Ynk3dGlncnJIeG1LeGNzLUVnanVqS1VtNlZJUU14eWJUeVhRUFd3amEyX1BWNlAzZWRJTEh1X1lhV3lDQ0VRMjY0VnFNaGNId3E3SktLQ0NvY2pXTkRsQ2tnWmJ0UURUeDN2a3NKa2g5RlNWS3VJTWhoNmZvSUxOdHF2NldqQ1RwY2ttVFVPaVVVRERtU2tDUG5PRlNWaVVQUXhNcU1kaFM0S2JHZ0dHeDFyZjVGbVB1UkE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor strategy leans into offshore wind, stock in energy transition focus Ad-hoc-news.de"
+      "Summary": "The RWE Mega Battery from RWE AG - 220 MW storage anchors the grid Ad-hoc-news.de"
     }
   ]
 }
