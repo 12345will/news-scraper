@@ -1,180 +1,75 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "rows": [
     {
-      "Date": "2026-07-31 08:19",
-      "Article Name": "New CCO at CIP onshore wind business bought from Orsted - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3B5dGRfM0otNDlsRlY0emhmMVlBU2ZNMWNKS1pSNnF3UHpqWUFLbkczc0NQVEpkeFdkbTc3ZV9xdkYtbEtySm9uWlltdHZWZldwQmlpTjVFUFhtQnYzaE9rN3lCQXRZd2JWQjVsLXpDYVQxMWxtZTZld2I0NVUtbnJXX2loRTVYLVBJU3VjWEs5WFhQcE44R01wSmx3NWo5dzFubUFB?oc=5",
-      "Key Phrases": "onshore",
-      "Summary": "New CCO at CIP onshore wind business bought from Orsted Recharge News"
-    },
-    {
-      "Date": "2026-07-31 10:31",
-      "Article Name": "Floating Wind Turbine that Will Power UK Gas Platform Ready for Tow to Offshore Site - offshoreWIND.biz",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3hKNElQTDB3bTItbG1NNE84U2RpTW9qamoyNWdTckw2ODh6MlZJTTNieXpwT3VLMmtkOHFjLVJXVHAyWWxleFhxYlVMTlRZQnVlUEdHMlZreXVQYjM3S3N2Zkt5S0ZyWlhXallzbGFlZ2V1cVRySHpCOVdrMnpteGtXRElUdjFlcmc1TjE2WlFGRXBXUkV0QTdGZnN6d3pYMzJlcWxZSVQyV3VLSnVwZDVHM0hONnRfdEFXT3R0Mm0zaVU?oc=5",
-      "Key Phrases": "offshore, floating, turbine",
-      "Summary": "Floating Wind Turbine that Will Power UK Gas Platform Ready for Tow to Offshore Site offshoreWIND.biz"
-    },
-    {
-      "Date": "2026-07-31 14:04",
-      "Article Name": "Powerica Signs PPA With GUVNL For 100 MW Wind Project At ₹3.44 Per KWh - Sahi",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0JGQjRsQnVDRWFnYjZnRWEtR1pDY2pFS3ZNVnlVT3ZTUDUzbE8ySU5iRmxIdzFZU2M5WDRpYXBfYi1MLWI1clN4eEpYSXZuRjdSbm95UElvdjN2eTVKcXU4X2VUSjg1eHVSUGZpUmxqQTRZSDE3eU9UelZSaUpocUZzNFVHV1BPX01TWTMwdWVtaWVGM0tlTzNHenhUcWRwWWxjNFZjbmROSTVm?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Powerica Signs PPA With GUVNL For 100 MW Wind Project At ₹3.44 Per KWh Sahi"
-    },
-    {
-      "Date": "2026-07-31 01:18",
-      "Article Name": "Two Years After Vineyard Wind Blade Failure, Government Investigation Still Not Completed - Nantucket Current",
-      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS3NFWjIxQ3lnaWlYbklmb2VObmlCREhEOEpWcTJyQ2kwQTJTSG5yWV9rYWd6eDVZZkVhbWd5MkJ1YkZqMUJ1NlI0YXlxaTg0cFc4MVREdm1IV21ZQ3lManFXSzlyUHE0ZUl3dnUxcFBHeDB6NW80NFlTZVcwb1NIMDBIajBIdy0tYVowMFF6VnpFWDFZSlZETnY0aGZCSGswMW1xOWdwa3NhSWlUZnRhWjIzQXQ3U1BnTVBkeGh6VQ?oc=5",
-      "Key Phrases": "blade",
-      "Summary": "Two Years After Vineyard Wind Blade Failure, Government Investigation Still Not Completed Nantucket Current"
-    },
-    {
-      "Date": "2026-07-31 12:42",
-      "Article Name": "SK Oceanplant to Build Jacket Foundation for BalWin5 Offshore Converter Platform - offshorewind.biz",
-      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3RWS2FWekdiTWp6d1U1aWcxam9hMmc3WGw2dzJ5ZzVIcnZDVFVlbDN0RmdmUjBoaTIxRmE1WEcxeERLWWFJbjREYl9VMjc0VkRZYzB5MHNJN0h1SXBMSENxREozaENDTkJ4SGNFaldDRlRlME0tUWc3R3ZGdzFsckZlTDJsaXB1Q3QxZlVoa1l1YjgzZFRKRkQtVTNMTThHNkFweURUSklNQ3FTNmJaRkJoV09MUncxNDkzSUJR?oc=5",
+      "Date": "2026-08-01 02:07",
+      "Article Name": "Largest US offshore wind array reaches 450MW as completion pushed into 2027 - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXA3UHVpS3dZUGhPZU1va250clZHMkNORDlZNHowSGdzVmM5X042TnhNUF81VmVBQkF1NWJzRmx3LUpUZ1VIT1dDVEdaejd2OUhOaUh6X2pmNlRwcVlCZDJYVEVHc0dnUVpBdzE4VGcyVHJGS1hJY1VPeU1rV0VPOERVektlVGJ0VEpXOUl2dGtIYmtWX0hkaGZiLXpscG43NWJRQU80MDJrTF9CZURvVWtpanR0eFZZVGxYQVJBTnc?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "SK Oceanplant to Build Jacket Foundation for BalWin5 Offshore Converter Platform offshorewind.biz"
+      "Summary": "Largest US offshore wind array reaches 450MW as completion pushed into 2027 Recharge News"
     },
     {
-      "Date": "2026-07-30 16:09",
-      "Article Name": "China Reinforces Its Global Wind Power Dominance with Mega Orders and Cutting-Edge Technology - elciudadano.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHZ5RDJIempGYVJkQmVub1pmZ3kyZ2VFYTFwUnJ0RkRDanRsbDBpUDlPamZ3d2xGN2RQaExZZmJ1SjZHZm40ek9JSWd1aHRiU0xVTEg2ajBXUTZXRFFkVFMta1RwVUQyX2t4Q0QwQ2VfTm9VOU5SUnJ1aFA2QUMxUDExS1JuTDR6bEdQWU9ZcDl4M0MzUGN3elBQU3JsNzlUeWZJTGZyNWowOE9iSzhpVl9QSFVsaUFKRnRMWXljZDVLTjBQTzIyWVBTMA?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "China Reinforces Its Global Wind Power Dominance with Mega Orders and Cutting-Edge Technology elciudadano.com"
+      "Date": "2026-07-31 15:15",
+      "Article Name": "SK Oceanplant secures $110m BalWin5 jacket contract - 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzRhM3Zpc3pIblhDelJxRlNpUHVSTEJKb0EybnVGY0FxUWc4UWpMZmxHVVBXeWR6UnZxNkM5TTc1V1YyZ2dmaTNzZHpWb05IOVNDRGNEV0Nycy1wRWFjYUllVE9rMW03MDY1dWcyM1hWdnc2NTc5OUpvME1FUjY4TzZ0VzhnZHItbEpqNnNNcGVMcEV5TTAyMw?oc=5",
+      "Key Phrases": "offshore, contract",
+      "Summary": "SK Oceanplant secures $110m BalWin5 jacket contract 4C Offshore"
     },
     {
-      "Date": "2026-07-31 10:09",
-      "Article Name": "The five key steps to unlocking Mediterranean offshore wind - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmhZZVg4LXJZUGc2VlRvSVlMRFdpVHdQRElKNl9YS1JCU0EtbjMyZnozX2ZXUHBaWUEwejhkODljcWFudGREb0pIbFlDOTNpQV85LVNoVDlPdTViMHdFZ3VzZnp5QjI2dHl4MzFRTnBwRmVLdDVNcjZCbWwtbnhrMXVPQjRzQ3QwVE1qQWZaQXpHMGRleUFlYW5rQVZQeGVxdDNCbWl1SEpSbjM1?oc=5",
+      "Date": "2026-07-31 16:44",
+      "Article Name": "Tata Power Renewables breaks ground on 800 MW renewables project in India - energyglobal.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmd6NFlmTVZIallHZ2VrcTVNYWVvWGtqbUs3TDY4Si1HLVBRVGRRSnBGdl85WVZBMzJ2VTVINDZtOFBoOWdqUWVMb3BxNG9XUElIVWh3cWM5OTBaSWlUZjRhT1B3cC1zSEFSUmpSaFgyMV9LSkNaYXN3U1Rtb25BOWk0WXJVU0NSQWpSY3NQVjB2MWRwbkpYSFU5cmtIQ2NiOUdKUkFBa29VWkxuNmJzZzc3Q0Nxd0FCcnJpS0Ftbw?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Tata Power Renewables breaks ground on 800 MW renewables project in India energyglobal.com"
+    },
+    {
+      "Date": "2026-07-31 16:09",
+      "Article Name": "Tata Power gains as its arm breaks ground on 800 MW renewable energy project - Investment Guru",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeS1md3U3UFRNTldDZWJwdXdCdEVnV2NRZGlPQ3RJVXBEQnJ6Ty1reUxMazAtMTdIY2JRYm5fb1IyRFFKamR3Sk1BSVNZNlpvNDVMNEY1Snoxd1dTOEFxYVFJaWFyWlh2V2tTT1lQNl8yaHNxOWdXb1VEbElySWZXWVdkUGF1Rm03NC0zbGNXS1FrM0hwTHc2OVpXY1pZUjU4Vi1FekVGZGdxU1czYVpkMjZDaEZGTllUczYtLWdkVEhtOHM?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Tata Power gains as its arm breaks ground on 800 MW renewable energy project Investment Guru"
+    },
+    {
+      "Date": "2026-07-31 21:27",
+      "Article Name": "Eversource reports another big financial hit from its foray into offshore wind - The Boston Globe",
+      "Article Source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUlJb0NyYkkxMzVPMVVEbVctN0k4Zml3aS1kX3BLY21VMDJOM1kzeUtsekU5Z3M2QmI2OXo3d3NCWE81bVJMMjJ6QVQtbTNGV2F0SUhlRUowSmstNjc0LUxJaGRJNS13bGhYdkt1ZDU0VktFTlFuRTFuMFY1R2R0NUt6ekVWYmZEVkJPYnNlMU9lbWJaU0tqRXc1ZzRoejNBVXlZSlgwbjhvdVJvTEQwY3ByR1U?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "The five key steps to unlocking Mediterranean offshore wind Recharge News"
+      "Summary": "Eversource reports another big financial hit from its foray into offshore wind The Boston Globe"
     },
     {
-      "Date": "2026-07-30 15:43",
-      "Article Name": "Trump solar attack revives New York offshore wind-gas pipeline battle - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjRVd3hhLXcyN0lKXzV2T3Q1aXJXNkt2cXFYc3piaUJ4RDkwYktuN1ZPX01kM21QZVluTW9LOWR2MTlsSWJTQnVoVU43dGZKeHY4OXFhMHlRWWhURzNQaEVCMWhUWUIxdlVldWtNR3ZpRk0zQjdhS3B2NnZhU2RPblZDZFp2Q2ZnTU1IR0szZERFczAxcnpZbnVsQjlaeGpnMnhNWkljeU1lZ2pfQVBxN1NMd1FtaWlj?oc=5",
+      "Date": "2026-07-31 17:28",
+      "Article Name": "Eversource takes $164M hit from offshore wind project it no longer owns - The Business Journals",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1pHZU4tc25MaGhVZTJTUE9kR0kwRml3eHZJNGxnNkZNMGpXWndtdDdrWC1CRGgyMm4tMHd4VUE5dGRQVVNCb1pyUGw1OHQ1T1hmT0dBT1FZZ1R4NzYwcmhSNnNza3c2TVN3TDkwOG1GSThQZG50U0pxSEJkdnpYZExzSEVjdGV5UE5ncVkwSjF0d25TNWtBTWtLSlZfcjl4VlN5Zy1nM0dycTg?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Trump solar attack revives New York offshore wind-gas pipeline battle Recharge News"
+      "Summary": "Eversource takes $164M hit from offshore wind project it no longer owns The Business Journals"
     },
     {
-      "Date": "2026-07-30 15:43",
-      "Article Name": "Enercon, CPC Germania break ground on 105-MW wind farm - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjhnam1hMm1KbjlBazVZV0k2VDNxaE5HWC1mTHhydGRiZGxQbDEtQjJRS0l4bVFZZ3ZOa0RtazZ2M3V2d25qYnpaclBURXpYdW1TakNGUXhMLTJVTDZFZ2Q0SzA5VnVhcmZvYUEzT2p1VGhTU3UzOVRtaTV4dzNYUS1EbThTS0p5dHl6dWdrUlBpc0lVNHkzTA?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Enercon, CPC Germania break ground on 105-MW wind farm Renewables Now"
-    },
-    {
-      "Date": "2026-07-31 09:43",
-      "Article Name": "Qualitas Energy starts construction of 42 MW Ingstetten wind farm in Germany - renewable-energy-industry.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOenA5LWVEOWtQVEYyUzNBUG1SRlRuMVREOC1yd3F6TTF1dVZsdTlnRVZzT3VlOXM3ZFN5OEZMdVRlTUZhZWkxRnN5SnN1OHlwRkhYRGY0akEtV09SMC1UQXFnOU9sU0xHMzV5RUpmak1VbGdUTjJzNlY4aHNCSXg2eWNRSE9oUllSeF90Rks0clFkWTd4R1dFMjVFLUpuRW9jVktKcDc5VERQWEJaUEp5UExnTHAzQzU5ejlQdHpuOTZzWWtVTDNqR3FFQU05UVM1ckVwYlRFa1RZV0hnRzIw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Qualitas Energy starts construction of 42 MW Ingstetten wind farm in Germany renewable-energy-industry.com"
-    },
-    {
-      "Date": "2026-07-31 09:47",
-      "Article Name": "Qualitas starts Ingstetten repowering - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5scDRqMDJXanZIeVNPZkNUOTZzQUE1c01NOW9oVnA2Nk05cHdKQ1hZWG9NbzNCMHRMNFNSVFVoQk5YREZ2UlJkZzlZOGNqVTdDSV9idV9hLTMwVGlENVF2OFBLNXMtcjdJNzB3VXRmc2lTTjBxMTVTSU5McUFGNlE?oc=5",
-      "Key Phrases": "repowering",
-      "Summary": "Qualitas starts Ingstetten repowering reNEWS"
-    },
-    {
-      "Date": "2026-07-31 13:36",
-      "Article Name": "Qualitas starts 42-MW wind repowering project in Germany - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdW11NUlZalp6Y1dmbDJDMGVNX29SVk1OejJkM2hhY1Fzckh3Y2Y2cFZhVE5PeHRwOXhiOEFBNm5xOU1VY0tudUxtX2tBS0cxbHkta2JidV9nZ254OURNa1JyOWpMY1FJc3hTOTdMb2JKUzVjTUNFRDlXeGIyaDdSdWI3eGFqTGF5eWxsQXdyd2pzMHB1bTFMcXY2MDE?oc=5",
-      "Key Phrases": "MW, repowering",
-      "Summary": "Qualitas starts 42-MW wind repowering project in Germany Renewables Now"
-    },
-    {
-      "Date": "2026-07-31 08:11",
-      "Article Name": "TPREL Starts 800 MW Renewable Energy Project in Andhra Pradesh - Electronics For You BUSINESS",
-      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd19hQ2g0aFhHTG9WdjFGZEo0Tk5iS2Y4ek1id2loRzk3MVhRSG9VZlRJSmFjM0VZdk1xdGFEa3Q4TV9kQW9RQTh2UjBlOHVha1JTYlZQOGxGX0lyVkZfTk5aRjh6bEZ5ZV84UGVDbE1QUzZPWFQ3LWFUbEVDNEdSTjhacGtoNFNyVkpQVU9LTHFUNnlDSzVYVlBiWTExSENXNjNKX3BCc0I2UjFvMXBRSg?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "TPREL Starts 800 MW Renewable Energy Project in Andhra Pradesh Electronics For You BUSINESS"
-    },
-    {
-      "Date": "2026-07-31 08:24",
-      "Article Name": "TPREL advances 800 MW solar-wind project in Andhra Pradesh - Solarbytes",
-      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenZqbzQ5OXNmWldjX3JXc2xNTy1JY3VSSm5tRVdqdTlCdG90eXUxcUtTTEo5d1dHeU1ieVYwNUp4Uks3YVJ4RnRZVEk0LXZRSldldExJQTIteUh5em95S01UUi1Vd1UtQWpOcDNpNU1fejNPekM0SFFvSWt3VUZVOVFxd2VNdnZFNWtiRnNJX2wxMURKbWhIelhaZGhmdlZiRWVqTg?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "TPREL advances 800 MW solar-wind project in Andhra Pradesh Solarbytes"
-    },
-    {
-      "Date": "2026-07-31 04:12",
-      "Article Name": "Tata Power turns sod on 800-MW wind-solar project in Andhra Pradesh - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHdzb0xrNGxGLUVGVWxDdUh3VHJ1VzZwZERYSFJyQTI5V0c5RDE0Ry1RVjZNZTFNVXViTkhFS3YtSUFTVWVUaE5mTmhMRTBZYmx4eDNKX1RJMGFYZ3VKeGgyQkkyZkM4dlJuSjhLSkRMY3VMNWRtUUlPc1NtZGZDOG1RZ2xOdHd5WHVkVW43aHNWcUZQR3JUM0xXcDJtTUYxRmxYanZ3eEJuOW8?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Tata Power turns sod on 800-MW wind-solar project in Andhra Pradesh Renewables Now"
-    },
-    {
-      "Date": "2026-07-31 10:18",
-      "Article Name": "Tata Power Renewables breaks ground on 800 MW renewable energy project in Andhra Pradesh - pv magazine India",
-      "Article Source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFZDaDZXUTRiVW9JWVNXdEx1dm1HZHhQRTU5b3JFVXc0OFBDU29KUFNpSlZIamFPT3pRQ3BXSHF0ZGdpcWlVcjI4d1JkQVYzRzdJLUMwVWhQTmJ2cThrQmJpaVlkLW0tTjd4TEQyZGsySnhYb0ZhY2NncjJHdVJtcEZ6ODJVcl9SZVpQSGdEVm43eWlZQXdPVVNaREEyZG1QMzZsY2t1N3c1VjlaU1dmdmd4MW9JNnhRNElodVprbUdoN180c0oxVVdOdG9uZmc?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Tata Power Renewables breaks ground on 800 MW renewable energy project in Andhra Pradesh pv magazine India"
-    },
-    {
-      "Date": "2026-07-31 05:36",
-      "Article Name": "TPREL Begins Work on 800 MW Renewable Energy Project in Andhra Pradesh - Asia Pacific - Energetica India Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGcza3FTMHduX1BTNERudGR4ZTljYlZyRmtnM29FaE5CTlZKNnRrMThrSnpzckVyQ01OcThIbWRIMmtqVGx0R0xHZl9MdUdXR0VDY1RtTHNCT1k4TWZ3NjFsQ3RUQ29MNzVYb2M5OTExcGFTM1FLOXBrempuOGxueTFST2x5VzJWNWgtZkpBclhDNzNDSHJ1QkhfQ2IzR1BBdlVrSzVYWQ?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "TPREL Begins Work on 800 MW Renewable Energy Project in Andhra Pradesh - Asia Pacific Energetica India Magazine"
-    },
-    {
-      "Date": "2026-07-30 18:43",
-      "Article Name": "Tata Power Begins Construction of 800 MW Wind-Solar-BESS Project in Andhra Pradesh - Saur Energy",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzdUdEVYWWpkZDRVM2RDWTZDODBzMzEzZ21waU1PWE1rWDlpbkwtc0hTVjYzdkpKaFpPMlQzalZaYzV5R19aX200VlNDME5CdDVZUElhSTdsVWV6dXZ2M1JnOU0yTjhJSnNmMko3Vk9DcWxNQW1vd2F5ektMU2h0bUpfb1I0enRKYXhUd09MTjZCc0NZTG9IaWZmUU5VcDUybV92LU9wOUxxMTJhTl9GQXNIeHVkcXBIeE9BMjVoQlVvNzByWldnM3gwOGFsNWhaMEE?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Tata Power Begins Construction of 800 MW Wind-Solar-BESS Project in Andhra Pradesh Saur Energy"
-    },
-    {
-      "Date": "2026-07-31 05:01",
-      "Article Name": "Broken offshore wind turbine blade recovered in North Sea - windtech-international.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFRIOUNHMXNlV2xoUUIzbENhbjZ4cHBIY3RjRzhfQnhqWUNjMnFoMkF5bmxHU055ZVZ4V3VjWWtNUk9ISGpXdG9GU041TUJXeW5JbUNEZ3R1Y0s1U1E0U0hhX0xpMlczREdpZ2NoMTkxUC1DWlpRMnlISmEyX3J0bUI3SjhuYUw4cHpqblRyS0lqbC1wM0Q0aFRHZWhxXzNleE9xbnJYbGFkV0NRSl9GOTZXUjRfWE5QaGdF?oc=5",
-      "Key Phrases": "offshore, turbine, blade",
-      "Summary": "Broken offshore wind turbine blade recovered in North Sea windtech-international.com"
-    },
-    {
-      "Date": "2026-07-31 13:07",
-      "Article Name": "Windward Offshore Takes Delivery of Third CSOV from Vard - offshorewind.biz",
-      "Article Source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmJNZnlCRVFkNWtwQ3V6a21hckxSZlJPQkpvMEQ0aVNsb0ppa3NkeXFtZHJnZGZmX3QzbjRZYXJEZkFpZldfcnFTNTk1M2JBU09ER3cyVUk0dHEyUkh0S0hTOXZFa1p6N3J0OEhvZlVlWjQwdy1ybi04OThvb0NDUy02OEduX2Q2OUwydkNFSkNSRFFGdm84MUlpZWNMdw?oc=5",
+      "Date": "2026-07-31 17:22",
+      "Article Name": "Eversource reports another big financial hit from its foray into offshore wind - The Boston Globe",
+      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9ZR3N5RFlQME5jSEdpWE95SzdNeG5YT3dxdXdDNGtqS3pQaEhyWXRucEduMmxpYVFVbDdvVUxPWlJvR0VkVV9HZVhsbDI0MnZKNGh6enh6MjBwUWRIc0FYM2NobVpRWWpPVFNLQlVvdm9EYWxQbWpJNkEzMWlVSDNSay1TREhIVXZyS1BhV2M5dmNuR1E?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Windward Offshore Takes Delivery of Third CSOV from Vard offshorewind.biz"
+      "Summary": "Eversource reports another big financial hit from its foray into offshore wind The Boston Globe"
     },
     {
-      "Date": "2026-07-31 01:10",
-      "Article Name": "Reports of offshore wind’s demise have been greatly exaggerated – but in Australia it’s still far fro... - Renew Economy",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeGJKV1k1UkhJTFQwd1VDSlFycmVuWExrTW42eUh0WkdwY3ctVlV4a3U0X2hEODdudFhMdlFUNlkxVG5rNV93OHNJQ2tjY3BrZ2xOeGNqVXUxbzdJMC1hSnQyb0J6bl9XUHZEUDRuSFo1WXRYVUpmVVg4b09lNGZFcldfRFdmbzlPelkwa20zeVNhTXc0bjhqaWsxMDhsQW0zS0hEMGdXQWpBall6SFhVbDJXSGViZGV0WV9ZQ2Mwb285akpfSFpKRC1iYm5TeVZVeUFqU19sa0pSRFVi0gHcAUFVX3lxTFB4YkpXWTVSSElMVDB3VUNKUXJyZW5YTGtNbjZ5SHRaR3Bjdy1WVXhrdTRfaEQ4N250WEx2UVQ2WTFUbms1X3c4c0lDa2NjcGtnbE54Y2pVdTFvN0kwLWFKdDJvQnpuX1dQdkRQNG5IWjVZdFhVSmZVWDhvT2U0ZkVyV19EV2ZvOU96WTBrbTN5U2FNdzRuOGppazEwOGxBbTNLSEQwZ1dBakFqWXpIWFVsMldIZWJkZXRZX1lDYzBvbzlqSl9IWkpELWJiblN5VlV5QWpTX2xrSlJEVWI?oc=5",
+      "Date": "2026-08-01 00:00",
+      "Article Name": "Cadeler incorporates Wind Ace for offshore wind projects - Inspenet",
+      "Article Source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXoxa2ZucGNiS1B2Y1V0WU9EMkVsZFZWenoyZHAtbHVzMXRMSHNKTUEtMW03QlVPalFKU1d2bVJEdWlvdG9renFJOTZjZ052Q0ZkcGUyWEc1eGZOTmIzdmQ2by1YM2k5MTJnRkZKUVQzOUxlZGNEdWlJanZRMTF4VA?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Reports of offshore wind’s demise have been greatly exaggerated – but in Australia it’s still far fro... Renew Economy"
+      "Summary": "Cadeler incorporates Wind Ace for offshore wind projects Inspenet"
     },
     {
-      "Date": "2026-07-31 11:04",
-      "Article Name": "Iberdrola plans to double the capacity of Whitelee, the UK's largest onshore wind farm - Iberdrola",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnVkRDZJRHpMc011SEVERjd2WEtGZnBzdE4zNjloMkhhOE45Y1doakdrdzBtZEpUWnBjekswXzJMVlIxS2JCWm5OcTdNUUZRRGROYml4UXZFb2VmQ2YzbDFrVGx6TGM4SlNnSUdJcXF3QWM1SkVBMG5OTWtITHNaaDJmamEzTkxQVkc2bWt5azRQSWhwYTlPREs0Qk5ZeXFldlpLS0JwWnNIcDZXUTRyUVdYOVczcHF4cTdj?oc=5",
-      "Key Phrases": "onshore",
-      "Summary": "Iberdrola plans to double the capacity of Whitelee, the UK's largest onshore wind farm Iberdrola"
-    },
-    {
-      "Date": "2026-07-31 09:24",
-      "Article Name": "Iberdrola will allocate 1.800 million to almost double the capacity of its largest onshore wind farm in the United Kingdom. - Demócrata",
-      "Article Source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcWJZaV9WWVFLc0dwQlZxaE9nbGJUZUhaUmprLU55ek1tWmNvWktGMnhSbGFnc3FmOHJhVi1RZTB5U3g4YjJ1eTFnQTZBdGVkTjZvakxtdHV5dGlsYll5dkw3LVI2em1KaExvNXB1UHVUSGpzS2FTRGJNMmhrOFVhYnppWlRjTUxTdDFpcFA0TlBnRk40WWlGX3cxUjVuQVlpRjBucnBXU19CUk41SjFucS1uRlFxM0g0NWp4V1djVWI3ZjZucTI1dVhKeHBCbjJRcDFJTVBmTmY3eUdqMVdTMzJQc2dTSXY0V21DZ2NCOTXSAfYBQVVfeXFMTjQ1SjQ0QnBYa0pCM05MSDc1bnpmTXNUb0ktZlU5NVN1eUR5YWR2MWdIVkkxRkpobnpNQXAtUG9BX1Uwai1CaGJsX2JCc2RBN1ExR2hXVVVLN3ZmRXRkbnd1UFd3X09ZZ05fTERUdWNreDNKTkhvMkdra0pwRlA1Zkx0ajllUC1EWkVBblZuNHh6NVp6OUN5ak05UndHTXhKQV9JTlVfZFg0R3h1MHZmX1RFTDdLOXBsREd6QkFGMlk0OGxmZlpGelI0QjlPbzNwQUhKTno5R2dSZ0NJWW96YlVQckl6SGRvcVlSb0NnbVZjSGhfQ0Nn?oc=5",
-      "Key Phrases": "onshore",
-      "Summary": "Iberdrola will allocate 1.800 million to almost double the capacity of its largest onshore wind farm in the United Kingdom. Demócrata"
-    },
-    {
-      "Date": "2026-07-31 08:10",
-      "Article Name": "New installation vessel to join offshore wind farm project - East Anglian Daily Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnJsUGdGUW5LWE5tYzBPcVhHdzFQUTBmdTd3S1p3RmlvalB4TmVhSjZreURVUDhCNGE4dDlwMm9sZWlIY3JVcUVIU1hOUnJWdnVFcE05akVwSFRVQ1VQbmFOUld1WURlWDcxRWlOczBEMmVFUjY0elJiOFpHRVFYQ2xEWGFqZ0VYM05kekFJTEp3cFpx?oc=5",
+      "Date": "2026-07-31 17:47",
+      "Article Name": "Trump tariffs added over $800 million to Dominion Energy’s offshore wind project - WVTF",
+      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHNxVHllWWtxelF3UzMtSTlzRWVfX3FUalJiY0cwd0xGbU1GR2JHamdnQXBQMGNvWml5MUhGYlRQWWdfNWx5SWRxZ25yMmt4NWl1bk1QWGRTYXUyc3ZlaGNVOHJDZUUwdHYwR2g0bVJWSFlxbWJhRVR4ZC1OMlk2T0tCMzYtNUszZlFEUnlkcHdCSTVuRjNQUTFhdk1lanFHMHpKTUdQMDVpMmxxZ1JXNDRYMF9sUQ?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "New installation vessel to join offshore wind farm project East Anglian Daily Times"
+      "Summary": "Trump tariffs added over $800 million to Dominion Energy’s offshore wind project WVTF"
     },
     {
-      "Date": "2026-07-31 11:34",
-      "Article Name": "Iberdrola: Iberdrola stock gains 1.41 percent as UK wind farm plans 1,000 MW upgrade - Traders Union",
-      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2lSLTAxSmhMX2VWa3pKUlE1UGxVVVV0Z1lsdkVpbzJzTzVlTkxhOUgzeWZPODRqRkRYNXRrMHFjd0ZWNnNHbDIxZ1dJMngxU2pFb1l1d2lQQWxaVzZTN2p6cTlhMzVEQXhGVDA1cmlUWUs5VjRwZUowZV9ZaFZzcF8zb3NoeWQtR1pBNmp0VF9HMklH?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Iberdrola: Iberdrola stock gains 1.41 percent as UK wind farm plans 1,000 MW upgrade Traders Union"
+      "Date": "2026-07-31 16:55",
+      "Article Name": "[D Q2 2026 Earnings Call] Dominion Energy Pushes CVOW Final Turbine to End-2027, Adds $250M; Data Center Demand Fuels Record Peaks - finance.biggo.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQXhBYzJVQTFjXzdJMXRWRmVJWnBqOW5KSUFxa2lzNGdUbHpyVzI1LTY5ckZ0Y2xhY2VCZ1l2YVYzcHAtWmtSRGlKRFV5VmtCREtKLUhGY3AxQQ?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "[D Q2 2026 Earnings Call] Dominion Energy Pushes CVOW Final Turbine to End-2027, Adds $250M; Data Center Demand Fuels Record Peaks finance.biggo.com"
     }
   ]
 }
