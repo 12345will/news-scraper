@@ -1,75 +1,26 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "rows": [
     {
-      "Date": "2026-08-01 02:07",
-      "Article Name": "Largest US offshore wind array reaches 450MW as completion pushed into 2027 - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXA3UHVpS3dZUGhPZU1va250clZHMkNORDlZNHowSGdzVmM5X042TnhNUF81VmVBQkF1NWJzRmx3LUpUZ1VIT1dDVEdaejd2OUhOaUh6X2pmNlRwcVlCZDJYVEVHc0dnUVpBdzE4VGcyVHJGS1hJY1VPeU1rV0VPOERVektlVGJ0VEpXOUl2dGtIYmtWX0hkaGZiLXpscG43NWJRQU80MDJrTF9CZURvVWtpanR0eFZZVGxYQVJBTnc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Largest US offshore wind array reaches 450MW as completion pushed into 2027 Recharge News"
-    },
-    {
-      "Date": "2026-07-31 15:15",
-      "Article Name": "SK Oceanplant secures $110m BalWin5 jacket contract - 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzRhM3Zpc3pIblhDelJxRlNpUHVSTEJKb0EybnVGY0FxUWc4UWpMZmxHVVBXeWR6UnZxNkM5TTc1V1YyZ2dmaTNzZHpWb05IOVNDRGNEV0Nycy1wRWFjYUllVE9rMW03MDY1dWcyM1hWdnc2NTc5OUpvME1FUjY4TzZ0VzhnZHItbEpqNnNNcGVMcEV5TTAyMw?oc=5",
-      "Key Phrases": "offshore, contract",
-      "Summary": "SK Oceanplant secures $110m BalWin5 jacket contract 4C Offshore"
-    },
-    {
-      "Date": "2026-07-31 16:44",
-      "Article Name": "Tata Power Renewables breaks ground on 800 MW renewables project in India - energyglobal.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmd6NFlmTVZIallHZ2VrcTVNYWVvWGtqbUs3TDY4Si1HLVBRVGRRSnBGdl85WVZBMzJ2VTVINDZtOFBoOWdqUWVMb3BxNG9XUElIVWh3cWM5OTBaSWlUZjRhT1B3cC1zSEFSUmpSaFgyMV9LSkNaYXN3U1Rtb25BOWk0WXJVU0NSQWpSY3NQVjB2MWRwbkpYSFU5cmtIQ2NiOUdKUkFBa29VWkxuNmJzZzc3Q0Nxd0FCcnJpS0Ftbw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Tata Power Renewables breaks ground on 800 MW renewables project in India energyglobal.com"
-    },
-    {
-      "Date": "2026-07-31 16:09",
-      "Article Name": "Tata Power gains as its arm breaks ground on 800 MW renewable energy project - Investment Guru",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeS1md3U3UFRNTldDZWJwdXdCdEVnV2NRZGlPQ3RJVXBEQnJ6Ty1reUxMazAtMTdIY2JRYm5fb1IyRFFKamR3Sk1BSVNZNlpvNDVMNEY1Snoxd1dTOEFxYVFJaWFyWlh2V2tTT1lQNl8yaHNxOWdXb1VEbElySWZXWVdkUGF1Rm03NC0zbGNXS1FrM0hwTHc2OVpXY1pZUjU4Vi1FekVGZGdxU1czYVpkMjZDaEZGTllUczYtLWdkVEhtOHM?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Tata Power gains as its arm breaks ground on 800 MW renewable energy project Investment Guru"
-    },
-    {
-      "Date": "2026-07-31 21:27",
-      "Article Name": "Eversource reports another big financial hit from its foray into offshore wind - The Boston Globe",
-      "Article Source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUlJb0NyYkkxMzVPMVVEbVctN0k4Zml3aS1kX3BLY21VMDJOM1kzeUtsekU5Z3M2QmI2OXo3d3NCWE81bVJMMjJ6QVQtbTNGV2F0SUhlRUowSmstNjc0LUxJaGRJNS13bGhYdkt1ZDU0VktFTlFuRTFuMFY1R2R0NUt6ekVWYmZEVkJPYnNlMU9lbWJaU0tqRXc1ZzRoejNBVXlZSlgwbjhvdVJvTEQwY3ByR1U?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Eversource reports another big financial hit from its foray into offshore wind The Boston Globe"
-    },
-    {
-      "Date": "2026-07-31 17:28",
-      "Article Name": "Eversource takes $164M hit from offshore wind project it no longer owns - The Business Journals",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1pHZU4tc25MaGhVZTJTUE9kR0kwRml3eHZJNGxnNkZNMGpXWndtdDdrWC1CRGgyMm4tMHd4VUE5dGRQVVNCb1pyUGw1OHQ1T1hmT0dBT1FZZ1R4NzYwcmhSNnNza3c2TVN3TDkwOG1GSThQZG50U0pxSEJkdnpYZExzSEVjdGV5UE5ncVkwSjF0d25TNWtBTWtLSlZfcjl4VlN5Zy1nM0dycTg?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Eversource takes $164M hit from offshore wind project it no longer owns The Business Journals"
-    },
-    {
-      "Date": "2026-07-31 17:22",
-      "Article Name": "Eversource reports another big financial hit from its foray into offshore wind - The Boston Globe",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9ZR3N5RFlQME5jSEdpWE95SzdNeG5YT3dxdXdDNGtqS3pQaEhyWXRucEduMmxpYVFVbDdvVUxPWlJvR0VkVV9HZVhsbDI0MnZKNGh6enh6MjBwUWRIc0FYM2NobVpRWWpPVFNLQlVvdm9EYWxQbWpJNkEzMWlVSDNSay1TREhIVXZyS1BhV2M5dmNuR1E?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Eversource reports another big financial hit from its foray into offshore wind The Boston Globe"
-    },
-    {
-      "Date": "2026-08-01 00:00",
-      "Article Name": "Cadeler incorporates Wind Ace for offshore wind projects - Inspenet",
-      "Article Source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXoxa2ZucGNiS1B2Y1V0WU9EMkVsZFZWenoyZHAtbHVzMXRMSHNKTUEtMW03QlVPalFKU1d2bVJEdWlvdG9renFJOTZjZ052Q0ZkcGUyWEc1eGZOTmIzdmQ2by1YM2k5MTJnRkZKUVQzOUxlZGNEdWlJanZRMTF4VA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Cadeler incorporates Wind Ace for offshore wind projects Inspenet"
-    },
-    {
-      "Date": "2026-07-31 17:47",
-      "Article Name": "Trump tariffs added over $800 million to Dominion Energy’s offshore wind project - WVTF",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHNxVHllWWtxelF3UzMtSTlzRWVfX3FUalJiY0cwd0xGbU1GR2JHamdnQXBQMGNvWml5MUhGYlRQWWdfNWx5SWRxZ25yMmt4NWl1bk1QWGRTYXUyc3ZlaGNVOHJDZUUwdHYwR2g0bVJWSFlxbWJhRVR4ZC1OMlk2T0tCMzYtNUszZlFEUnlkcHdCSTVuRjNQUTFhdk1lanFHMHpKTUdQMDVpMmxxZ1JXNDRYMF9sUQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Trump tariffs added over $800 million to Dominion Energy’s offshore wind project WVTF"
-    },
-    {
-      "Date": "2026-07-31 16:55",
-      "Article Name": "[D Q2 2026 Earnings Call] Dominion Energy Pushes CVOW Final Turbine to End-2027, Adds $250M; Data Center Demand Fuels Record Peaks - finance.biggo.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQXhBYzJVQTFjXzdJMXRWRmVJWnBqOW5KSUFxa2lzNGdUbHpyVzI1LTY5ckZ0Y2xhY2VCZ1l2YVYzcHAtWmtSRGlKRFV5VmtCREtKLUhGY3AxQQ?oc=5",
+      "Date": "2026-08-02 07:00",
+      "Article Name": "Letter: Kinnock urged to oppose major wind turbine plans across Wales - County Times",
+      "Article Source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkZSSmxpV1N3NDBMWGkxNi1ubGxBY0t4eURvdzhVLUk3eEFnVkhnQXh4Sk5malJxRF9RSkxSb3dHcDUyLXVqVURPVDFuajl4Q1FUSEFrYksxVE5Pc0dNNXM2eW1NS0xkc21zNFN4clRHSFg5TzdXdDdyRURJUXNPQlFtTmM3ajhsZ1U0U1pLOUtyakhMNnlvc1phbkJSQQ?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "[D Q2 2026 Earnings Call] Dominion Energy Pushes CVOW Final Turbine to End-2027, Adds $250M; Data Center Demand Fuels Record Peaks finance.biggo.com"
+      "Summary": "Letter: Kinnock urged to oppose major wind turbine plans across Wales County Times"
+    },
+    {
+      "Date": "2026-08-02 07:01",
+      "Article Name": "Siemens Energy's 2.6-Gigawatt Oman Win Sets Up a Pivotal Earnings Moment - AD HOC NEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWVxc0pBLUtxVXRJYjFkRlhySWZZRENReTBTQllRVUR0MFQ5MF9tbnNGNU41aEFPWFBfMVJzVTY1UTRfbVB4YWl4d2VzSlUzaEl0cUFPeG9TVHNDbXNGM1J4VnZfSnpHTE5neW9EemNwZk92TndnVDdmRzBrZ1lZcWxXeU9fOUFDV3cwQmNLNWhtWndQNnp6aWtSYWExQkFpU3A5NW5hRGdGSTF6bVBGZUFlX24yZG4wbm92QUh2cjYxZUU4WTNNeTQ1dGd0QkViSF9qaURXbEdoQjct?oc=5",
+      "Key Phrases": "gigawatt",
+      "Summary": "Siemens Energy's 2.6-Gigawatt Oman Win Sets Up a Pivotal Earnings Moment AD HOC NEWS"
+    },
+    {
+      "Date": "2026-08-02 05:22",
+      "Article Name": "India’s Wind Power Capacity Reaches 57.4 GW as FY26 Generation Hits 106 bn Units; Suzlon, Inox, Adani Green Drive Growth - GreentechLead",
+      "Article Source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaDB5Z3Q4a0tTN2ZwRUJ3VU9BbTcyWWJTdzJaZVhtWEtsV1J4MWpyUHRobTNhV1hLclMtMGpoZTlwclh5aXVkVkRHNnZoRF9paGlPT0ZRTTd3VXlDdksyU3Y4R2ZkamFvdHczQTZNTVZNSVdRZDJQRGo3Q09CTm5MUExLaEdfcFhmdVNNWUlsUDQ1LXBNYTBGVlRobXF0SExqRlc5X1gxMjIxYmhYcWFDSURTTlh1WTJNYk5neS1IQWlfa0lXV3JsY2tLQTRkMGNwT0hCcUdBZG9Ed3cwSnlrZ0dzbmNGdmQ3?oc=5",
+      "Key Phrases": "GW",
+      "Summary": "India’s Wind Power Capacity Reaches 57.4 GW as FY26 Generation Hits 106 bn Units; Suzlon, Inox, Adani Green Drive Growth GreentechLead"
     }
   ]
 }
