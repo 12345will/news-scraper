@@ -1,215 +1,131 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "rows": [
     {
-      "Date": "2026-08-26 13:00",
-      "Article Name": "Ukraine's Kernel expects long-term partnership with Vestas - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44ZWxIZjhCWXdReWdPeGN4YURpdFlDT3l1RzlEd2hPNlBQM1dtSExraEtyeVFIN25vWVlNVXRsd2xhc1hTRzU4OFR4eHpWWTR1dFp5NHl3dnl4Qm5nVTJKSnR6TjRvZ2tucGFR?oc=5",
-      "Key Phrases": "partnership",
-      "Summary": "Ukraine's Kernel expects long-term partnership with Vestas EnergyWatch"
+      "Date": "2026-08-27 11:35",
+      "Article Name": "GE Vernova awarded Stage 3 contract for Queensland's Supernode battery storage project, completing full-site involvement at 780 MW and 3,075 MWh - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GSWo3QWZNQ1JxT04zNzF1eHl0cy1ZbEVFZlJLbUFVRlMtNGs5SXRIS1pWcUVhRUx5bjZ0QVZBQ2ZjSWRvdXRERDJTbmFKUGNKLUhhQVdsVmFDUWtfbzN4WVpkdjJfZVktTkxaaEFYNHFtQnRrbEE?oc=5",
+      "Key Phrases": "MW, contract",
+      "Summary": "GE Vernova awarded Stage 3 contract for Queensland's Supernode battery storage project, completing full-site involvement at 780 MW and 3,075 MWh Energies Media"
     },
     {
-      "Date": "2026-08-26 06:34",
-      "Article Name": "JUWI taps Vestas for 86 MW of turbines for German wind projects - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFNJV1h5TVZKaC1xRjE5c09fbnE0NXMxU3RBUF9DeEVxakF3LTRlS2ZPSlRTcHpoQ1dKUlY0RTktd2VuTC1DRmszamNfTkhSbkl2aU14TTkwWDNfN1dxbUFhbFZOQkdIb2xIc0hIV0RQcmxYamxsajBsQjNicUdHWUpNM3ZLeHJMZzNBN2VtZjhlcXB4Vl9ZZjhQZDR5LXNwbFQ1MmV3?oc=5",
+      "Date": "2026-08-27 10:24",
+      "Article Name": "Orsted veteran heads to rival offshore wind player as department chief - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXhPcWNCMkZGS1ZFTHZtanVhU1NEQUtnc3pCMHZjVENQMHY5RHdmYzBzaUFoX3NqT0FydDUyVGNBX2JwVU81YV9DTmtqSzdrQTN2Um5xb1g2NDEzWjlMTHZaYkVrdEt5Sks2Q1NCMVhJODRWU2NzYVE2bDFVbWdMbzdwWk0ya1lyNlJrS3ZMUU5DYnhDVFYxSFktb2Vxa013OW9GTWFlbEp0ckRRWm8tMExucTN4c3duVnc?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Orsted veteran heads to rival offshore wind player as department chief Recharge News"
+    },
+    {
+      "Date": "2026-08-27 02:26",
+      "Article Name": "Renewables news: Deutsche WindGuard, DEME Offshore Energy, Goldwind - GreentechLead",
+      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTlNWnRyMHhUMmZKSldqeWppbFRkb082RW44VXBiNnJHN283c3BuQmlGNXlZUWxtdV9GWkJjNncwWUlxLWM0dTJlLXJhQW5ZdDc4ZFdNN2VoeDdZZlRtOGExUE5FbWlZQU92cFUwQjVfUDlRc1QtREJpQkhxTzZUZFN5RUdCNTJIc0tTZENlUDA2QjFtS0F3X2Fadl9MMkVYd0p4R2wzeUtFbmlx?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Renewables news: Deutsche WindGuard, DEME Offshore Energy, Goldwind GreentechLead"
+    },
+    {
+      "Date": "2026-08-27 15:26",
+      "Article Name": "Orkney Islands Council awards £14 million construction contract to Heddle Construction - Energy Global",
+      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWtBWFIydlE5TlVnOU43R2NBY05MMFJXZDVhMGNtSFl4SS1LRWR3Y1dLVFM3VkEwZ21Vc1FKcFBHLUw0V0tCV1R6b0hpSkp5WHFuY3NUenE2dW0yX1JGNG4xSldjXzFZbTZDZTdvU1Z4d3hpSWNVOG9SWDhaYWJvOVdqY1NtWWtpWEU1R3ZFVXBkNE1aV2tSTzhfbUgyRktGemhBQUZpaW5tNGN4SElBVWl1dzJoRG16dnNPSkpmUTZnZHpQUXpJU0EycDVrUQ?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Orkney Islands Council awards £14 million construction contract to Heddle Construction Energy Global"
+    },
+    {
+      "Date": "2026-08-27 04:49",
+      "Article Name": "Orsted insists Korean offshore wind portfolio has a future after memo leak - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDZyazR1MVcwTXhia2RJQXBYVEFIRkh5LWJuVGxtcHowQnVjSTkzcUtRcmIxMHB4R3NKV0FyS2JCZnZjTUp5ODhkdWp1Y1ZvRkhMTGh5Ui1TR1JUdUJNTHJnRFgzd0U2blI2cklPMVJtSk9hY0daRTRSU2lfTVlScUVzZXdmR1ZZb2FWN0lES0JYZWJqSThhckIxZGJ4SDdsc1JqUXZISnRvQ1A2SHNpT3BKQmRMWXp3cFYzMU1nQQ?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Orsted insists Korean offshore wind portfolio has a future after memo leak Recharge News"
+    },
+    {
+      "Date": "2026-08-27 15:12",
+      "Article Name": "New £14 million Orkney wind farm contract awarded - Enlit World",
+      "Article Source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmNSaHJ4UFhOZ2J4YVVtSDZmMHhOZDlxajBVb3hHQzhDMlRSdnJSYnVibzhGU21GZWllc1lfZ0NrR2NMSEtjYkcxb3BLbGlIa0F4VzVKMGduZU5PaUJreGpCWjBEeExoLVlIbUtsdHlKTXJLOWNLM1dadVFNeDRMWlpWTTVCX1U?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "New £14 million Orkney wind farm contract awarded Enlit World"
+    },
+    {
+      "Date": "2026-08-27 13:40",
+      "Article Name": "Heddle Construction wins €16.3 million Quanterness wind farm contract - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlpnZk5qY0UyRGJ4OTdEMlhrUU5uSUFfTjNDaDQ4Ujdiemcxd1ptYjJUY3UzejU2NURVZjd2TU1icThXelBLZ0hxREVTYTBLdG5GVTV4TXRSSmNFczFBd2VldUNiODFvYjhCclprbGhxNFJSY2lLUEs2TDBHQjdsUV9fSGtTNkEzeDN1aGJkbk54MnVmejN2aQ?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Heddle Construction wins €16.3 million Quanterness wind farm contract energynews.pro"
+    },
+    {
+      "Date": "2026-08-27 05:59",
+      "Article Name": "Blade Breaks At He Dreiht, Suzlon Posts Record Quarter Frances Tiafoe (EFRFiCocB1) - Mshale",
+      "Article Source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CUmFINVliYlQ4MUo5RkM1Ny1nS0gwRDRkdUI1UjdiLVZVaWcwb1kxcGpqd2tTZEZPcVpMb0VmbnF5MVNieGZLdFNleDdseDRoeUpNaU84b1FNanM?oc=5",
+      "Key Phrases": "blade",
+      "Summary": "Blade Breaks At He Dreiht, Suzlon Posts Record Quarter Frances Tiafoe (EFRFiCocB1) Mshale"
+    },
+    {
+      "Date": "2026-08-27 05:05",
+      "Article Name": "Juniper Green inks 25-yr power purchase agreement with SJVN for 50 MW FDRE project - The Economic Times",
+      "Article Source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbjd1VGxhNzFhNGlrTElvYnBicjZid28xWmhIVlA0LS1FRVU0cDYwWmg5M281M0hfU3FydUd4azBsTUVfWlJZSFhCaDNGU0VZN1F6dGQ4SmphR3ZQYzQwTDRnU1QtWTN5M1JueHB2U3RFUDh4VF9vLWVDeUJtR0pRSXRtTnh2TVg2LUdLbS1OWFJQaHZLWjBTRjc0S19TdHhnWXhzZklmbWRsQ2RWRDBsbFVvTHQxZjdzdUpwZEJQZEVZY290R2NoVzVlbG5qa0Z4ZGFzbW8wZXhJWUV5RlZtR2c4VkdGX3lFbkJ0btIB8gFBVV95cUxNSS1HNTQyd3pNNjRoLWgzLXRRbWIySFd5VTF5WmM3R2xpUlk1WUdQTzZ3MlhnYWlQdHJldFoxc0lmT2VaOUVfbkxmT18tUDFvSld6NFdlbmFUbjNTUV9DeWRCNExkUVZuVW0ycmhfa2JtbzFJMkZDSndYLXQ2RkI1dlMxSXpybEgtbGd4ZkNWMHhsaXowZGJsZDVNaFVGaU4wVnBrRFB0N2FSSlBNRFd3N1VvbzI0THVPel90aG5VeVQwTG5lWEVDbmdfSkdZV2xUejA4bXVlUW5fZlZHZjRhQUFfY3VlTWhyZzgwdjJhNU9CZw?oc=5",
       "Key Phrases": "MW",
-      "Summary": "JUWI taps Vestas for 86 MW of turbines for German wind projects Renewables Now"
+      "Summary": "Juniper Green inks 25-yr power purchase agreement with SJVN for 50 MW FDRE project The Economic Times"
     },
     {
-      "Date": "2026-08-26 07:08",
-      "Article Name": "Vestas bags 86MW Juwi orders - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DRmNaWEVJdGExcV9ETzBtcE1lclpUTWlIdWx1UkZZa1dIUnIybFdTOHZmQ0pFT0JHRmlGX3VxTFVxTE5NeUZPaDNHNHVpaXF1aWFXVWVocExxbWp0eVNCWVFEX1FHXzg5MlhycURGYTM3d0U?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "Vestas bags 86MW Juwi orders reNEWS"
-    },
-    {
-      "Date": "2026-08-25 17:04",
-      "Article Name": "Eneva and GE Vernova begin commercial operations at 295 MW Azulão I gas power plant in Brazil's Amazonas state - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nd1F5QTd0dnB6SEhtaG5pWE1MVnIwcmxXQUw0emlDaTlBNGRVTC1CaW1PRmFiTThKMFc5STQtYVliUzQ1T3I5QXdIN25EUEx3cTlVazkxVUdWWHFDQkxJOXd4dHcydV81Y0lPZWttS1lTWkVBakNpVg?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Eneva and GE Vernova begin commercial operations at 295 MW Azulão I gas power plant in Brazil's Amazonas state Energies Media"
-    },
-    {
-      "Date": "2026-08-25 21:32",
-      "Article Name": "GE Vernova's AI Data Center Orders Just Doubled All of 2025 in 1 Half-Year. Is the Stock Still a Buy? - AOL.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fOHNieW4zcFI2bnNmZ1VlZVRicTd0d2p3QXRSMG1hSWZrY1BDNzBqTFBIRFIyZ18yZmxpR1BYZzNlcmpMLTRmTjJOXy02ZEpzaUxWWE44ZUk0ejN6UjhMY0pVRE1kUWczeU9GZk9kZ2tWRDA1VDh0WWV3?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "GE Vernova's AI Data Center Orders Just Doubled All of 2025 in 1 Half-Year. Is the Stock Still a Buy? AOL.com"
-    },
-    {
-      "Date": "2026-08-25 16:44",
-      "Article Name": "Africa Renewable Energy Projects: Egypt Adds 2.5 GW Solar and Storage as Major Wind, Solar and BESS Investments Advance - GreentechLead",
-      "Article Source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWG4zNVlGbmxHN2E5QTRBd2RyUHRoampGLXBHNmZsTzctcG5LWVJ1R2prUkxQaGQ3a2JlNThaS0ZsbHVneW9aTXNMNlA0TlZRQWt5eExjMksyX2JucFVveEVhOVZ3RWtMYkVHbzM1NTZBUng0eEQ0clRubWRVT1FmN0pUSDM4RGVVVzFwOHVKMW9jd0VYcWY5V2p1ZmI4OTFxZFcwcXZWek5KRlY3NkNZODVQYVVuV3NPVlVkQzQxeUp6d1g1UU5PQlVuLTdmb2h3bVdVMm9CUmo5NmpGNzRtdXRQNHIxYkVRYlE?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "Africa Renewable Energy Projects: Egypt Adds 2.5 GW Solar and Storage as Major Wind, Solar and BESS Investments Advance GreentechLead"
-    },
-    {
-      "Date": "2026-08-26 06:39",
-      "Article Name": "China's Goldwind reports solid growth in revenue and order intake - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TSDg5NWswc1VlMmExWHg2bzN2dmpTREd2dDljWlR6T0o4WjZla3psQ3ZmNDF0LVVMVDZLemVpSTA4NEVqX0w5bWlQSlFmZ1gtSWJUeFBNVm84aEV6T0VkWHBXOURkY21CQ2FZ?oc=5",
-      "Key Phrases": "order",
-      "Summary": "China's Goldwind reports solid growth in revenue and order intake EnergyWatch"
-    },
-    {
-      "Date": "2026-08-26 03:03",
-      "Article Name": "Tightly knit local supply web boosts China's offshore wind push - Xinhua",
-      "Article Source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sb1NlME40SHVUQjlHUTZtbHhfMXZITWdoQUZGeHlMWlJQaXE2MjByamRId0xiNVJObkVRZWFOaGsxMHRvdkhuYXlUMDJ2SnFTc0o3bVhOcGRjaGZxcDdPOGpBMkUwOHhHbHpyYjc5clJ6WWVCdmRCeGUyalI?oc=5",
-      "Key Phrases": "offshore, supply",
-      "Summary": "Tightly knit local supply web boosts China's offshore wind push Xinhua"
-    },
-    {
-      "Date": "2026-08-26 02:25",
-      "Article Name": "Suzlon and Torrent Green Energy Expand Wind Partnership to 1,306 MW - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUpLY2VoWjBHQ0xNYi1fa1JBbVBBRlhsVTFUbFlCOHhNU1o1MWJ5VzhBa21xYnhqTHlzb3k4eEc4bWxURkl4bEtRNEIwUWpEcWF0S0huWUo5WXRuRDZ3azFJc1BnbzFsc0dVWWtHV2Nva0w2ZXlPUzBtUlV3VkZVVjdrUGRNZ0hSZ0sxd3h0OXExU09fbW1J?oc=5",
-      "Key Phrases": "MW, partnership",
-      "Summary": "Suzlon and Torrent Green Energy Expand Wind Partnership to 1,306 MW energynews.pro"
-    },
-    {
-      "Date": "2026-08-26 02:15",
-      "Article Name": "Tightly knit local supply web boosts China's offshore wind push - Big News Network.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmd2cFdfa21xeU10QjNKakJ2WG5hREo0NGRiNmN0bUdWa1RyTTdiUlpjQlNwUDFIWGwxSWp1QmFDY2FaaHhSSmtSc29UVUJ0dUZXTm5ib29OLXdMWFd6SDJOaDVkeEhyNkdSNHYzNkxJQnBHVW8xcFl3bWVCeEhMUGxYNy1sREMtbVNlZS1NN1gzd05nY1BUTXVYN2U5Q0piV01wcElRM29haWc?oc=5",
-      "Key Phrases": "offshore, supply",
-      "Summary": "Tightly knit local supply web boosts China's offshore wind push Big News Network.com"
-    },
-    {
-      "Date": "2026-08-26 10:44",
-      "Article Name": "Mingyang reveals 5 MW turbine for ultra-low wind regions - 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2kwdWcxcmxJdG1XMTFRb0s2czdOc0ZOOEIweTR3bzlXWmxEc0paa3VSNTJUSk9zTHpKSER4Zy1FM2pnNllVVlM3cURLU0JYWEdrVnJMRVp3a0FKNTE3ZEZQZWcxbDZFMzlKdlEtX19rdjNNUHR3NVZTQkNDcTlaM0ZNQUVSUzN0MU5jRVI1dzZBUXpjeFh1NTVXc0FNZw?oc=5",
-      "Key Phrases": "MW, offshore, turbine",
-      "Summary": "Mingyang reveals 5 MW turbine for ultra-low wind regions 4C Offshore"
-    },
-    {
-      "Date": "2026-08-26 00:51",
-      "Article Name": "Orsted sidelines Korea offshore wind projects as returns fail investment test - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnJCMDlIRmRkcHJtOG5Sc0dxQ29qaXF4UTlQMkhaaFVUOENENVRkVmVEN2tucTlPeHlENXRrODBYcWZyUjFrLTJzRG4xVjNTRzZTSmpYTGVOajFSS3g2c1gyYW1iWjAxbjAzMmo4TDNVRVA1X2hDTzU0aGU3N003dmprUHJaelRycTZYNkRJOEJqMENaZVJHX2FadnBwdFlqNWFBeTZNb2s2eDJBRzQ0VlE0T0l3dzl0c21FcXozVnFHQ0djaFE?oc=5",
+      "Date": "2026-08-27 11:18",
+      "Article Name": "TotalEnergies Inks PPA for Offshore Wind Power from Irish Sea - Offshore Engineer Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjEyS3NPX1hkMkxrYjFrNlg1RS1tV0VERUxkMk54YlpUamhrcHkxUDVUYnQwbGRHb0Q2aTRPOUFFd0RQNkRUSkxjejJiTUhmWVhWZnZWY082cm1WQ3R2X0dUMXBKVEpMOFdjRDVuWGRSajRxUElvbnJIazA0NlJuQmdQNlZ5N0RwRmxnaWVGb0s4RHV2bEdjVERBX0JIcVlL?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Orsted sidelines Korea offshore wind projects as returns fail investment test Recharge News"
+      "Summary": "TotalEnergies Inks PPA for Offshore Wind Power from Irish Sea Offshore Engineer Magazine"
     },
     {
-      "Date": "2026-08-26 09:42",
-      "Article Name": "'Watershed moment': Australia launches first offshore wind auction - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjFxbzU1LXRjMTBNTlRLWjNYZGp6S1ZhN2Y1dkhIRHJXTDNlUHdzX240TUZMQ0gwenZFRnNHa0ROSlBtdW80ckcxSkJ0NWhHU1hmT2ZWNmc5OTFHT1BRcXlDXzlwbTJ6UDY3WEtkN2NwcWZ3NGkydzgtT1gwR1cxYkIyU1Z6ZnZ6ckhSQUIybVR5TEJfbUs1bGh5VVQ0bzlJbk1OQUdheDRqU2dlQjlfOWxzbw?oc=5",
+      "Date": "2026-08-27 03:51",
+      "Article Name": "Offshore wind power projects are flailing, just when the East Coast needs them most - DredgeWire",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmNQeUxCWHBQQTlTM2JlZWZfcUJvelJVNFRKTzdyRGJDYTE2R05Za2VpdEU0cDNRNk8tZVIyRzBJQkpkc29FYjh0TXZZMmxCU1FScGdjcEVkWWFwY2tMdWtkQnRpTm55Tnp3STdxSlh6Vy1HSFROa1RjbkhyZC1zdXg1MzN3aG5QRUtnTUxQQ3NNYmJfV3BOVXFTdWlPZ20yNGpUVFF3dFFzUQ?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "'Watershed moment': Australia launches first offshore wind auction Recharge News"
+      "Summary": "Offshore wind power projects are flailing, just when the East Coast needs them most DredgeWire"
     },
     {
-      "Date": "2026-08-26 02:17",
-      "Article Name": "Chinese wind turbine maker urges Burnham to overturn security ban - AOL.ca",
-      "Article Source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDk2empnQTVLMll3cVgxdjAtclVES3YzS1VDVEFNWkJGX29YbWtSaVF3T1lPdHVRWjlxS1VPSHJRWm8tUzhoNkYyZEtrR2QtekJDMm9adXlHTURBVkN0VU1CX2drMzRWejVoeF9MUUNTNGhTY1EzQU5iZUJ0ODlseA?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Chinese wind turbine maker urges Burnham to overturn security ban AOL.ca"
-    },
-    {
-      "Date": "2026-08-25 14:02",
-      "Article Name": "ENERCON receives final type certificate for its flagship turbine - Energy Global",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHgwZ3dzcHNCQUpaeDh1TWlrSzlNYjdnZ0t0Q1JJUVF4TmU1UDZUdDVmSmVjczBPN3Z3cmp2RDRINGNUbkliOTJvY0twZjRicFBjWUxieVJSZEtkZVMxSFJGV0ZEam0xZkdlNnprYmdMYmF6VDhYWDRfWmpKMElPdEVUR2dxckpxbjFjSmlBT1NwSGIzVlRTVzFxdDg4QWRkZ1ZZVUVBWWhsSG5P?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "ENERCON receives final type certificate for its flagship turbine Energy Global"
-    },
-    {
-      "Date": "2026-08-26 04:01",
-      "Article Name": "Clifford Chance advises lenders on €1 billion syndicated green guarantee facility for ENERCON - Legal Desire",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlJJS3JIdjNudmI3YmVBankwaXROVFZlV1VJZ0xLU3RqZlJ6clV2OTVTSUxacGRsZFA0c1k3WGVyNjN6aEJHWHpPSGhydHlEc3B5NXlrTWZ5eHY5Z1lBckRTejVES1dkUjJhaUdfcjUzaDJmaVMtalppeUJMQUhwUmhqNDgtTVBzZ0hGYjh3U1hkV0ZRekE0bjZQWnpmN2VYZnFTQTRUZS03NTJlcDdZQ0Myc3NkTFZwRVE?oc=5",
-      "Key Phrases": "facility",
-      "Summary": "Clifford Chance advises lenders on €1 billion syndicated green guarantee facility for ENERCON Legal Desire"
-    },
-    {
-      "Date": "2026-08-25 13:51",
-      "Article Name": "Enercon gets type cert for flagship turbine - Trending Now Sustainable Construction",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTXBnUElSMWFJRFZMZl8xY1VmV1J6QldnMVVGczJzS1pfX0k5aGFqSG5MWUthUzZXTGVQZlZXUWZldGhCSGJFamxEYjJMbFB4ak1BRm9tcmFneENDNWFUcDJvZEpoRVJ3a1JESVRwdmszSjZ6OS16ZmZ1Slg2akVXTzFaMUJUVUg4WE9jVFBuc2RzZlhkWDkxV0ZEdnNDanJqMUFVTjhmOVRRUDNnMDduWUJuSFkyVkxJZmdZN2ktdG9RcGJaNDFYNlhjaHAyWWxHVXY0UUd6OVE4bHQ2YWpvRnFqZHctYW93S3JZeldySkVfUExDbkNsYkttWXRJVkdzRHMtWjJlV0JMc1ZibmQ2cEtLNkFMYlJMUE9IcWlRLVE?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Enercon gets type cert for flagship turbine Trending Now Sustainable Construction"
-    },
-    {
-      "Date": "2026-08-26 07:48",
-      "Article Name": "Suzlon wins 250MW wind order from Torrent Green Energy - Power Technology",
-      "Article Source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUVPOGNxTGhWQ0ZqeUJlWW5zUnhaWnBKMzJwQWY2NDQ5TVFta2dMNVByWERJdzU0b1VZUE9TckdNQmp0elliX3Q4WkhiVXRvcEFkMk5MWlUxb1BtVFBzQ29yTGRCdmtYYUdSOEpBV29WeXRpekt6bzhQSldNY1lCVFhoVkNMd242OElB?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Suzlon wins 250MW wind order from Torrent Green Energy Power Technology"
-    },
-    {
-      "Date": "2026-08-26 06:55",
-      "Article Name": "Suzlon Expands Andhra Pradesh Wind Footprint with 1,325 MW Projects - Energetica India Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFBDU3E5Vkgxa2dwSXRialc5TjRTLW9ZT2F1bjJpSzdodXIwdklyaDExaEk3WDVHREMtQldmc2tyc2VQM01RT09LNW40bzU2UlRuUzdLMjdtNGFIOHI1RklJYzYyWW1QbndhUVpaZl8ydFM5Y3Bfak5sTUM1WkpHWUFRWWNnNFdVQnZGcGJTcU9xRmtyUnhTcU1wSnRNbjhSUkE?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Suzlon Expands Andhra Pradesh Wind Footprint with 1,325 MW Projects Energetica India Magazine"
-    },
-    {
-      "Date": "2026-08-26 04:05",
-      "Article Name": "Suzlon Secures 250 MW Order from Torrent Green, Pushing Partnership Past 1.3 GW - WindInsider",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObi1sLWpkQ3AyMXVqT0tEb01nQlM5blZsZXo4elFPcXVselpGSVlDSVRsb2JBQURwUV94aE9OWDRFejlvd2hGREs2WEpKdC1zdGxETEJfMFI4NElkNkZvVWtJM1lmRDhUM1hZVVIyUGN2aC0zWEtyemF4MVpUY1JnU1pIVWllU3lZcVFiMDFtREtlOTFWYWIzQ0dMWWNDMDNXb00zREhrUi1nUTVvczZYcTBQXzc4TDZUa2fSAboBQVVfeXFMTm4tbC1qZENwMjF1ak9LRG9NZ0JTOW5WbGV6OHpRT3F1bHpaRklZQ0lUbG9iQUFEcFFfeGhPTlg0RXo5b3doRkRLNlhKSnQtc3RsRExCXzBSODRJZDZGb1VrSTNZZkQ4VDNYWVVSMlBjdmgtM1hLcnpheDFaVGNSZ1NaSFVpZVN5WXFRYjAxbURLZTkxVmFiM0NHTFljQzAzV29NM0RIa1ItZ1E1b3M2WHEwUF83OEw2VGtn?oc=5",
-      "Key Phrases": "order, MW, GW, partnership",
-      "Summary": "Suzlon Secures 250 MW Order from Torrent Green, Pushing Partnership Past 1.3 GW WindInsider"
-    },
-    {
-      "Date": "2026-08-26 05:11",
-      "Article Name": "Suzlon secures 250 MW order from Torrent Green Energy - The Economic Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUEItcDVjMlV3X2lKUGVXbzVod0NKdXdaQ01UX0ZmNEJtdjRGZzVrNHA4djkzRVRyTERCVG5xMHlzZERUYUQ2dkxxVXYtcDdKczd1YTcyR2YzcXVOMXZzYTFvdFladE1oSXJpOEtsUC1DZFJsSVA2NWFtVENLNDRwdk1OWHZwWGpuYjlwZFhnMmxxZ2tOcXllSll3VE92WTRRZlJaQWxRX0s4cWxQdjJ4VTZoengyXzNTaXRNWUNzUWI4NUtTR0HSAcsBQVVfeXFMTTNKbTFkRi15RmNyM1RpcFdHamlvbTFQVEhRNHdHZmdGVktZVmloYmJLR1c1RTRQT2laZGpiLTlNSDEybjhObEJLOFVjenJtVjNvSmc1TjV4ZXpJblNVSkRSWUpMVkZ3SEZHMVU3LUducnlGYU9rSXVnS29wZUxMeHNKTXNBbHltbmkwUTVpQUJNSko3TnZwbXdUd1pmd2tRWExuWG5lVy1TdnVXU3g5bFh6MjM5SGl1ZlRjQWtBY0x0Vll1WGwzZ2dsZ1k?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Suzlon secures 250 MW order from Torrent Green Energy The Economic Times"
-    },
-    {
-      "Date": "2026-08-25 13:59",
-      "Article Name": "Suzlon and Andhra Pradesh Government Break Ground on 1,325 MW Wind Projects in Ananthapuramu - Telugu Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHVqX2JhMWI4MFZ0QldEM0tpVGJXNXJKY004SnR3YVBNbUQ3SDB4MlNYdXEwSmdpNXp1dUFBX09BYV90cVB3dk5KTWgyYzM1UWRBM3Bic1JjaF8xcHpfblFCNHdtXzRLeFRjdzcwNnNYWWwxU1VjVVlVZ25WY1BDQi1HVmNES3VKaHRiWEEyMHpVbzNZNXpCN3Zlc0xPTVhwd0dMVXVFdzJrR3FKZjZBV3hBVWtsME4wcUlSZ2FlTG4xZldTa0NnUzUxV2ZmcEN6cm9QYVVBVno1aG1ETzJNNzc2Y2VCVjlKbUE?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Suzlon and Andhra Pradesh Government Break Ground on 1,325 MW Wind Projects in Ananthapuramu Telugu Times"
-    },
-    {
-      "Date": "2026-08-26 00:30",
-      "Article Name": "Suzlon Energy Wins Major Wind Power Order | Refex Industries Wins Two Fly Ash Contracts | Top Buzzing Stocks Today - Equitymaster",
-      "Article Source": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSTRRdnVlWWxkd3Y1eFB6b0RRUlZWVGE0eVpBdG9ab0dibXUtcDZWZzQ4VFBhWWcwMWtsdzJyVGFGVXRUczk5cDA2Q2tJNDU0S2Y4dTdXZE1SNzlIajhSb0xMVjZidnAzY28zVkk1cjdfMVRGT2hhVXF4TWZxQ0Z1SVB2TnVoYnhYYV9tV2ZvQWdqcWlldHZUdFFCYTVoU3p3OEVZdDUwaWxGTlpLeWZYcmFqMW5lNnQzTFoweWVObFRxc0FsTlRWaV9kQ0w1dkg3RzI1dDFMUDNBTWdYMmlUbndudTZYY1dpMVJJTnhhbzl0dWpTbGJuNExLY1hFaDZMMkNFWktFdDdpVmlEbzBERUQ3aElPTFZvNlBuTWN5WVdWcFpfUG1heEp5X2tFd1JUQm42dS1yWEo1ZG9wSTItTFN0eFNuR1JhOUtXdUVCNGtXd2lQc0RGQnF1amlLQmpJdDVYZllRRQ?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Suzlon Energy Wins Major Wind Power Order | Refex Industries Wins Two Fly Ash Contracts | Top Buzzing Stocks Today Equitymaster"
-    },
-    {
-      "Date": "2026-08-26 05:42",
-      "Article Name": "MNRE Mandates Cybersecurity Compliance Reporting For Wind Turbine OEMs - WindInsider",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWFYaGozYXhlejVDbHY1b2JmOERTYWZpdGp5S1FFZXozbVBndXNDT0VHVTFCRkJuNEFDUGtreVNzRDhuS1Q0TS1tbnQxTGM5RkNRQW9ZUUhDVUcxVmNtSThNb2lSZzJQeGctY1hST1V0ZGRaWE02Vl9wLWR4TGU1dTFlQ2M4TnU3UVRkS1BmcUx6MHRTdmx1Qmk5YmFSMGtKSXNrVlV3UGZoUQ?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "MNRE Mandates Cybersecurity Compliance Reporting For Wind Turbine OEMs WindInsider"
-    },
-    {
-      "Date": "2026-08-26 09:12",
-      "Article Name": "IWTMA Flags State Bottlenecks To 10 GW Annual Wind Growth - Construction World",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOXp6NjRQWkdJUW9Fd2ktdy1SbjFkamZTM0NFNTgxWXRpQ3BnY1M3SkVlTzVvWGVXelE0T3NEbDR5c0dPbXhwUFN2LUhVaEVmMmMyVlRyWG0zVGFXMWZFcmVzaWYzbWJSaUNmV3A5XzFfZHE5ZUZ1TG9nMnozNnY5V1FuVGdTTnFYb2tNOGlndGVvNzk1SDBBbTZuYkI2THZsZVg1cFRJRmMxcWNYQUtvZHlfSXYyVXRSNXdxNUt6TVNEbDVwaEZHaW1fZTNJQkliaDdlWUozVVBleUFHTXc?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "IWTMA Flags State Bottlenecks To 10 GW Annual Wind Growth Construction World"
-    },
-    {
-      "Date": "2026-08-26 08:59",
-      "Article Name": "Ørsted pauses 1.4GW South Korea offshore wind plans after projects fail investment test - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbDVnY2d5NENhNkMtcDdGc2ZWaDZla292b0RLcVlwY093R3lfbFU3ZnpDeVBrWXV1VDU2akhmNXB3TF9NWTBaOFM1UnpmbDlsRllMY3gyOVI3ejYtXzhmQkQ0SW9waHRSc0w0?oc=5",
+      "Date": "2026-08-27 03:06",
+      "Article Name": "Orsted Suspends Bidding for 1.4GW Incheon Offshore Wind Project — Even the Global No. 1 Is Leaving South Korea - finance.biggo.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdkk5V001VFc1VXpidi1zUnhZX05hWHRYbG43UkpYOVEwcTJNTXFnSGQ5RmRfNWs0TTZpOHZSaEFXNTRfOVpPcEF6aFV4d0paZFlCbjFramRaRHVXb0h1aDFoRnlmMEJuSDZfUlpjWXljRUVuREE?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Ørsted pauses 1.4GW South Korea offshore wind plans after projects fail investment test EnergyWatch"
+      "Summary": "Orsted Suspends Bidding for 1.4GW Incheon Offshore Wind Project — Even the Global No. 1 Is Leaving South Korea finance.biggo.com"
     },
     {
-      "Date": "2026-08-26 09:58",
-      "Article Name": "TotalEnergies and Offshore Partners Walney sign PPA - 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzh2SnNUZENzOEdGNFYxZ1dveFlnWExWQlBLUjl4YUw1eFZNVi0xUWxqUEc4NWYzekgyWGpLY3M1X1puNXN5MUdPazRsNHRxc1JkYTUzQUE3SWluU1h0WmcwNmYwMDVhZm9hTWNwX2JuV0lnRUtCUUR5OHdyNEFHSG4xSTd4UGctOUVTSE5qeTdwMjdTdFJB?oc=5",
+      "Date": "2026-08-27 02:40",
+      "Article Name": "Turbine fire at Taiwanese offshore wind farm under investigation - Renew Economy",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkhkYnFMZWRaQ2xLdW5WUVozN2MxOUI1UWVuS0FldENzOUw3S0o4YmlIMnA1bzBOTGZ3VUlSd0JPYVpPTDhndzN4Mi03WUp6a0VGalRyb0hkNlBHeE55N2NRdEFFMDZiN01BSlU5TndQQmc4SzVhVm9EQmRvcy1oRi1GVHpfYlQwOF9uNVdHaVcyc0tmdUR3ONIBngFBVV95cUxNbGhtOUVramVLRy1FTDByNTZ1aGxRS2dmZk92cHNUdVV0MkU3eVFNNVItYTM4YThISHZrSjl3T3BzN3RkSGJ4blBEVkhmcjFJSS1zQ0c2dDlqcUhLZG9PQXByUjk4TWVCaDBkVEdUaXlYV2pjMnJsZVNVSWN1ckthWUs0LWxSaWl2NGZ4eHZselpjYmNlOWltREZ2R0diZw?oc=5",
+      "Key Phrases": "offshore, turbine",
+      "Summary": "Turbine fire at Taiwanese offshore wind farm under investigation Renew Economy"
+    },
+    {
+      "Date": "2026-08-27 08:41",
+      "Article Name": "Compensation Fight Splits Incheon Fishermen Over Offshore Wind - Seoul Economic Daily",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlJ4dmg0OWJlLUxRVWltVXNLZ1RXTEpiZlV4TnlMek5rT2paRGJtVFQ4a0Q2MlJCVG1NU0hBUldWNEVGTjEtdXZ0blR3aVZMVWp4N3B1MmpDeWRQeDM2c1cwaFRkTWpfVXd6S29UN1AxWXpUTTNvWENjU2VKV1pNNjlDMEdjUjU1cHpVMDRJZWFvWVVLMjlWb3lwOGFXbzFz?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "TotalEnergies and Offshore Partners Walney sign PPA 4C Offshore"
+      "Summary": "Compensation Fight Splits Incheon Fishermen Over Offshore Wind Seoul Economic Daily"
     },
     {
-      "Date": "2026-08-25 18:22",
-      "Article Name": "Navigating Uncertainty: The Current State of U.S. Offshore Wind - FTI Consulting",
-      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUW5EYkp3OW5ZZ2tNTDJvU1JMV1VaYkFkU3A2ckl2NXpLZWhuenZ2REhpdDRUTHhmeE9LNHg5Ykw3QkZydmNDN09uZjR5WElSdzRKUTFEVVRLd0VlSFhiTVJXTzNTUzRWSlFvYy1POGRlbmlfUUhrVWVJRVlWNlFieUdHakUxY19aTGNnUWV6aXE5UHRVYWxSb3lEN1lZUGpnSV9J?oc=5",
+      "Date": "2026-08-27 21:40",
+      "Article Name": "Trump’s Secret Offshore Wind Payout Benefits Billionaire Donor - CleanTechnica",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME9HcXhNOW1uSFQzR2pkd3pPWW91T1VkekV0QXo1U3ZfQWlZMGFlcWN6RzhULVZDNDNLQjRadnNCODdKWDI4aTdrUUZUcDhwNzR4RFhYV0tVYWIySk94aGJ5QUJyeFk2cjdwanNIQ1V4WnFKeVN6aFZDYzc5SFNvZU9KWlJUdTNoUzF2NXVSZmpzajkzX1dkNjFpbzQ2ZFJt?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Navigating Uncertainty: The Current State of U.S. Offshore Wind FTI Consulting"
+      "Summary": "Trump’s Secret Offshore Wind Payout Benefits Billionaire Donor CleanTechnica"
     },
     {
-      "Date": "2026-08-26 08:05",
-      "Article Name": "Australia Launches First Offshore Wind Auction in Victoria State - Energy Connects",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSU9penNocXNSeERMNDFzdU1zV0tpSEJPcXZTdUJsc1dSbHdoYUhNb1V4TC1PUHlnVkQ4RklYcFUxWFUtYnh4b2g2OWlKRlQ2ajB3enI3YjNyWDIwYmtDZThfRjQ5WFdFTm9WaGxBVk1wSExhRDJ2UXBrQmFRY2RkdmprRWVjdHl5cjdsRTVCZnJHemJmemVkMERfTzdHRU9fVUFwemFJZGJhTF85TmFNcVIwdHBPZ2NBWWF4WWFQVGJLZw?oc=5",
+      "Date": "2026-08-27 09:14",
+      "Article Name": "A single bidder shouldn't decide Germany's offshore wind subsidy plan - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnV3RGpHR3ZTcFdKNXI4WTh2UUZBTmNkSnlxbHZkUFRrdnRTdU1lTVFncVA3dWoydGhfQXdZN0xDZlVXdkNpUTZERmx4NURyTVR6R1NjbWE3bXdTVDQ3WGJfZ2lqLXpFZWRVZWpuX2Jvdk1faURieW5ndTluNkV0VXJKVHItU3BST1pUUUFIUWpIakdrTGx2TEFvX3Q3bWNlVUFTcnJ6V1R1Z2FxSkFJYmtwQy1zajg?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Australia Launches First Offshore Wind Auction in Victoria State Energy Connects"
+      "Summary": "A single bidder shouldn't decide Germany's offshore wind subsidy plan Recharge News"
     },
     {
-      "Date": "2026-08-25 19:23",
-      "Article Name": "Uniper and Equinor Strengthen Germany’s Long-Term Gas Supply - Tekedia",
-      "Article Source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVI3ZHJPS0ZSdzNtRTdldG13cm1QQkxxZ2RGZEM1YkpFTTE4VzRuQml5UEJrQWRiRjVUakF1WVRtU28ybGhqeHI0RVk2LVdrNkpqUHV5MHFMQXh0bmNrZkxuUnE0SzVHUmI4VUptRkZxWWJXYjZ0QWd4UGtuV0dwVWFORXk4NXBPWWJ6Uw?oc=5",
-      "Key Phrases": "supply",
-      "Summary": "Uniper and Equinor Strengthen Germany’s Long-Term Gas Supply Tekedia"
+      "Date": "2026-08-27 21:40",
+      "Article Name": "When Arctic cold pushed East Coast power grids to the breaking point, offshore wind farms showed up like a quiet neighbor with a generator - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0cTJzY2ZLUzRLOTF5amFYaUVwdWhIR3pzd1MxUnhraGNmTXdpUXJGaFpqNWRVQVdqQ2UzM3cwVkp6WXpGY3lURFEycHFmSHZqekxnaXotOWtFM0RUbFNidzhaRHNmWkRtS3JrbVpRZmI?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "When Arctic cold pushed East Coast power grids to the breaking point, offshore wind farms showed up like a quiet neighbor with a generator Energies Media"
+    },
+    {
+      "Date": "2026-08-27 13:06",
+      "Article Name": "Next Ocean provides Motion radar for Esvagt Njord - TGS 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2FjVFVkMDFlRkU5ZkRTVHhoOHNwb2d6M0xpUmVpMnJDb1FaRXg3Q3BrTE5adndESjBYQ2lpN1lqUS1meVlKZGp6cDBJei1VS1RKYU1lUWJCOVhZMjMxRkNLUEJlYV9SMGFDQTN5REdyTngweXlfSnRYUm9rQ0o3UWxrc094WFIzQThIZFB2WmxfSldt?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Next Ocean provides Motion radar for Esvagt Njord TGS 4C Offshore"
     }
   ]
 }
