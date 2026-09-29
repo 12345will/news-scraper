@@ -1,145 +1,124 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "rows": [
     {
-      "Date": "2026-09-28 11:28",
-      "Article Name": "Vestas Wind stock draws support from 246 MW of new orders - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3ZGNEQ2VEp5eEZvczFnTGVTd1JNLWZYakRZYXNNUkczenBWaHNIMFpiWmVGRUNEYXBScGFIb25ra284N3FqdU1lS3Fxemx4THAzdG5OV1ZkajM3djVFaU9DcGgzVUJKV1BJN1hFeDEyNVFsNmszRVN2em5DUGlXZXBYTFdDWDVVZ2FJMGZ1eG1VS1pBUnlHcERkMDI1UTFkS3ItcWVYWllGa1h5TnJZTndMaFJ1cWJLckZxVQ?oc=5",
+      "Date": "2026-09-29 15:30",
+      "Article Name": "Vestas may struggle to hit order consensus as quarter draws to a close - EnergyWatch",
+      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xcVFZUllHMjF0TV9sQnNMX0pwaUs1NUR6U3ZEOXVrWUJaV0N0cjByTXFUaVdCNHlRVjBJVHlTZTlvbFhjVGItVUZfRnZJaGVVOFFqZGZ2dGFGOFQ3VXJiX28zWTV0VnN0N0JB?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Vestas may struggle to hit order consensus as quarter draws to a close EnergyWatch"
+    },
+    {
+      "Date": "2026-09-29 09:43",
+      "Article Name": "Vestas secures 55MW Japan order - reNEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01X0Y4QnkyN1BjQm5FanQxU2lvZEdHSzdQX0tBYTNYem45T2ticWFUd1NnbVZTREhTZFlvaC1GbTVmM2wzTnN3VExnRnZVczN0TmxBOEFYVWpUQVBwZTFIS0tyY1Utem5iTHhLTTloZG43V2pmT2hn?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Vestas secures 55MW Japan order reNEWS"
+    },
+    {
+      "Date": "2026-09-29 09:34",
+      "Article Name": "Vestas receives 55 MW order in Japan - marketscreener.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWU5TMktrcTJLeThscF9SYS1uXzJGQi00SVFpUU9nUm4yV2tmOVlBWlZVQkx3NzRTOTlOMzdsOEtWLUc2SlhncG1xa3BZVGhrdTNUMnIxNV90cTFrMmg3LUkzd0dqYzJTUXZ6VTBOb2JMUmtaeV9CWmtRTTh1dWI0aGxWYWJPOWJLeFY1MGdNTnBUOEE?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Vestas receives 55 MW order in Japan marketscreener.com"
+    },
+    {
+      "Date": "2026-09-29 08:28",
+      "Article Name": "Pressurized Wind Tunnel Tests Reveal New Ways to Boost Wind Turbine Power Output - WindInsider",
+      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlRnTEU1b1c4dk83YU9oRnhJSmd1Sm5vbEh5Z3c2SW9KZlZuYzMySkx0U195RGlFdTJVTHZseHJsUmJQeG5nQjlhRW9nLVNWcGxpU2gyaml4VERQWnFBOUpDNmVQSmZQZS1vOVpacHJoblYtMXZRR0hBMUlMd3ZGU2RLODJSdjBzS21CbXhDb0FSMkluVlFMMklEQkpDUGJ5OWd0enRYbEExXzgwWU9tNklqNllWZDjSAbwBQVVfeXFMTnN6VW43S2ZGaHU3dzZlSDZkZV8yYzdzZUJIelRvSjJHdjZ3U25lRnhfU19BMUJucjVoTWlmWTVkSlBYazZBQXhKVXgyVml5ak9OeU5IYW8tOG5fOXRKOUh1dHVITFNKNDJ1U3J2TWNqUGlYOHFTTGpYckp0ZTdNa3hIV0gzSGhaSHZmOHU3MDYyXzBhaDhXaWVDamttR0JHQnZGdmtaRzl4Z0s4WjE0dWUxSkpsUDFWWHBkR24?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Pressurized Wind Tunnel Tests Reveal New Ways to Boost Wind Turbine Power Output WindInsider"
+    },
+    {
+      "Date": "2026-09-29 15:28",
+      "Article Name": "Envision Energy Unveils EN-252/16.7 Offshore Wind Turbine to Deliver Performance and Reliability in Wind Environments - Antara News Agency",
+      "Article Source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM043cFdNb3RJb2p0dnQ4NEZMRFN5c2xEb2M4dEtjRjdPeE9Hd09fb2dOMjY1b0xYeHdZcWF4Nlk3QTlfZ0lBcVRrVk5GaVNVUmtDZkstZzEzVTMtRk5lb3dPaFNVMDhjLURnRVlUYlNCMXhPZXNJQ0ZFNHFIU0FYSFd1bW5QMXlVdFBoaUhMZV9mXzBWVFhuZy0zMEpHM2ZTSVVONGhUOTJDZzkyQkx1ZHNsb0NuX2lRNDlwbWF2Wk1zeUZ4SHloYmdKOFU4TVpGNWpqVzBqZHg5d2ktbHE4bWN1cTdwTGRnblHSAe8BQVVfeXFMTXNHOG5QLTFwYWlncVpDMV9wV2Jlc0xTNzlPSTRGcFN4T0NxUS15Z1Z5V2lJeTlGaGFvQUJ4TU9JakFVNlgzLWFZalhPM3h5Z2tLakZMLURVNDU2SkJpV0MxZWF6eGhwVkczZV9mQ2htVk9YbW5YU0FWbEFydFNGUGhCOW9jeHEycm5DNHhQR0tTbU15bnlpZ0NaZXBTTzd6bXVod19xNTRUX1JIZFdrT1dsTWd5TFpTbWEyTTNXUHhkckpyWFowcWFZTWpvcVRiN0ZicHFicU95bk91Zml3eW52ZFdicjljOEEtN1BHQmM?oc=5",
+      "Key Phrases": "offshore, turbine",
+      "Summary": "Envision Energy Unveils EN-252/16.7 Offshore Wind Turbine to Deliver Performance and Reliability in Wind Environments Antara News Agency"
+    },
+    {
+      "Date": "2026-09-29 06:14",
+      "Article Name": "Nordex Receives Wind Turbines Order for German Project - marketscreener.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEdBemhlSDh3elZUczVqUGMtclpnWS1acjhJRV9USjRwcldzTjVMZVFTb0xkdW02UHVLbjBqR1ozcWwxamJuVFNueldMTWsxRlpHaU5HWTFhTU1TU1U5cGxLdE5oNUN6d3o5WVJUc2VVa1FRWDA5YUhUem5GSHN0QmFhZkYwZlRMUVlnWmxfaHZ1YVRjZmlWZElxLUNUOHVmQW43MzZMakttSnc?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex Receives Wind Turbines Order for German Project marketscreener.com"
+    },
+    {
+      "Date": "2026-09-29 06:25",
+      "Article Name": "Navaris orders Nordex turbines for 42-MW wind project in Germany - Renewables Now",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeW5zaXRhSEtYRU9BUFNsSlNvZk9xTWNaaDJCMjRSYVNzQlZ6TkNQRUJ6SU1aWmxVc1V3bFdKNjc5NDRNc3JTS05wX2plNmxFRXh0VVAyeFNTX3ZjRlpFUHd2X08yN2tXLVhPcFhFVl9uWXZZVV93YTlBNFFneGtzNUZfNFZnUmhyODVCYVFhR2RXaTJteWpQM0FwemlYOHBoaUFfY0M1dw?oc=5",
       "Key Phrases": "orders, MW",
-      "Summary": "Vestas Wind stock draws support from 246 MW of new orders ad-hoc-news.de"
+      "Summary": "Navaris orders Nordex turbines for 42-MW wind project in Germany Renewables Now"
     },
     {
-      "Date": "2026-09-28 12:16",
-      "Article Name": "Big boost for Scottish port as SSE makes its choices for offshore wind mega-project - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzRjZHZNZVc3X25tWXl4TkZBN21MV1dGQkN3cFMwbGtud1ZuTEVHeGItMzJzcmdhZTJUTnloZEFObjFLMTVuWDhldng5ejVraW9XWHpIa29YdTNvMVR0NUs1czNoTl95ZE5qS3MxZU1XZGtGdzBSUklCTms1R0ljenhmRG92bFhqQzRsWUdjU1JWLXZZMjQyd01ONzJ0WkhNVTNkcDhTcmJybFNtQ3JCVWxhbms5a0xOTmQtdXZDWkpxRUlzb1o3LXZB?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Big boost for Scottish port as SSE makes its choices for offshore wind mega-project Recharge News"
+      "Date": "2026-09-29 05:30",
+      "Article Name": "Nordex Group receives 42 MW order from Navaris in Germany - TradingView",
+      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb2FqRUZhOWZBb2EyM3hENWZiUHNMT3NaOFB3Wm9wV3otNGRwUmR4bnRRVm94S2NzZzlrQnBKcHNkOXQ3WVB5cGYyNS16YUdBb1UwakxHYThGcXpCVW5SWUdhdkxOQmt3WlhsUVViRm02cjJIVDRXbkZRdWRmMmlDSG95c1V1UEh6OGF6YkYtakcxNk44aHUtcG9ndU9kbTNiSF9PaW1JSzZhNzhQQ002Rg?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Nordex Group receives 42 MW order from Navaris in Germany TradingView"
     },
     {
-      "Date": "2026-09-28 13:40",
-      "Article Name": "Port of Nigg prepares 14-MW turbines for final Dogger Bank offshore wind phase - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11MFh0azVfNVctbndHWXdmNzY0eGg0ZXhaSGFuR09HZTFQQ2FQQktPcDJlRXBwWGR0U01sWExXUVFxQW9zOG51R3A1TUhPcUhHdW5FTDhla0pXVi1GOThGdGJZWllMYUpF?oc=5",
-      "Key Phrases": "MW, offshore",
-      "Summary": "Port of Nigg prepares 14-MW turbines for final Dogger Bank offshore wind phase Energies Media"
-    },
-    {
-      "Date": "2026-09-28 06:27",
-      "Article Name": "Turkey’s Entek orders Goldwind turbines for 54.9-MW wind project - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXJsN1hDWEJKQ05QMFBXUXRRWlpfTGw3WC12UXZyTHdydDB2WmpwVm1XLTkwNjB6SkRwVDFuTUEteGZkYUtzNUtGYV81U2E2T3VIWEJ3RkstZjBzZVBhRzRhbGxDOVNydm0xenhKRDYwZGtBdzRBQVJXRkh2eTVBV3oyZHpiV1JkZWFYbTMxcWI1eVFyc1AybHNZYWV1dEdhSlUyck13?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "Turkey’s Entek orders Goldwind turbines for 54.9-MW wind project Renewables Now"
-    },
-    {
-      "Date": "2026-09-28 09:05",
-      "Article Name": "Envision Energy Launches Model T EN175/8.0 Onshore Wind Turbine at 8 MW - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTU2VTdfV2RoSmkwMUltd1ZBS0NpbXktV1pFSDVXcUVlNXQtcFRzb1VaNmwxdVotRmVFV1BWV0J3Zk40YzBQTFNlMVo2MjFnM1RMdUFJMEVCRnNfUlFtSl9WUkE2YWN3eFhWRE5IYm1MWHFFR0p5NlR1aVkzaTBVcEJFZGlLV0NXSW1aRVNMU2lPUHRIc0NpWnE1MA?oc=5",
-      "Key Phrases": "MW, onshore, turbine",
-      "Summary": "Envision Energy Launches Model T EN175/8.0 Onshore Wind Turbine at 8 MW energynews.pro"
-    },
-    {
-      "Date": "2026-09-28 03:57",
-      "Article Name": "Envision Energy Unveils 175-Metre Rotor, 8 MW Onshore Wind Turbine - Saur Energy",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG5tVFVvOXBDVkpFa2VZVldjTGd0ek9NdFVaMGtUX3E0RFY1ODNXYlpKdWZSNHBWXzN5eGZaWVplenZvb0JzcWRUMFMwNU1aRnNKX1h2NVZLSUxqTFh3OXJJQ0lqdkt4SnZKZk5HLVJiS3NFMUhwVUQ3bUNrcFd4THpVZ25UNndYSG9lTXFLa0hDYk9TeWp4TXpjd3Zab3BtN1d4MDJhYjZScUJoS0tKN1NsY2lHSmZkNGdR?oc=5",
-      "Key Phrases": "MW, onshore, turbine",
-      "Summary": "Envision Energy Unveils 175-Metre Rotor, 8 MW Onshore Wind Turbine Saur Energy"
-    },
-    {
-      "Date": "2026-09-28 04:25",
-      "Article Name": "Envision Energy Unveils 8 MW-Class EN175/8.0 Wind Turbine at WindEnergy Hamburg - energetica-india.net",
-      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVVpNjFOZmZYbVVldWdSSElpTUxoS2xJM2ZKbVFfVUJmejltZGM1SU0tZnQ3X3FRaDJ5WVJiaTZpS25wa0pDUkNEYTdHU3NvV3I0T04wOXFYSjVEeVlSVUdaaVpxcm5hOFptN1VSTlFLb0JkVUo2RDNfcm9ud1VaYkVsam1GZUdDR0pVUzB2ZVRpYURBVTRscnpwcnNnME1mcGRlemlYTDBOVlNGVjBrcmViVGV3b28?oc=5",
+      "Date": "2026-09-28 22:10",
+      "Article Name": "Nordex Group launches N193/7.X wind turbine with 633-foot rotor and up to 7.3 MW capacity for low- and medium-wind sites - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxU3JiTFhQOUNMM2ZIMnJ3OEZfblZYRGQ2U09TLWk2ZUVra2pxV0M3b3RCa1VBdzNldHBqbGloQ0o0UHNaMHozVjdoTmI4VDliRWlPTXRzTmwwc0xlcFRnRlh6TWU?oc=5",
       "Key Phrases": "MW, turbine",
-      "Summary": "Envision Energy Unveils 8 MW-Class EN175/8.0 Wind Turbine at WindEnergy Hamburg energetica-india.net"
+      "Summary": "Nordex Group launches N193/7.X wind turbine with 633-foot rotor and up to 7.3 MW capacity for low- and medium-wind sites Energies Media"
     },
     {
-      "Date": "2026-09-28 12:22",
-      "Article Name": "Lirion Power acquires 77 MW onshore wind portfolio from GIP - Energy Global",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczZiOEdKSDBreUx1Ym5wRkgzQ05lWG5iRE5XbFlhMndZN0daRW5qZm5DaHhTdWhkTFVPSV9XanNZZi02aktfYVZFVVJGaUVVeTFHMGZJby12bXNwT04yaWhRaFJJN0VKMHNFN0pFTmhfbEYyOUI3a3hlS3U4aXk1UEdyX2hEcUl4ZWExOGc4RXpObGZFVHdHODRaaUJSUXRuUC1vMlhR?oc=5",
-      "Key Phrases": "MW, onshore",
-      "Summary": "Lirion Power acquires 77 MW onshore wind portfolio from GIP Energy Global"
+      "Date": "2026-09-29 07:14",
+      "Article Name": "Nordex Group receives order from Navaris for 42 MW in Germany - assetphysics",
+      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVl4UWZpQmF0a2dkaTZKTUM1VV8wT2ZjanlldzQtOU5XeGlrZ0ppNmJGREV3SW5lVDZvYjEzVWpTTW1HZkdqeWpaTG8wd0xlUDdYRGhCSUlhR0JRX21kNDlVclBGelRNc0JHQ1lZZVJpQU1XdEZaSmluSHo2blR6ZkZVbWxaNXNicTNfT1FyUjA?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Nordex Group receives order from Navaris for 42 MW in Germany assetphysics"
     },
     {
-      "Date": "2026-09-28 10:52",
-      "Article Name": "Lirion Power Acquires 77 MW Irish Onshore Wind Portfolio from BlackRock’s GIP - SolarQuarter",
-      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmViRFdmT0ZqNXNTYkR1Wl9PMmJLUW1XdXZwcF9va2VUbzBiOFNiRkRWbzllcGNfeFVCRk9KZ0J1QmVIWnpOdlNPSWpUT2p0UkppSXpxVlhjako4bjQ2M2JreFpOT25rMlVTaDEtUjZ4eWpvajg4WUNzSmVsdDZzWVVHRjFhYzUtV0dsOTdJZmk1SnBFRkRqMERhLVhyN0RJZFJCRnR1NXUyMkEtN1M0bkdDWQ?oc=5",
-      "Key Phrases": "MW, onshore",
-      "Summary": "Lirion Power Acquires 77 MW Irish Onshore Wind Portfolio from BlackRock’s GIP SolarQuarter"
+      "Date": "2026-09-29 07:29",
+      "Article Name": "Nordex Secures 42 MW Wind Turbine Order From Navaris for German Project - SolarQuarter",
+      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFlTYWRzVHdWSmdKM0FHci1wSGVFbEI5ekxMd1FoMmg5S2hHREQ5UHlZY3ltUGd5NmJEbm94Z25ySV9NT0JIMmhFV1otUHNNbk8tWmNhMmhjNTkxTEsxZzlJay13bXQ3UDY5akR5ckJEQTBnOC1lWk5aMU9wNHl6MEtDTmFNTVMzRlpMQmFfTHBQQkJJeHhVR3VORHJkVUdrTDFidTFNbXJPZFVk?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex Secures 42 MW Wind Turbine Order From Navaris for German Project SolarQuarter"
     },
     {
-      "Date": "2026-09-28 10:15",
-      "Article Name": "Suzlon and Exel Composites form multi-year wind power partnership - Engineer Live",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUdlR1NyVUhoc2p5NEtkTXE3b1dGek5GZWhBX29DUEpnNVRxQ28taGxVZkJlMWhPYVk4ZFVJclZ0a21oMnk0b2FaQU5CQVNYbXJuWU1wYWlYY05nN2cyQmV2Q3F4b2ptY0hsNGRDVWgzdnVOU05DMnFqNlBGRVBiMFpmQU5CVG10RzFfcXJ4LVM1T2JLa0E?oc=5",
-      "Key Phrases": "partnership",
-      "Summary": "Suzlon and Exel Composites form multi-year wind power partnership Engineer Live"
+      "Date": "2026-09-29 07:06",
+      "Article Name": "Nordex secures 42MW Navaris order - reNEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02OGlPREExT0hLV2RTMHQ3QjR1S1BFM09XVDUzdWw1UG1pbGMxd1Z0bVhOSXc4b3RKWXlhSy1rZDkxaHRGT0F3NE56UFdKTkxXVDhNanNBMW14WS1lU2czZ1E1VVlBQm1xLV81UHBQQ2ZyM2E0QmRoQWZn?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex secures 42MW Navaris order reNEWS"
     },
     {
-      "Date": "2026-09-28 11:37",
-      "Article Name": "Exel Composites and Suzlon Extend Wind Energy Supply Deal - eurekamagazine.co.uk",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ0JyWklWeEtwMTUyWHZ3aGN6b1NubXRtbDg2ZUduQXI0T0VBa0R0bWhheTFsc2haY040eGFVVjlLLXo4UzBjYlAxR01nbFk1OWtJZGVxU1lyTXB4cl9HMzFEa0lYSm9LX1lZRV9oX0NsMkR4X2hKSFd6eFZlLVdOdGZiUUswYlhpM0Q0SUZuZm1kaGhPQ1V1ZDVkYlRSV0liWGx1cFJ3?oc=5",
-      "Key Phrases": "supply",
-      "Summary": "Exel Composites and Suzlon Extend Wind Energy Supply Deal eurekamagazine.co.uk"
+      "Date": "2026-09-29 07:01",
+      "Article Name": "Nordex’s 42 MW Germany Order Comes With a 20-Year Service Deal - Discovery Alert",
+      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenZPVVk4SXpQay1QbkFxQTNFRzRVakV2Vl9aMTdZTnhGdXMwbm5ScjVJXzdROWhrR3FQbVo2UVQ3bjk0ZVZwYWhoNWlla1VnNDIyYnU4RFZlZlVnTHBHRWw3b0NjVEZDZ3loNEstNGxKcjVCVzFoMmg5RjZaYjVnYWpVRWl1RE5talhXUHBR?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Nordex’s 42 MW Germany Order Comes With a 20-Year Service Deal Discovery Alert"
     },
     {
-      "Date": "2026-09-28 12:07",
-      "Article Name": "Ørsted Targets 30% Offshore Wind Cost Reduction Over Next Decade - dredgewire.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR18zWHhQd2NoeFZZYUtOMEF5OUdxVVY5NWhiZHJja0l6NDNRZGFHR1VpeTJmZWdmcXVNN3VOQkxWWEJOUUVvaWdSTzMyX19xdndBN3VBNnlnS1dmY0ZQU1U5bVY0V0ZybktLM1E4RUdtNEtNd3N6LXprT0RnNnFtOERoaVBCa21IVXV1RVFJa28?oc=5",
+      "Date": "2026-09-29 15:00",
+      "Article Name": "A 279-foot wind turbine blade riding tilted toward the sky came down on its own truck when the trailer's hydraulics failed in a Black Forest S-curve, and a month later the blades are rolling up the same mountain road toward five 819-foot turbines - Autonocion.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVUtR3lmRjJOZ3d5SmZzSWN6cjZGcFllNFBBWVc4eldOYXhJLUpjTTlvQXA1VGpOVmVnSU5kX3RuQ19vN0JYeExuWHc1MVd5MFJZeUFmRjBmSTFrSXRMUWJJTHAwTVhjYTQweF9vcmlDaDZmOWo3dTdaUXBVcW4xdWxUTVA?oc=5",
+      "Key Phrases": "turbine, blade",
+      "Summary": "A 279-foot wind turbine blade riding tilted toward the sky came down on its own truck when the trailer's hydraulics failed in a Black Forest S-curve, and a month later the blades are rolling up the same mountain road toward five 819-foot turbines Autonocion.com"
+    },
+    {
+      "Date": "2026-09-29 17:55",
+      "Article Name": "German 7-MW wind turbine uses split generator assembled onsite around enlarged external rotor - EcoPortal.net",
+      "Article Source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sZWVYaUJoajB1eC1nSmxfWDN0SEtMa3lndmJYc0t0T2lBWTZ3Si0zci1RRFg5VkFCQXRNdzFfaF9mX1N6WHVJS05oaTdoa0lTUEo1ME14ellRV2ZJYWFsV1d3UnVRdENDdHZwMG11Mk9uNVhsNGVkSEhscw?oc=5",
+      "Key Phrases": "MW, turbine",
+      "Summary": "German 7-MW wind turbine uses split generator assembled onsite around enlarged external rotor EcoPortal.net"
+    },
+    {
+      "Date": "2026-09-29 07:56",
+      "Article Name": "Wind Power Equipment MRO Service Market 2026: Wind Turbine - openPR.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOE9HZHRhQ1F6Z0EtNUM2bk9seGFfSjByZmlZUWpsUW11RDB2dXlaZmtrMDhFMkxnRmU4UlY2MC1MM3NEOU5FSWJoVHdRaU16RVpIZ0RPYUcxbzRUUFhrMll3TXk4WTFHUHd4S21zM3FrcG96cmpudktRaGl4VnoxUzB0NWVveFVtMHBETlRSMzZjbS1xcDdJOA?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Wind Power Equipment MRO Service Market 2026: Wind Turbine openPR.com"
+    },
+    {
+      "Date": "2026-09-29 09:35",
+      "Article Name": "SSE Picks Montrose Port for 1.4GW Scottish - Offshore Engineer Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3pWZUZscTd4NkpRNTRiR1UyU0RFVVpJNF94WXVaYUpZc29mXzF0cU5BVVExdTBsX0FfX3RoeV9BTTdQb0tUcVh0NnAxdEZjZmF6YXo0NjJtYkptcmVrUl9FNU04VWJCNXRuZWdyWVhCVHA5YUFYeUFYM1RmdzdETHR3bGJXSlJzU1JvR2ZBM0RubjRCN2VDTUVsUWNKX0RVM1VJSVhBMUlsdm5Rdjc1VlV3?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Ørsted Targets 30% Offshore Wind Cost Reduction Over Next Decade dredgewire.com"
-    },
-    {
-      "Date": "2026-09-28 11:02",
-      "Article Name": "Siemens Gamesa taps Purus for offshore wind vessel support - Splash 24/7",
-      "Article Source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkRjZDl3S2dXRERpcVBqSXRTWjFDNTVrc2tnQWRxNm9QR05BWHQ4aGFlQ2xrNGViOTQxeEFuQVpPcC1QYVFWNEVvS2ZybDVDLW1Vd0M1V1pZRFVDa2l4RGhhY0ZBOW15VGREa1hQalJYRFZISGpTYTkyNGVQNmtHSlhfZ29QQW8z?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Siemens Gamesa taps Purus for offshore wind vessel support Splash 24/7"
-    },
-    {
-      "Date": "2026-09-28 11:56",
-      "Article Name": "Boskalis Completes Major Role in 913 MW Borkum Riffgrund 3 Offshore Wind Farm - dredgewire.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0VYZG5yV2FGMmxYNkRuQVdmVTdLLTdjRzRyMXpGRHNxOTJRNE8zNW9sbFpmMGpJeUZRUmdQTXBDNWI1QUplQm5xQWhydi05ODBhV2Z4V05sMTZjaWVjRVRVVm44NC10NllvMHB4ZjRhd0xCQ0gtZ241VzN1Skg3QWpoVkhhaV9hcjYzMXQ2SkgtRUkxSTc4cEdiMzdfZGVzY2FJ?oc=5",
-      "Key Phrases": "MW, offshore",
-      "Summary": "Boskalis Completes Major Role in 913 MW Borkum Riffgrund 3 Offshore Wind Farm dredgewire.com"
-    },
-    {
-      "Date": "2026-09-28 11:30",
-      "Article Name": "Mooir Vannin Offshore Wind Farm: a major opportunity for the Isle of Man’s economic and energy future - Manx Radio",
-      "Article Source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRkY3YXRYU0N0ZUdpY1dESWpHa0R2WFVhZ3BUVXFEa3Y5cUJ2eFFGSEx0ZDdUWUNLRUlNWDNFVTdrbWFJOGtiR3hpd0thX0tsYmF6dmp6S2I3ZVZST3BnS3NfUXNJSjhHSVRnMjg5U2QxOHM5WnNoVUdrb2ZTbW1mQldUaFRjUGpYVmh0cWlVenJQMzZoYzhoV1RkcXg3WXNJV2FJd3RybGk5RzRXVGRhUE5ibFpkUDNrSlVCbUNna1NIX2pzRDVQSkxSSGc0TTVkcDd3TE5VQXktYmdrZm5QQWhscExaak0?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Mooir Vannin Offshore Wind Farm: a major opportunity for the Isle of Man’s economic and energy future Manx Radio"
-    },
-    {
-      "Date": "2026-09-28 11:04",
-      "Article Name": "News Content Hub - Pacifico Energy secures survey licence for Vietnamese offshore windfarm - rivieramm.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc0IxTTZYZHNPcDdPQlNVWWRjTVl4RzRQeUdnWWdwUWd0NDN6aFR2RGpsVnZCZ3NiNE5LSG5IM0NubWRiRUJiMTRlU2llVS1Ebk1fMG1GQjBKMk1haFJOMk9TWjNoaV9OSHcwSVV2UVVYQTdaZVBpZ2pKYmZHMk1LYXUzNl9KUW45UzhxY2Vsc1ZPZkZlZEdFU19EaUxBUnNDQ185Wlp5b1hqdkR0ZHFmTWR1cGpTT3I1S2NWWA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "News Content Hub - Pacifico Energy secures survey licence for Vietnamese offshore windfarm rivieramm.com"
-    },
-    {
-      "Date": "2026-09-28 08:49",
-      "Article Name": "Shearwater Lines Up Three-Year South America OBN Campaign - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXllaTRsdG1OQUdYZ2ZJaFlQa3Zpd2xGbldOREl4cDg3dDlKZ1hCNG1oOE5xUUZLNU9OVzdMQ1Q4THhsdktQYW1tQW1XNDVodWZoZDE3WUpNbDlpVGpoeHk4Vk1oX3BCX1lROUtjUXpQTXVKVXJaSmpQZWF6WV9keHZEc2lfcmwyMkNoaThlRy1jMnBwSXhGVzBUOFo3bTJZ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Shearwater Lines Up Three-Year South America OBN Campaign Offshore Engineer Magazine"
-    },
-    {
-      "Date": "2026-09-28 10:01",
-      "Article Name": "Heavy-lift drones move nine tonnes during offshore wind campaign - Splash 24/7",
-      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzI3NDFRMjNGSWppWUZtT1NiVkNIQWw0YjE1VVZYOHYwY0E1eEtQWHhnVGVGc0s1YzZPOGg4VEZqd1A1N0xhcGZNNWlXMjdaVy16Yk5GNmNiRVdxT0tUMV9pbi1JcHZaRnNzT2JXbWNBNlAwVm1IcGpGVWdsdHBxMmlNM29qeUg1d2ZLVUIzamY?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Heavy-lift drones move nine tonnes during offshore wind campaign Splash 24/7"
-    },
-    {
-      "Date": "2026-09-28 12:49",
-      "Article Name": "ACUA, Forssea Complete Remote ROV-USV Trials - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjR5X1JudzdSMUdDOVlmendsVFdPM2FfSmZOYkxtaEctMlYwY0Q0anpfa0lQdkNiX0MtX1dDT0pRajF3eHF6b1czMENNNjlNU0QzdVdON2VuVlN6RldKM2h5ZTVkMUt6X1RtdVZEelNHM1drbmhjaThjLW5ZM2c1R2k2cTU0UlhGQVF0UldR?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "ACUA, Forssea Complete Remote ROV-USV Trials Offshore Engineer Magazine"
-    },
-    {
-      "Date": "2026-09-28 12:20",
-      "Article Name": "Why offshore wind's 'deal of the decade' was truly remarkable - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGJJb0pPY0pDN01WNUZsbkxhTnV4SnJYeWFxeU1LTUZHWldJOTM4RnZ5N2tmUnJPenQxdDRndTdyd0VEUkJzRGRDRTE4a3pRTVVWc1BmckU1TEhlSEtzQzNqaU9Qd0xqNXZOQkp6ZzhvSW1oaTh6VjgzaGl1TFFxejVDek82TC0wUEtTLTA3bFJQakd5TFRUQndYcEpSVE5sNGZhZTQxS0I5d2tV?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Why offshore wind's 'deal of the decade' was truly remarkable Recharge News"
+      "Summary": "SSE Picks Montrose Port for 1.4GW Scottish Offshore Engineer Magazine"
     }
   ]
 }
