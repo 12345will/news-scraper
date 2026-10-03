@@ -1,159 +1,40 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "rows": [
     {
-      "Date": "2026-10-02 09:23",
-      "Article Name": "Vestas reports 119 MW of Asia Pacific wind turbine orders at Q3-end - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDFpZTlCVnp2S19ETlVZNzJ6b1N2Ui1JUWNUbjVYVUdVaHZ6NGZFTk5NbWlKMXdhMlVUd01ib1ZfUkNleGFyUEZTUmZKdGZOTFgyZjJVUFBwZEkySjVkckxVT3JucU8xVEdET0J3UXZka3NKQVVUX0psaEpvZ3dUc05iTVFjUWhucmJ1d2ktTWcxZmdjeXBrQlFJSXVBcFlhc2RLY2FfbHo0S1E?oc=5",
-      "Key Phrases": "orders, MW, turbine",
-      "Summary": "Vestas reports 119 MW of Asia Pacific wind turbine orders at Q3-end Renewables Now"
-    },
-    {
-      "Date": "2026-10-02 06:45",
-      "Article Name": "Vestas orders miss forecasts as rival Nordex also reports decline - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01RGVkeFFuTno2SHRzY3lZQkEwRVJYVjlMOW9wUEZpdHpjZVduaXhQQV9hTWt1Y0g2RXFEWmdla3N0c1BmXy04b0ZPeWNfSGNxcE9GWnR5Uy1JaDNPOXhOT1hCNktfZk1qSE1F?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "Vestas orders miss forecasts as rival Nordex also reports decline EnergyWatch"
-    },
-    {
-      "Date": "2026-10-02 09:00",
-      "Article Name": "Acta Marine Christens CSOV Chartered by Vestas - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1Y1eVhyekIzTzk1aWxIanA4WkVIMWVJMVhIOGFnQ0dMWkp6eUFiZ1BxdmtWeWNmNmJ3Q2tjT2pWaXlhYXBoLTJUMktpZXcwakJFVXpKZ2lxRDkyYnJJLUlvYmpRaTNnc1pYcG52TlptNE5obkppTnhISEplV2dUTUMyaU1VUTlNdHVMTDlESQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Acta Marine Christens CSOV Chartered by Vestas Offshore Wind"
-    },
-    {
-      "Date": "2026-10-02 13:06",
-      "Article Name": "Vestas Wind discloses 536 MW orders. Vestas Wind stock gains 4.02 percent - AD HOC NEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczFheTdvdWd4TUlfT1hnQTVvNElxMlNkS1FPb2lrZ1RNVG1qbVlqVXJCOUx6djc0SkFOcnBDRDVEV0hJYkFTY2ZZMFZQQ002Ti1nNW1HX1JTWmJyVEVLbGpVaGplcXRocFFVRzMxMElyLUtTdDB0QnN4RldOdUp5WlVyaldCUHVLNmRNdEUxRHYyWVJJMXd4ZjQ0anJTTC1JRGRiT2F1Q3dFZVVHdnd0RHhnOTFhNzBaamxzVFV4U3JTbFY0aW1mVHM0QnU3TVYy?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "Vestas Wind discloses 536 MW orders. Vestas Wind stock gains 4.02 percent AD HOC NEWS"
-    },
-    {
-      "Date": "2026-10-02 08:15",
-      "Article Name": "Vestas turbine faults push Kincardine floating wind farm to GBP 44m loss - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WOFRIZTJocXl3bTN5QkNfVGNOeXdPbVZlSkxmVENMZkJ5NGN6WEYtRWRfMEJYdnh5eW1vb3V5a2JPVDFpYVpLdmFvdGVLX0RBbktCR2Jad0dkMEdTcGVtVDRaUExjNXVWVXc0?oc=5",
-      "Key Phrases": "floating, turbine",
-      "Summary": "Vestas turbine faults push Kincardine floating wind farm to GBP 44m loss EnergyWatch"
-    },
-    {
-      "Date": "2026-10-02 08:54",
-      "Article Name": "Vestas receives 522 MW order in North America - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXl3X1pOTWQ1YU9Fckl2RC1KQmxTT3pEc0ZxLVd0M3pwYmFoU19ndExTZHFUR1hYT3JxTV9MU21DQWwxb0drZ3VMeXFzODBXRC0ySXRYUEgybEh0SEJTWlhNdWNGcVg3YzdzQ1l4Zm00QURoUmROSC1fRnZMMkhockROSTVhT3lUYUVOR1ZEODBabGl2VTdlZ21ZQXQ5d2c?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Vestas receives 522 MW order in North America marketscreener.com"
-    },
-    {
-      "Date": "2026-10-02 09:00",
-      "Article Name": "Floating pioneer 'may never make back money' after crippling wind turbine failures - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZDBJZ3h0cDRaU1NHOEtHUFlha0lCRThOS0gzbUZKb25EYnhuZmViZ1VNRGE5Q1pHWGZ6bi01d0JDU1R2dEJBbnVsZUdqYko3RU1LY0JVaXVTQ2d6REttelFIUmh2cnNpNFhlcGFpdFpUV085bUN6SUVSeDJuanpwWEx3OE9Eclg2Y1B2RGtyZlJwRC13UldrMzRJdGFSVWF6NjJPTmNhNkYxY1NLSkQ5VExfWVhnc1ExS3J6T2pLc3g4YzhwUlhad0ppZFdsVEcxOTNiS2I3THRyY1JYcXg4?oc=5",
-      "Key Phrases": "floating, turbine",
-      "Summary": "Floating pioneer 'may never make back money' after crippling wind turbine failures Recharge News"
-    },
-    {
-      "Date": "2026-10-02 00:09",
-      "Article Name": "Scatec begins construction of 900 MW Shadwan wind farm in Egypt - Green Building Africa",
-      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjRDU0p0b2F3N3NJcW1wU1VaOWZERllZWmd5dXhYT1htVnhPVVRQblpoX1JpekxrX2l1dGZKbVJKdWpiZHI0UGFPWk1CZmZVWHJIT0dHOVFwWFpEWnp0SlhxSzZtdHJfREJYbTl2OE9DZW1va2p0dlVkREpWZXJtOFBIZ1M0YUtfaWt3T2F6NWFGLVc2QlBXZ1kxbkJCQ2tlbTRxRQ?oc=5",
+      "Date": "2026-10-03 04:51",
+      "Article Name": "Rezolv Energy Energises 192 MW Wind Project in Romania - Energetica India Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnJCSFZtbUx5SFVOalhxQUFDc1RJeFBEb3BELWRXSXIwZHZxZGJpV1RqNVh1ekkzemVQV3pSUURCRHBqRERTeWU3cDAySnFWYU1BVW5TSkh6a1cyVE1paUs5NGpjVlFzT1hVX042QTc1eHBYWEEzZnpHNVJjSTNEN2tvdjBhYktGOU1vODVDMy1xVkxMLTcw?oc=5",
       "Key Phrases": "MW",
-      "Summary": "Scatec begins construction of 900 MW Shadwan wind farm in Egypt Green Building Africa"
+      "Summary": "Rezolv Energy Energises 192 MW Wind Project in Romania Energetica India Magazine"
     },
     {
-      "Date": "2026-10-02 01:21",
-      "Article Name": "EIA approved for 350 MW Unika wind power project in Zambia - Green Building Africa",
-      "Article Source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejdTSnlBQWRqbmg3a3BjVjJBSTBOQTM1Qlg0ZnIwMnRKMzRiallBNVpRcWczQUdCM3k5M2Y2RDE2NF95V1A0RTRxc0Z3LUYzbHpuVzcyRkdIdUdzWlY1TUNIcG1mMzFQT2FyQ0hyVWFWekVzNDA4d294cjFSaDJGd3E0MkNPb1V4bmJRZ2UtUXVjbi1jUkRkWG5zcTNfZw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "EIA approved for 350 MW Unika wind power project in Zambia Green Building Africa"
-    },
-    {
-      "Date": "2026-10-02 14:15",
-      "Article Name": "Chinese turbine makers look for openings in Europe’s wind market - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13d0ppMVludHg1Ti12M3ZJb2RPMlEyejZPZ21NUXRLR2hITC1VMU93LWxDc2E1VUh5RV96UzB2ZVZ5R2dxeHZZUllyXzFvMXpyZ084RVk1V0M1NklIc3hmSFlOa3RweWNUOXJF?oc=5",
+      "Date": "2026-10-03 05:39",
+      "Article Name": "Fill for Life: Mobil's Wind Turbine Lubrication Solution, Coming to Windergy India 2026 - Energetica India Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3pUdWQtZmJ4eVNXNGpMOFJkcU54NmlVRmZTOEFHenhKY1ZPS3ZkRVRPSEQxRzRBYzl0cWd0RmhXaXhvVWdMRkxORzRUUHdmNEYweFdncGFsakJlYThTa1dEZHNuOXRxc3c5VkhhZ1FiV25qRnAxWXp3VVNyRHo4cGVFOTlLS1p0dnRQVEUyYjZpZmNXNUZuTEpYQTYxbjZsYmdYelMzNXY1a2RlQVpFc05pWTBBOVJVVTJWRllET3dYZGZq?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "Chinese turbine makers look for openings in Europe’s wind market EnergyWatch"
+      "Summary": "Fill for Life: Mobil's Wind Turbine Lubrication Solution, Coming to Windergy India 2026 Energetica India Magazine"
     },
     {
-      "Date": "2026-10-02 08:31",
-      "Article Name": "World's tallest wind turbine rises to 365 metres in Germany - AOL.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3hzcVozcEU4RDlxM0VpR0M2Z2tvUkpUVjJwYllBWGJhX2MzMi0xZlgtRElqa2d6WndFNDZ5SEsycF9XMXZuOE5EcVEtdlZMbGxCYVVNS2xJY05HRjJRTVlMM3VvWm1aN2MtVm9wTVdSSkROVTZJTU84WGhjcW5DdFV4b2FDZw?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "World's tallest wind turbine rises to 365 metres in Germany AOL.com"
-    },
-    {
-      "Date": "2026-10-02 10:50",
-      "Article Name": "Mingyang’s charm offensive in Norway continues: ”We have a couple of floating projects” - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3R0ZDRTA2dlJnbjNyM0c1S2ZFV1hkOU8yM2hKWTdvZ1NuTk4wNnBqUVd1YWotdklveHBlcThfWWVobmxsZFdDeDJKLVBXVk5QMmNKZEo1dW9RcXdXS2dLMWFtejB3RF83dmxB?oc=5",
-      "Key Phrases": "floating",
-      "Summary": "Mingyang’s charm offensive in Norway continues: ”We have a couple of floating projects” EnergyWatch"
-    },
-    {
-      "Date": "2026-10-02 08:45",
-      "Article Name": "Turbine blades find second life beyond wind, turning waste into infrastructure - Anadolu Ajansı",
-      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFhZR29kY0llYkdGaWpRRVEwZm9TMVl5dThnUjg1cV8xOFI2cDVoTGVYUG5lc0ZIbEd6NWFOU3JFemIwYmFVdDNrZzlOVGFwYVExY0UxUVJuREJmbTdhQ3VyY1ZMcV9WbTRGNW9mdTlHZWJhLWxPNDdqQW9tYlBRRkRTUVl5NzZVdzBoamFUZlVNMWdVbUZBSFdvZjgtZGVnMzA3QmtZbkdtd3A1T3pYUzZRbG5LOGw0REJpag?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Turbine blades find second life beyond wind, turning waste into infrastructure Anadolu Ajansı"
-    },
-    {
-      "Date": "2026-10-02 11:00",
-      "Article Name": "News Content Hub - Ørsted and CIP confirmed to have bid in Taiwan’s latest offshore wind auction - rivieramm.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0RYcGs4anN2djBzNHFiREl2OFJUVlRlc0hqUFlzRVY3NVhCYVVCV0RMMEY0bWppQ2d4YWhNNlRhaV95U1pEMjZBWDZqRElmeExkaHlXdFVIWVV5V01feUZ4LWxKU3JEd3F3VjgwVF9PV1AzRmtNT0k1Sk54UThlbVc1eGRUQmRnVnhpZ1I1RE13MVg0cE5ETFZ3QjBjM0lrSllEMUx6U0pCZU9BZkxOOEw5UU1yX0lzQUp2LV9XTFhFT3M?oc=5",
+      "Date": "2026-10-03 13:55",
+      "Article Name": "Cape May Mayor Who Took $500k From Wind Giant Hoping to Remove Anti-Offshore Wind Congressman Van Drew in November - Shore News Network",
+      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDdzbUctTjBEY29DNzhac1ljbUtUT1Q2Y2w5Q184S0VWc1NJNkJRMzBFdXpLVzRfVDhuY0xKNXNDdk1ybldkcm50OVd2N2IyRnBMOUZOZm1ybUdfVzZxYkEtWWZWWndwSVFIYXBBa1NaSlV4WXhjc2xjR0wzemVVa3piMHBmWjdCLXU5MzRjMVN2eWpBb1kzZnlibUdVTmNCLWVXcnpScGRGQ0RmNnFGQTBDRzhWdG9zR0xOeUV5MGpvZVJhZU9pcnd2WkNOYWctUjhBd2FrcTVpWDlUZGpBUA?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "News Content Hub - Ørsted and CIP confirmed to have bid in Taiwan’s latest offshore wind auction rivieramm.com"
+      "Summary": "Cape May Mayor Who Took $500k From Wind Giant Hoping to Remove Anti-Offshore Wind Congressman Van Drew in November Shore News Network"
     },
     {
-      "Date": "2026-10-02 10:59",
-      "Article Name": "Port of Bilbao deepens Korea offshore wind ties as delegation visits energy hub - Breakbulk.News",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGFSWWp5YWlZRXpRTHdxU1g5LWtKWlFVR21WSGJjTGlDbF9OM1FVZTBZTjd5Qks2THlkOVJoQ2t2Z29MVHBxRllRQXJuTG1JajVzQV9Pc3ZNVFNCZ2szVE1IVEhPelNibHotT1RDeW42WkhHZUpaaEo5X0ozTFVtRUxNWHZBcHlWbURTNmIwMWZvbzJNSHI0endvZTlJMGl4LU4xdk1B?oc=5",
+      "Date": "2026-10-02 18:13",
+      "Article Name": "‘Wait for the clock to run out’: Louisiana offshore wind energy leaders look beyond Trump - Verite News New Orleans",
+      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaFdmMmdxdnNhUlJfTktxQXM3SmJNQjFrOWlwT2FzZllLdGRSWlkzMHhoT0tVckVad2VYT2V0dUQ1M3NtcDBTMWdNMi1FNWhhMHBxM2VwdHhjV3M4MERPSkxKeXB2TTFmZlRmUV9ELWJOanpqWlc2X2I1aXhEVzNXd01uSEJNR2VtdUZhb28wMnVScjFNR2Q0Z21ORlVjNHUzeG4tNGZDeXBRUXZlVWt4NHpoSWZUcGtHRHlubGFR?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Port of Bilbao deepens Korea offshore wind ties as delegation visits energy hub Breakbulk.News"
+      "Summary": "‘Wait for the clock to run out’: Louisiana offshore wind energy leaders look beyond Trump Verite News New Orleans"
     },
     {
-      "Date": "2026-10-01 21:20",
-      "Article Name": "The Wreck of The Mistress, Two Lost Fishermen and an Offshore Wind Farm Has Some 'Splainin' to Do - hotair.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb3lYSnp2V19SU3V5bVRTQVNORTduQlpXV0lQRE94Nm9BR3pmWlFkUEJVRUFnQTdNcU9Qd01tNkxVQnNmT2Y0dFE3dC0zNGs5MVV3UE4zY21MM083VEZ0U3lma2NsZTZ1aWNFc0YzNy1ydVhhZ2p2eU5XMk1OZllMWmtXXzI5SnNFLUItNmRBX0RaZlNxSnhRNC1UeFZETTU1Z1lnaHBaM29Cam5WU3A2anV3UTFiVVRkWG1MQ21JX2d4dGg0VVJPSFU0Q283dG9DUzBiNlhBWml2b2hvMlpyYmZrOWxRS0R5?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "The Wreck of The Mistress, Two Lost Fishermen and an Offshore Wind Farm Has Some 'Splainin' to Do hotair.com"
-    },
-    {
-      "Date": "2026-10-02 09:42",
-      "Article Name": "New Owner to Extend Life of Germany’s First - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamY2eVhyTmJGSXRyZkhZMFJ2RFF1ejJ0bGtqTGFvamx0dGFJMlR3ZXhhbHpZUkdBdGlfQXRjb1lSWnNzMmZnWlJDOUVWV3ZpakJNY2lrN1otVzllOWxTQjFONlJ4MlZUektUa25oV0NIdHVfMFVvMUdvcVJUQzRpRzRyc2g3QlRzeEtjUXh3TEVKZVFnY2lyQTU3a2p6N01jTVJEYWZmWQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "New Owner to Extend Life of Germany’s First Offshore Engineer Magazine"
-    },
-    {
-      "Date": "2026-10-02 06:47",
-      "Article Name": "New Owner to Continue Operations at German Offshore Wind Farm Previously Set for Decommissioning - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2tqYVVQS1JiZjB5d1FKVVYxZWRndzJBRHJvTnRiVVBJYUl0dWdFYjhFSXFVNmY0dnh2eFJHZW9kUHdiUHZHSkpoZkl4XzJFQ25xdFhSRV9uVzYzQ2syTVhaaHJaaUdzQl92U1lUV3FNYVVQX3l5RFlCWUpHM3J0Qnd3U2NDRFR5ZkxwcmxGZXR0WEd1TVpHV1p0cGdvSkY1ZXRQWjVYV1ByLUNBVHY0cFF0ZUhpb09uZ2hhdl9WbmFoMzljNmVKTFBRQVFXN1pFMWc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "New Owner to Continue Operations at German Offshore Wind Farm Previously Set for Decommissioning Offshore Wind"
-    },
-    {
-      "Date": "2026-10-02 02:32",
-      "Article Name": "Engineering confidence across offshore wind: Tekmar’s relationship with ScottishPower and Iberdrola - Cyprus Shipping News",
-      "Article Source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM09fYnRvbER0Z3h0ekp6dmJFME9xMnEwRkdfOWVQbFRxNkE1bUV1Z2FBZVZ3clNWNV9tcjJlYmIyX1FtRWFDVER5M205MUJLMmE0dlBrODAtS1pBSzFPcUNqMklTRHY4MEdpbVFBTUgyM1ZJMzhOTmhxWGFMYmpYbGZBZlpxY2NIeG1oVGFOOVpEV3Nsd3dfSFZnWGxqNVZqOGdPeVFiSTVnNTRzNkRCdkdLaWtLTU5KbTBiMUJQNGh1OHhLOGpVQl80RnBldlZSdTdtdXdLcw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Engineering confidence across offshore wind: Tekmar’s relationship with ScottishPower and Iberdrola Cyprus Shipping News"
-    },
-    {
-      "Date": "2026-10-01 19:02",
-      "Article Name": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2xnNS1qdnNBZS1QaC1nSGdTS0lZdnBYcEUzMnVYdXpCQUEydnI4S1ZGZWdYQ3JjYUtJaWYwQk93NUFIMHVWVjdzclY4QkpRMndpZE9JeG9xUU5jRFJYRWk1aS1kWl94R1hydExmRlV0OU1iTnNzYno0MTNmcTh4VXVBZzZzRUpKSXR4RG9jQWZNcHN0bHIxZmJOVFU1VE15clBTVzlMb2JSQXBMaWlNZW1NdFl3czcyZDhNVE84dmJuR0JDc3gtSmRhMA?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth TradingView"
-    },
-    {
-      "Date": "2026-10-02 10:40",
-      "Article Name": "NextEra Energy outlines 20.5 GW plan and NextEra Energy stock costs EUR 67.90 - AD HOC NEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcTBtcEcxN2lESHdra1Z1MlN3VHZfUzZYckRhQ0pqQU1xTl9iSDdYeGZMMEpqeC0zR1ZJR0JDSzFSYjg4ZmVTWkpHTnZjcmFSSVM5N2dpTUQ4QW5UTC14T0Voc0NiSXY4OW02QUJWeWNidm1kYVNab1ljLWllc2hJUlZnMjRZcnVWRlpuSk5WQVFoX1l4Wk5QcHJSS3ZpSHRkaXVRSlFJQ1pxS3Z3Wi0xRlo5RmdWNUZhT2tLU0xOcXhtU0hrM1N5N0JfTXJLc0U?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "NextEra Energy outlines 20.5 GW plan and NextEra Energy stock costs EUR 67.90 AD HOC NEWS"
-    },
-    {
-      "Date": "2026-10-02 09:13",
-      "Article Name": "Regulator issues order to Equinor following electrick shock incidents - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRkdGeGVySHZDZV9Md0FtdkhTSE50MlR0SV9FV3gxd1RqbTNjck9nU3ZNbnNRaXkxUFZ2aFY0dDlQeV94eGJwQ0NiWjBvRWIteTJNbzQtbzlyRGpqallvZ2NXakRuRkNIUzZPUVdtcDFHdw?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Regulator issues order to Equinor following electrick shock incidents EnergyWatch"
+      "Date": "2026-10-03 09:18",
+      "Article Name": "RWE announces 400-megawatt Dutch battery project. RWE stock trades EUR 59.24 - AD HOC NEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQy1aZHVCek5TLU1mZHIzOWtrWHA2SS1uOThYYlU5SWd3NFYtbmEtWjdfazJ0RWNhWExGcTFnMU81RzF4RkZQVmU2WXR5UlUwWTc1UHNXakRSNnd1VGtEMXd3c09HaG5xUXBBUEJGRFRYY3NiVW9WaVY2RGJ0eUZDSHZrSlZwcmJRZE5mYUxNOWxGZFlQNlh4a29vbkZzeVI4X3lKWXFydHgxcEVBOWpnOEFHOXFXSjZHOVgwSUNIaVpPaFljbWZBckl2VWo?oc=5",
+      "Key Phrases": "megawatt",
+      "Summary": "RWE announces 400-megawatt Dutch battery project. RWE stock trades EUR 59.24 AD HOC NEWS"
     }
   ]
 }
