@@ -1,124 +1,89 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "rows": [
     {
-      "Date": "2026-10-09 08:36",
-      "Article Name": "Two floating pioneers, twelve turbine failures – but only one wind farm is floundering - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEhlS2Uza010NmtuOVlxbGNXTTA3Zjl6dVRfY1NWSjNDd2pwbWdLbUZ3NjAyNkpuT3dXVUlvM2xMdC1GTndPOGc4bHozMDNfMUJzeWRxZ05oOHJxOXdyR3Rxc3NaM0w1ZXpmX2hqM1JJaVp1bTltcUhIQmJyd0x2aERVb1VJdmE3bWpkeE1iQWpVVklSeGNPQ21tUlJQS01WSHVxWDRldkNSRHVMVlhBU3FNXzNSNEUwWDgwQjd2T3VHVjZTWmdOM0Zjd1hkQQ?oc=5",
-      "Key Phrases": "floating, turbine",
-      "Summary": "Two floating pioneers, twelve turbine failures – but only one wind farm is floundering Recharge News"
-    },
-    {
-      "Date": "2026-10-09 11:41",
-      "Article Name": "Bureau Veritas' MatthewsDaniel Supports World's First 16 MW Tension-Leg Floating Wind Platform - IndexBox",
-      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb012SDd5TVNMNTYySXJzajhuOEdrMm83cEZCQXZnSHFYSUFMMm02T1JZbWxEdnlPUmpWUnJCRks3eFBEZF9PaUVIcnFyUmkza2gyRlI2dm5pMUFWMDNlWVpScVlMLXpkYW8yNkRTOVVqVTJWaGEtanV4aVRCbXJxM1huY3RPV2M0Rm9PR19iUW1La20zVW5hb25qX2RGdWtvS1JITWliU3VXUDBiVlN3QTFIMGJtQjlMNVZTc0tWbw?oc=5",
-      "Key Phrases": "MW, floating",
-      "Summary": "Bureau Veritas' MatthewsDaniel Supports World's First 16 MW Tension-Leg Floating Wind Platform IndexBox"
-    },
-    {
-      "Date": "2026-10-09 09:55",
-      "Article Name": "Nordex recorded 389 MW orders while Nordex stock gained 1.28 percent - AD HOC NEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXJJWmIzTEIzWFBMX2xCMmpsdm1yZWlUYXlGWFhKelhTbmM5UUVpR0p3a1lwOVd4SzdiVzBSeDBOeFVFakxKU010XzlLTnJqTEVEZ0xtdlJQdmpsb3BGN1d4am9SVzZaQ1BHQzFsZnMxMVduSnlweUllM0xlYnlnVUZNS0lEOU95d2VVQ09qTnZIMmMwWHlSRU96MXdtdTBObEk4YzRxTWdTOXdiRFNsY3l5Uk9USEVqc1RDVTZjTE9EOVFWRGVTeUoydw?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "Nordex recorded 389 MW orders while Nordex stock gained 1.28 percent AD HOC NEWS"
-    },
-    {
-      "Date": "2026-10-08 19:06",
-      "Article Name": "India has set a target of 100 GW of wind energy capacity by 2030, says Union Minister Pralhad Joshi - The Hindu",
-      "Article Source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOGpZaFczVmo2ZXpCcWNReHV3REM4M1ZpY1B6Qk1ZNzhSVENCSG9DTk0tUDNGN3BOWHRDVW52RnJWalFVTVI5R3MxUlpzQ3lBZi1NVnctajhTN0s5MWFmVmxTZXFPaDhnQ1ZnU3FBNG5IV0xfLUtnRTlFNVlLeDRid0FxUFZkYkh5LVB3QXh3Nm9VazFUQUFlMkFrY01tdE1zY1A2T29XbjkwVEJFWWhwZDc0Z1QwRk9BTkZWMXdqN3pwUHJnMGdiUVZmdjB6N0E1UGJtOTluNDNXVlJIYkRhZmdYek1reDZSNHFmdnVFaEMxSDZ2aWhLZmc5UDHSAfwBQVVfeXFMTjhqWWhXM1ZqNmV6QnFjUXh1d0RDODNWaWNQekJNWTc4UlRDQkhvQ05NLVAzRjdwTlh0Q1VudkZyVmpRVU1SOUdzMVJac0N5QWYtTVZ3LWo4UzdLOTFhZlZsU2VxT2g4Z0NWZ1NxQTRuSFdMXy1LZ0U5RTVZS3g0YndBcVBWZGJIeS1Qd0F4dzZvVWsxVEFBZTJBa2NNbXRNc2NQNk9vV245MFRCRVlocGQ3NGdUMEZPQU5GVjF3ajd6cFByZzBnYlFWZnYwejdBNVBibTk5bjQzV1ZSSGJEYWZnWHpNa3g2UjRxZnZ1RWhDMUg2dmloS2ZnOVAx?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "India has set a target of 100 GW of wind energy capacity by 2030, says Union Minister Pralhad Joshi The Hindu"
-    },
-    {
-      "Date": "2026-10-09 13:47",
-      "Article Name": "EXCLUSIVE: Plans emerge for first known commercial hybrid offshore wind deployment - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTNfaDZyQVlBYnFvdGo3VHRiOVlZRHNPQUY3VTZtNHRlT0ZDSjdrcUtZSTFqYzdoMF9pT1lBeUJwd1FGVTJSS2FGa0R5Q0tBUzJiSUtGdTBIc25sX0VfVGxZLWF5V3czVmlvZDFpVnNMdlMxOVJMdUhEcnRmZnZYN2JsREJKa1NVTmNSenV0U2Vlblc1NlFVWk5GM1JEcmdlVTRaS1lzd19ENnVfMmFmQ1JWaXB4UUlIYXItckI4aTRQem1NRGd4dEE3U3B1dw?oc=5",
+      "Date": "2026-10-09 18:35",
+      "Article Name": "North Sea projects and vessel developments lead this week’s offshore wind updates - DredgeWire",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjZnUGlyZk5pbnpZQnlTd0VJczBWR0k4cU5mcW1Hcm5zVDRkR2lJN2NlME1IcUk0ZE0xcEViai0zcXM4TVdMeXViNHJPbUtsamVIdm83TGRrbmlCejlsY3J3NkVvX2lzRlRBcndUbVQxZ1dlbEZ0TlBRWm1SRzBPZWJQeDFuQ3ZkXzFsNGotQ09vdUxYQVN3Nms1WHRJc2VIcWFtTm5OSQ?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "EXCLUSIVE: Plans emerge for first known commercial hybrid offshore wind deployment Recharge News"
+      "Summary": "North Sea projects and vessel developments lead this week’s offshore wind updates DredgeWire"
     },
     {
-      "Date": "2026-10-09 07:29",
-      "Article Name": "Energy analyst: Equinor’s offshore wind farms could become part of Ørsted - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTjRkY0hzWE5mOVNKbTctODhyV2VkUS1FOGRPa0tTQXozQ1lfSExYUFhLSG9Mc005bXNDV1VWdDVKNGZiOHFIcHFncWJ6UEVJYUxIWGE3NzhrSUs0WDhFdGhneTE5N2NyVzJn?oc=5",
+      "Date": "2026-10-10 15:54",
+      "Article Name": "What Nordex (XTRA:NDX1)'s Multi Country Wind Orders Means For Shareholders - Simply Wall Street",
+      "Article Source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUnpGVzdLNVZFcU5HWDRRZzROWll0WHBrdUdsVGN6MmdXZENLdWI1YTRTNTdNcDhHd3lzaTNkSzBXVTFhRFUxSVQzT0Q4dGE1LVdyM0Q4SnpOTU12NUlSMG56LWowWFFYcnRJMEg2SXpXd04wVkVyeUtJd2VEa3ZkMWN3aElLdUV5UjlHVDZpdkRKOFZsekxNYzNjR1Y5YWRXZzA0V0NKc05Tc1V0WGwwVmk1UWFKY2NTcmhGZnYxaXk1QjgteHlhbTZRWlpvY0HSAdQBQVVfeXFMTmFLbFVIYjQtOXZKS3Q2ZmMwV0I0U0JVZDlncTRHR3BQSUhlbjZIaVlPU0ZMNFA5SEZ1WE9fS1BqN3diNWI5dG5pQ0J4YmF2WVN1UVJ5ZTZucmZtSUt4VUxBM0JaRmQ4TXZLa0xBTTl1ZTZoRHFKZktMd1dTZzlhcjNtU2p1WGtUcDc1RWstallUQ0dxSTdfR3pOcGpmYlRTaXFwNEFiQWI5Z3FqZFBYSW5VckhRS0psaDNxa1RaMU1kY2dlc3BMWGFfTlhCWTJiU2ExMkM?oc=5",
+      "Key Phrases": "orders",
+      "Summary": "What Nordex (XTRA:NDX1)'s Multi Country Wind Orders Means For Shareholders Simply Wall Street"
+    },
+    {
+      "Date": "2026-10-09 22:00",
+      "Article Name": "Nordex secures 42 MW turbine order from Navaris for Rhineland-Palatinate wind farm in Germany - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zdnA5TmRGbHpTV1MzbGdkUnNBZmRZVmFpRWRGc09SWnJBSnhVaG5nc1ZreVhrcXJpWFFMOHVoNC1IYllCMDJ1emQtOHJWRWF0UmtrZFlFelU1X2JqQnkzOVNGMnlhSFdqYzNLUQ?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex secures 42 MW turbine order from Navaris for Rhineland-Palatinate wind farm in Germany Energies Media"
+    },
+    {
+      "Date": "2026-10-10 15:01",
+      "Article Name": "Nordex Rides Turkish Order Wave as RBC Stays on the Sidelines - AD HOC NEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVkzaGp6dUt6RGFpQXJZaWZURTRQcUhwMXc3Q0VBaTdBdDc1Y01PZ0tuNTVCRkRpbFRoQUlCLXhBN1o4V0tudjBCcFIyZ0x6RHNYZ3VoUTZwd1RmNlBzLVZ4Qi14b0FHUGxOcG55Q09KM3VLWjl3U1J4OGVnQVhYVDdKSXNNblJBUVd5WWtMWWpTU1dOR3pPZEFaUms3YldqMzRLVUFQbFd2ZkRpMmZOTEJwbWNicFdUcEZTMXVQNTAtNWRHLUhNb2ZHbk11UQ?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex Rides Turkish Order Wave as RBC Stays on the Sidelines AD HOC NEWS"
+    },
+    {
+      "Date": "2026-10-09 19:54",
+      "Article Name": "Nordex upgrades N175/6.X turbine to 7.3 MW and receives type approval for 179-meter hybrid tower - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ZXBWeXVvQnREcmYyY1lWaGFSMy1wUmp0bVY4RVJ1ZWhzNzFGU0FwdHVHTWZXOGRvaGpvMWNYWE9WQ19HWS0wVUxxdjZhc2NiVVFCS0lGd3MtT1VrSkJRVDRQcHZnNHh6UUluSA?oc=5",
+      "Key Phrases": "MW, turbine",
+      "Summary": "Nordex upgrades N175/6.X turbine to 7.3 MW and receives type approval for 179-meter hybrid tower Energies Media"
+    },
+    {
+      "Date": "2026-10-09 21:25",
+      "Article Name": "Full Circle secures full-scope O&M contract with NTR for wind farm in France - megaproject.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUdzdzlIQlNIZEVLT1dYemN0azRaUldEZU04Z1QzTnY1ZWFITUY0RHVjZjQ1R0dpYk1VZ3REaWM1bVUyeXRCMzRMcFg0OFNrTFNHelVXV0FRZ0g4V2g1UmNnckowYUp5VldvMkFETXBaTnlXb2dwaGdDay0tM2R2LTJJcXFKUnVrZ1FvRjJZY2ZncHVyUWRJclhBcDhVRE9IVXlCRzVseGxFUTFIYUhnQjZkZFRKbGc?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Full Circle secures full-scope O&M contract with NTR for wind farm in France megaproject.com"
+    },
+    {
+      "Date": "2026-10-10 16:31",
+      "Article Name": "Nordex Balances Turkish Order Momentum Against RBC's Cautious Stance - AD HOC NEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTVZ4YlJqMFhVbnN0TkkzTktNWW5FbUxJdG5zamExWlRpSTZkcGg3b0NNQ29ucFNvRzdRVW1xdFJlWjYzcERLbGQ3dG1ac0JCbmxySEJNd0JpbjZOdk1qZ05MQjB4SDBvbzJPTk9QM3ZvajcwektpT3Y0QmpvZDlJTG5LLWg0cDYwMXZwdnFpV213VV83RVlBNVMtaFRrVFpKM1k4ZTZoUFQxUWo1VS1QMk5jYWMtV2lROXNPRXZwMUVxNTlvSzY1UGw2LW9xbUlYcDJEcG1KZw?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex Balances Turkish Order Momentum Against RBC's Cautious Stance AD HOC NEWS"
+    },
+    {
+      "Date": "2026-10-10 02:40",
+      "Article Name": "Nordex Shares Climb 3.8% as Turkish Order Book Swells Ahead of Q3 Update - AD HOC NEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbThyMVBLUmwyQzQ1RU94dzF2WGNWS21ZNEQ2dGU3SjNjSmhJVFA4Njd4c2tNdUZPMllkNlhkZGhOb25HWVBuYzRmVTJVM19LYlJhNm01dWdYV3I4aXByOHlmTGpjZlFvdmhPQTlaZXRsTEliamYzNENmQmE2bS1PU2hxaTN3UE1hQWc0UVlWbFZxN0JCV0J3aVEwdlNiZThnbmZqVndMSEctN2lkMGViYTFfaDNNWEk3U0lrbzdVcGUtT28xOFZXSHdJM2lJdVJfY3VDbkpfMnBOWGQ0?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex Shares Climb 3.8% as Turkish Order Book Swells Ahead of Q3 Update AD HOC NEWS"
+    },
+    {
+      "Date": "2026-10-10 01:43",
+      "Article Name": "PTSC M&C Penetrates European Offshore Wind Market with Handover of Baltica 2 Substations - PetroTimes",
+      "Article Source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTdWY2czNFd6dC1vU1R6SWNMcjFNTHNZQTJmUmI4aE5OV25kdkYxdlVRdWpVSTc5WWZKYzFOb3Fha3QxanFVdnAzU2d3b1B0bFNvZmw5TlFYWjlYWnZVSGxrZVJNVjhXZERtRmwxNFByZUplQmlIX09iOXRXSWliQWVGY1EyQXdsUzFFR1FLaEh4ekxCRm9xSnA5MWVvSW1ObklSRDJ1VVJnLUdqQVcwZFdnNHEzR09wLWRpWTdtTVVHWTYzbDNnMW9Udk9nZEdR?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Energy analyst: Equinor’s offshore wind farms could become part of Ørsted EnergyWatch"
+      "Summary": "PTSC M&C Penetrates European Offshore Wind Market with Handover of Baltica 2 Substations PetroTimes"
     },
     {
-      "Date": "2026-10-09 02:52",
-      "Article Name": "Ørsted receives tax ruling on UK offshore wind farms - Investing.com UK",
-      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZldVUkVVUnhHYk42VlNOTDRQSU5IRTdKekJfNGhtR1lTTERQSTFuQTdIM1NKcUtNOTliSzNNSkJVeUd6UXNEU0hTSmZwNzc0aGEyZUozOGdsOE5RSWJuTzFfRXdtdGR4UlQ0UnB6d19GQTJHVEdUeUx2Vzg2Q3ZydDB4NS1neVF6RzVvSzFVVHh2S1daMFVLbHRDcmEzSGp1NlNnd3F2cmJYSXZZM2c0VjZn?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Ørsted receives tax ruling on UK offshore wind farms Investing.com UK"
+      "Date": "2026-10-10 07:53",
+      "Article Name": "Beneath one Sussex wind turbine, 75,000 recycled cubes replace rock armour in the ocean - inkl",
+      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWhBdUNnZDQzSkw3M002X3U2Q01wb25yeFNjVHAtcGNIQkR1MFk3bzJOY19uOW5pNC02SlgxVmUwNkQ1Tkk0V1lITFZrVDRtX0FGbVBQZXkyVWRqQ1FOWVpMY0NDS295OU1fTjB2a05DS215c3FzbDNPbXF1Rmk2VDFFR2xrblNaWVpVU28zWnZ6SEhJSjFzVE94Z1QxNTlRMTBURHVXYUhZbUlxQV9MbEF3?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Beneath one Sussex wind turbine, 75,000 recycled cubes replace rock armour in the ocean inkl"
     },
     {
-      "Date": "2026-10-09 03:33",
-      "Article Name": "Floating Offshore Wind Market Is Going to Boom |• Ørsted • Equinor • Siemens Gamesa - openPR.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEQxcEJCaDUxLXptekpKNVNrWlFPWC1YYUxBamNJemlpRUdqQS13NEtidlBhYWZGTGIteVhRMzNBa2dUcVdPS1k5X1AwLXlUS1RSekdtRnprVm1GbjM3VkZWS1FBNmNGc29ZNFhIRnNCQ0ZubjgtekVqdy1tTTBfZlNNNXQ0YUktV0RlUkxUcEdFUQ?oc=5",
-      "Key Phrases": "offshore, floating",
-      "Summary": "Floating Offshore Wind Market Is Going to Boom |• Ørsted • Equinor • Siemens Gamesa openPR.com"
+      "Date": "2026-10-10 08:00",
+      "Article Name": "Planning permission refused for 11-turbine wind farm in northeast Galway - Connacht Tribune",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGhBQXphYnJlRVZGUHlWQ09tWDdLVEhWRkg3TGRhV0hPLXRGVXF2Mmo4dnd2UW1WcHVUUEtiRU9pb3YwRE5tSkZXOXJYV2RLLW9uRHBPSmN6ZlpYZ0FzdjNERDRvSk9uVU1NbFpqN1J3aFBWSnRGV1U0V1FKSFdCWl93MktZMEJwOGl0aFZMZGM0U1QwUWVCREFQV1F5Ml9GREpiUmlmS1A?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Planning permission refused for 11-turbine wind farm in northeast Galway Connacht Tribune"
     },
     {
-      "Date": "2026-10-09 10:59",
-      "Article Name": "RWE completes sale of shares in Five Estuaries Offshore Wind Farm - RWE",
-      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTJ3ejdFNVpucTZQTTJjN1VMYUFZcjE2YTVCVWhSSHZWNkhjZ2liWDV0N3VSRnF5RklfUlI3Ty1LR0pWYVQxaUxkeEdWencyTDRUdlFMUDJzdGdkeXRHLVlVNGtoWUp4UE1ZN0ZDX2xnXzdlSEw5SDdCMVNOVmZSS3ZJd05tWFJScms1QnFoVVgwUkNDYUlvVGpXbGJiNmlWcC1sSnV5Q0lEVHFyNUhuNUotUFZqZE1GOFRhVU1mcmdtVnNNNkpsOA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "RWE completes sale of shares in Five Estuaries Offshore Wind Farm RWE"
-    },
-    {
-      "Date": "2026-10-09 12:08",
-      "Article Name": "RWE sells 33.33% stake in Five Estuaries offshore wind project to EDF - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORy1CQm00dkRZbnJtLTRkT0szWW9wdGwzLW4wdkQ0Z0xhME9MdVV2ZXdLUF8wOWlyaTRCR1M1YWptMWNtVGVFVk9vb3cycmlqTHRid2d6TmVjUFJHTE1rTlhhcS1XR0Q3d3ZqcUlISmoteWpuOG9IdW5YV0w2a3pnaExWWkU3RzdZdzhNalFsOXdmbUxWVG5ISVJaQVVZT2pkaG9MODdJbGEydDdiZVpieVRUTjBUbVE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "RWE sells 33.33% stake in Five Estuaries offshore wind project to EDF Renewables Now"
-    },
-    {
-      "Date": "2026-10-09 13:04",
-      "Article Name": "RWE sells stake in five Estuaries Offshore Wind Farm - TGS | 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzg1bVVIelNXLVhiUXh1aFk2cE9WYVRrS19qQVhKNTM5WHJCU2JuVWJSaGQ2WG9URUNselk1cWM3c2ZleHpnb3U1V2Z6VHFDNVpZVWlvM2pDMTg1bFl4OGM4MFpMNnpqQjJCcDZsazRLV2stZ3BsVFBaYlZUa1I3cW9uV2w3U3hHZmo2NDNxRl9Bd1ZWR196eg?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "RWE sells stake in five Estuaries Offshore Wind Farm TGS | 4C Offshore"
-    },
-    {
-      "Date": "2026-10-09 16:36",
-      "Article Name": "RWE sells stake in gigawatt-scale UK offshore wind project to EDF - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenplLTJaLUFFSjh1YzhHOWZJcFN4OVIzT21jSlVfWm15RTk3MGhYWTI5Z0I5WkZBVm1tSXFUTUVkZUF1bzBCRWpEZ2E4QkQ1dnBvSHRrTTJRaWM4azJsSDRfaEdhNy1hNE0zb2R2RmRFR0RGVXRrOEtEWlpkZmhrbENTa3cyWkZmejFYMERvZWNmbGF0cXJ5Njd6OXJ3R1Q2TDhKRWY5bTJNcURZRmIyT1V1QQ?oc=5",
-      "Key Phrases": "gigawatt, offshore",
-      "Summary": "RWE sells stake in gigawatt-scale UK offshore wind project to EDF Recharge News"
-    },
-    {
-      "Date": "2026-10-09 10:24",
-      "Article Name": "RWE secures 119 MW auction contracts and RWE stock gains 1.10 percent - AD HOC NEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUtUajhoMmJzdmtTVjVGRnRDRWgtYnY4SlUtMk1FVGMzQ0JKbUVhRV9jSUo4YjBBc3pDZlVGZlg4UUR6Yncyb1FnSDJ2ZGxnNDBFdm1UeDMya3V3VnpuNE5xTU90dC1CYXJEb21MR251MzJ5anM1TVNUSW11Q0Q1dFl5TUdBUDc3NDVTSGxyOFVVQUJMZklxZ3JQOU9rZXJGMnN3WEtqM1lMbHZQZDZCOENubmlzTGFKZDk3dExTcE5hSjBfY1dyanI3THc?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "RWE secures 119 MW auction contracts and RWE stock gains 1.10 percent AD HOC NEWS"
-    },
-    {
-      "Date": "2026-10-09 06:58",
-      "Article Name": "Norway sweetens deal for Equinor and EDF floating wind projects - Upstream Online",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemtDRm5hUmphd01OeXM0NE1TWEdGaF90cTNCNlpfeFhkSXg1c3ZBSExEUmp4N2pqQUJiRlpSQ21jTDZlNGNtTVFpVW5JUEY4OFpFQ3VMQm12d2hGMEFFRm1LVXotcnBRU2FGVEJITzV0WExFbmtxVWRpNGlDQzRENGZyRVB4QkRJN1pSYXl2NVF1RmMwbHNSWU5KSWJKRFBZTGVNMVp6WmxUc3NTd0JjZlg4UHRRSjhoVEo2dEtucEo1Zw?oc=5",
-      "Key Phrases": "floating",
-      "Summary": "Norway sweetens deal for Equinor and EDF floating wind projects Upstream Online"
-    },
-    {
-      "Date": "2026-10-09 11:45",
-      "Article Name": "Norway Revises Utsira Nord Floating Wind Support Terms - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0FwcnRDZXBKbjdNd3B4MERXQWVncFpXcHIwRE0yVkhWY3FRTW5lXzZqYzVid2JOcjl3YlM2RWxodXZUMzlkMnJqRTBjaHZpV1plSDFVeWo4MDVtOHp0WUNnVmRDREtscW8zTHAzTkFFa0RVZkIwTVZmNmEzaHJIRTdqbjRxdENURDhXZE9aeHEyTnlwZDAyWjBR?oc=5",
-      "Key Phrases": "offshore, floating",
-      "Summary": "Norway Revises Utsira Nord Floating Wind Support Terms Offshore Wind"
-    },
-    {
-      "Date": "2026-10-09 08:26",
-      "Article Name": "Equinor finds gas at Gullfaks South field in North Sea - Offshore Technology",
-      "Article Source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQmRqS2owZlNOQTN2dW94cGowTlI3aXRZTzBHaHlZdHRKeWg5bzFobDY4S0tYNXRvTTdXUWo5amNBY0lmdWhad2c0Q3dJZkxQY0hjNjc5OE01cjFjSHk4WEhpckYxNXdNMC1CbndtaDFqS1BNOGpsRlBnc0VUdW8?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Equinor finds gas at Gullfaks South field in North Sea Offshore Technology"
-    },
-    {
-      "Date": "2026-10-09 09:51",
-      "Article Name": "Gennaker Offshore Substations Depart for Baltic Sea Installation (Video) - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmRQeS1YaW5PZHk3Wm0tUmwyNk85WGJKaEt6MkFSVGE3T2dpeUhHX2k1R3E2dmtlLTVOekJLeWRDcnhOa192Vmg3bUN4RkYwR3RnLVd5VkxCV0FTZFpzN2FrRVByUWlkTWxSTEhxWl92VlpHOTR4MjVSXzdRUDU5QVBRRmg0Z09vVE5USHN3dGQxOHZOSDR4Y1BnZHZQbnhSYi1fN3I5NTRVLUNyMFpISDNn?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Gennaker Offshore Substations Depart for Baltic Sea Installation (Video) Offshore Engineer Magazine"
+      "Date": "2026-10-10 11:00",
+      "Article Name": "Power generating facility, data center UDC amendments postponed at Cheyenne Planning Commission - WyomingNews.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNcWs3ZFdtVjhOcWY4VU9nb2dlTTBmeW1IdklUWkVwb2NzN1NpQ1RYMVE5VjBTME1WUklIVDZicmtqdkxSY2w2bUhOU2F5T2hCWjlyY0NGdEt4WWs4R05qRFlZOGlsakkzUnpUTXBadEdnUVFZdW50V1lwMzlTZEg5M2l3Q2VQN3MtLXhkZk5zQm9KTWlyZGZqQ1JTZzdjMzNfUm1Rb1huUWxUajFlYWJJY0MxUG5XWUwzTktyMTdJeW1BSEd0bW9JemdTdk5GdzRtOE12a1M3ckQ1dHlEU1MwUFlmYjlURVh0ZERZS2tuM1R1djZQNGtNZEZtRS1DeFpsNUM0N0llb1A5RnlnbzhwRVVwRVFfclg3amJJUUZBdlhVdk50Uk1nM2VDbUxCZnFQRmdGVGRn?oc=5",
+      "Key Phrases": "facility",
+      "Summary": "Power generating facility, data center UDC amendments postponed at Cheyenne Planning Commission WyomingNews.com"
     }
   ]
 }
