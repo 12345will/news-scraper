@@ -1,145 +1,47 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "rows": [
     {
-      "Date": "2026-10-23 14:00",
-      "Article Name": "Vestas faces prolonged US order uncertainty after new Trump order, Jefferies says - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mQnJDV1ZwcXkxaG00dzk4YVFOdWo2TWthenVBNDhpbWp0RDlYXzdfYjBiVFdrcE1pbjRMelBFaHhZM0M3N1VuamdhUEFTUTZuY19CZlRQMjFBdHBxa3BOVVY4YjJzbEdxSERn?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Vestas faces prolonged US order uncertainty after new Trump order, Jefferies says EnergyWatch"
-    },
-    {
-      "Date": "2026-10-23 12:23",
-      "Article Name": "Chinese wind turbine maker Goldwind increases profit - marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDhEQVctQUd2bEgtOW42YkgtMkFZbEF4YjctV3JTNGR4UzBRRTlTNnVlUGcxa05MSEdfcFdpcl85QUc0dUlGbFphUG9QMEZ1WVBfd3VoSTBWNS1RSUFMOHRpcV9wUEdZRDNtdjBycTNOZ2lsRkV1WXctYmlOTlRIcVZDaWsyVmRSZXJqWldtcUVZYlRFZ1QtYkFpenM3dXczVmVScXpOckQ?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Chinese wind turbine maker Goldwind increases profit marketscreener.com"
-    },
-    {
-      "Date": "2026-10-23 11:26",
-      "Article Name": "Goldwind Science & Technology: A 56.97GW turbine backlog and 9M profit growth offset weaker Q3 results - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTVByZWFRSWJsQkx0cFdINWFkZEt0ZzNwbExqRVpSdTRoQ0VhQk1wWFlwcnpUdFNZanZNMUc3T0c2TmV0QVpmX3Y4UVE5YUlDR1ExR3dfajRuRXhwNTktYjVYM2djc2pfTHV0S0FWZ2thdWhTUFRzTnZzU25hcmhGamlRbmF0Z1N2TndubUxVRXExcDBwZTRnU1VyNlZQbDh4SWUtWXkybUUxMmp5YVE1a2JtZVk0Q1ByLUVJWnJxYUNLeC1KZmxUU0NRUDd3RU8yNG5tek1mZWFEOGFXWlBMZ2RpM0hvTzZXLVdIel90OE5EYXEzWHlOV21VTEVyY2J1a05rVHFtYk52Q1NPUkZN?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Goldwind Science & Technology: A 56.97GW turbine backlog and 9M profit growth offset weaker Q3 results TradingView"
-    },
-    {
-      "Date": "2026-10-23 09:34",
-      "Article Name": "Envision wind chief: 'European customers helped us choose offshore turbine for continent' - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRG5XTGU4eG9reWJiMDVaN3M0RlhESkVMakdZZ3B0SlhqdldHbFpQQVJmb2NFZldEczB0aVFSaUd0N2NUYXQ5Zk5sZ3I3dVJNSW5FXzE2N1pSeGl1WVVjWnItTUlObVFaQlVFZDNxZWgxMFA2SjExdWU0QmRvMkw2cmZ3QkRaLXZlMFplcm9qcWltdkVFcDdlTVc4VHBWWks5U3dPbFNFeXltWHI2QkVoYXpiUzJSck1YNW5pU3Q4MlNYeVJoeUFtRmc0NWpZZw?oc=5",
-      "Key Phrases": "offshore, turbine",
-      "Summary": "Envision wind chief: 'European customers helped us choose offshore turbine for continent' Recharge News"
-    },
-    {
-      "Date": "2026-10-23 08:51",
-      "Article Name": "Mercury awards 192MW wind turbine contract to Nordex - Yahoo Finance",
-      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORkQtRXN0NFJyZXplaEwtLXdfWk44cGhYUGRCOUdhZUtLU2FvYTNvTUNsVWJVQXBSVjZrUlFFZFNmeXlOYkdvcTA1VXZ1WWNvMkpzdWZhQjlsck1EZ1Mxd2tZSTJ5bndyTHk4UVMxemdFWE0tTk14TEpvSUJoc3dMVXFZRGxKdw?oc=5",
-      "Key Phrases": "turbine, contract",
-      "Summary": "Mercury awards 192MW wind turbine contract to Nordex Yahoo Finance"
-    },
-    {
-      "Date": "2026-10-23 09:09",
-      "Article Name": "Nordex Group enters New Zealand market with 192 MW order from Mercury - Energy Global",
-      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzRQVzZzSXdIZ2hkRTRCNV9xXzgzemk1bDV4SkhINldTeEpwRGFVdkxqTldvQmQzZDZjWGEyOUg3ZzBEcFNySmxGcWljTFJpN1lMeUo0TlpSYVB6UUV5YkFhcjBLU1U0V09kMTBydENjQTVYTzZkMEpsN3RkOVZsWUR2eDUzcGN4N3IyNW1aWU53b1ZVRWRKc2VLNDRzajZCOG9ibjR5UHZkdVRNXzM1TjN4Zw?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Nordex Group enters New Zealand market with 192 MW order from Mercury Energy Global"
-    },
-    {
-      "Date": "2026-10-23 00:20",
-      "Article Name": "Nordex enters the New Zealand market with 192 MW ordered by Mercury - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUFrd2ZfVkRvRWpLbTRXd3pFSklYME1rUWlhSkZlV0FnN2FLYXJqOFdYaGhLS0pscUhHNHNUUVJCTXEzamx3bGUtMWJIZ2hWYlhRWDBoQ25PMllYc1JpNDUxZ3FlSEZ0dnhxMGd4TVJreDJTNThXQURFWnlvaGxOSkdIM1FJVURzYm1NaDRfdG5XRHAyRmphaw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Nordex enters the New Zealand market with 192 MW ordered by Mercury energynews.pro"
-    },
-    {
-      "Date": "2026-10-23 08:20",
-      "Article Name": "Nordex enters New Zealand with 192 MW order: Nordex stock sits 27.88 percent below high - AD HOC NEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeER3OE83VmNheDJFSzBoeDZtVUxjQ09ZNG83NG5rTEZ1cE9NWlowdDZjZVNSZlVHNXJsUE1SOUtJMUF6Z1dnZlFyQVJoZTRsck5MVHF6cF8xbmQzbzQ2ZWFkQzh0NlhnblBuNEdwaHRTQXdmZl9tZzlqV3VTQy1FNG9nTC1WZXU4WDZ5X3pjaTM2X1gybWhoN3ZxNndvaDk0NGIwLXRVaWl1QmgzLUY5Q2Q4azF1Q2FBYzdZcVhMUnI4Qklab1VuNDlaY1JoU0ZGRkhqRWZCWmpMWUNyeFlfUXdJSQ?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "Nordex enters New Zealand with 192 MW order: Nordex stock sits 27.88 percent below high AD HOC NEWS"
-    },
-    {
-      "Date": "2026-10-23 07:02",
-      "Article Name": "India’s Wind Power Capacity May Reach 14 GW a Year by 2030 - Construction World",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZFBPNi1XN1dKWEVHcGh5OXNOc0wxY0VJMDgzTWY3Y2RiMUNzWkxRa2h4dUtIX09nb0pSdThRZGEwM3Q5STFCWUswMTJULWYzdzVEcHUwc1FteHhxaXloT3NUeUVxVEIySThaSG5XZm41Rkpvd29rS0U3R094T0YzZGREckNzX0tkTFlhaTZkbnJELVN2VklLSEpnbGVOYzlxNGRTWlB1RE9nUnpTQW15MENFSmRLRE1mTW1HallXZlNMMFd0SlRab19nVGV5ZWF0SENsM1pCMGs4Z2hvRGc?oc=5",
-      "Key Phrases": "GW",
-      "Summary": "India’s Wind Power Capacity May Reach 14 GW a Year by 2030 Construction World"
-    },
-    {
-      "Date": "2026-10-23 03:50",
-      "Article Name": "Stocks to watch on Friday, October 23: results, orders and corporate announcements - Business Upturn",
-      "Article Source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3hFUDN4UjZTQmVsNUxvMm91QjBMaExDVkMydFU5dWpuREVtTHBFa2pvSWFwamRwZTVuMXN4OE83WUVhTGpXWE9ZdWlreVRqNkxBOEJpUXdINEJTLUlMc21fZnduNUpPT0o1QWNuQ180cDU1XzZLX3F3Q3VMZWRKTUVVRHJCcGwyVnBta3BjX2EzT1IxOF9NcE5OMXF5c0RpOHhYLWc4bUQ1VlZnS2VBX0ZBWlBVRFdfM3YxQ0VCWThYNnNn?oc=5",
+      "Date": "2026-10-23 18:19",
+      "Article Name": "GE Vernova Shares Rebound as Wall Street Bets on Strong Q3 Orders - finance.biggo.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ycmkzNHNSS3Vxb0FpUVpCVHlNZmlZam5KMXE5dzBqRkZvcUFOVmE1MkEwa3hRdWlOTFpRRUl6bFY5X1pNTTF3S0pQcngyT0tOV0NLd1dMVDV3Z005OUxsTnBGdmVQaERBLTZJcEFibU9JMmQwRmc?oc=5",
       "Key Phrases": "orders",
-      "Summary": "Stocks to watch on Friday, October 23: results, orders and corporate announcements Business Upturn"
+      "Summary": "GE Vernova Shares Rebound as Wall Street Bets on Strong Q3 Orders finance.biggo.com"
     },
     {
-      "Date": "2026-10-23 14:00",
-      "Article Name": "US Wind Maryland project faces new federal offshore wind review - 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW5BSUs1SFE3LVZ2eWVUM3NEOWRuYWliSEpNaW00U3lTeUZxaWRqWTkxZ1ZiNjE1R0pvOVMtSDZ5dFdfSDhSdk9lbmFlcWFCTVlOU1BIZXpBY241Zl9rdlBwVFZCMmpMWEhOWHBwZERyM18wZ1dyWl9LX0NuRURZcDhGYWI3aUY4Tk5RMEZEMG5SSVZjQTJyaUlPZkprTmpmdDVwTDRaZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "US Wind Maryland project faces new federal offshore wind review 4C Offshore"
+      "Date": "2026-10-23 20:52",
+      "Article Name": "Nordex Signs 192 MW Contract with Mercury in New Zealand - Inspenet",
+      "Article Source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91VTQ4OXN0QkRWRS1VUEdDUlhOanlJeVQ5ZkF1X1RhWnRmTDIzVWtWRkNEWTB0N2lWeFp1Y2d3UzJ6eVJjcnJNTjlxb2lJN0JrMVhBdXpyVFlFcHVBcWpvV3AyY3F3QXRIOU5yaTk1ci1WSHJxcGNWRVB5VQ?oc=5",
+      "Key Phrases": "MW, contract",
+      "Summary": "Nordex Signs 192 MW Contract with Mercury in New Zealand Inspenet"
     },
     {
-      "Date": "2026-10-22 17:48",
-      "Article Name": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill - Utility Dive",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3BuWW9Mbmh5Nm5GbXJQenRGN3BZcGk2LXdjS05xVTdmVWNlRU9GODdPV3dob0lnYTB6NTVxS1JVRjRYQlhyTjIxVHhKREx5VU9YTnRHR1hHckJpOFF5ckcwcnVFMTIxUUh6S1VGQllpajNzUG9QOEozVTRrQjB2RVlGMXBRdlJTTUhaQW9PSXpPVWs4REJPS2hpb01KLVhlcmJMU0ExejFMLVhueUNqbjdGVTB0Zw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill Utility Dive"
+      "Date": "2026-10-24 07:51",
+      "Article Name": "ACCIONA Energía Starts Operations Of 72 MW Wind Farms In Croatia - SolarQuarter",
+      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEtnRFlmdUI1cE54Q1VZSjc2YWVTeDZUT2NwSGgtU3REV3c2cm5hZWJBQVRtTnNuTUVDMkxWYmwtallIRFR6cUgxdEZiV3NibzJvWmdoMENVbnJmOGh4STlPVGVlZlBPcV9kVTRBeG1kaW5KeWxXSllDZV9iMl9IbmF2U2E4Z1hYem1ReENBLWlMcTZXYUtJNWN5aVlGaW0yOHBJ?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "ACCIONA Energía Starts Operations Of 72 MW Wind Farms In Croatia SolarQuarter"
     },
     {
-      "Date": "2026-10-23 10:26",
-      "Article Name": "Former RWE offshore wind chief joins the board at Danish service company - EnergyWatch",
-      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBua3JpMmZQWjM3bXRZeWFlZDFKeWh4YnVWdE9fcjFCbHM1aGxPUzdLTG1CTms5TkpOLUVRQ21xNTdPaGJrY1hYNWprdXA5WVBPcnlqM1pZc3RTT1R2SndxMXY4aUFWQzhIZUNr?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Former RWE offshore wind chief joins the board at Danish service company EnergyWatch"
+      "Date": "2026-10-24 10:13",
+      "Article Name": "Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity - The Economic Times",
+      "Article Source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX3VjUWEwOXc4ODZGdHBhdDg0a0FaQnhrNEZzZHFRaVRDSVNsQkgxcTZhQUl2VzZQRFl0QXJMYmpVMGlrdm1lcUstZnB6WldHMUpKSzVZZTBOTTdVMHlYVkNwT3BpSnlscmNweTVoNGxDVm4zVFMwLUstYlZldE51el94TWlMRkcxYVRtVmVva25rQWszZnlZZjBBb29LVkFwdXdfb0xLODI0elhCaHlOdDJaeGNET1ZmQUVkNUhzLXRCczVfZFRhS0VqWDdTYmQwdElqZWZNSFI4VWFGdlRtel9BVF83S09NQVNWa2Vn0gHzAUFVX3lxTE1VWG1wdW4yVzFKOXdfMGtMcWM4S1pxeVRBMHNOLUZvbUN2b3hPOUYwTE5DbTdDcGJYY2FkWEZ5eHBBRFhTSTJaM3lHelA3UWljNHc5T1VEdUg3ZFJUVEUxTWMybi11ZHlYTW5wVG5FY2JOZnphM1RrakVhTHRZeVd5SV9nNmczRElnUEQxV1ZqTFdoel9DczhwTG9qbklNVkdZLUM4UUdoNHdhV2I0akJkdk5jZmRtTUxlUXNQN3VNbWhRd0FnZ0NuVWtfMWdpR01QYnE3Q2NBaHVJdkpzeU8ydTlRRzRfd05jMkdyMU9LVUhYaw?oc=5",
+      "Key Phrases": "orders, MW, GW, turbine",
+      "Summary": "Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity The Economic Times"
     },
     {
-      "Date": "2026-10-23 11:01",
-      "Article Name": "News Content Hub - Draft development plan for German offshore wind welcomed - Riviera Maritime Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjQxbnBHRkV0ZlFFS0pVRnRBSVQ0bEtaTzlVeW10Wi1oeGZsaXJ5bHJtdWJWRkpkSEQyZnA1MlJ2R3l5R09oRW03T19lN0FiNTJuNEgwSWRIaWc5aWpnNlFRd2tiMjhwY0dZSWhCNi1RLTJtT1ZYdURBYkNIVkZCMDNPVks1UGRGaGp6Z3ZzM2ZnMDBlSWw2RGM4alVDU2t6TGd4VmhGVGg?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "News Content Hub - Draft development plan for German offshore wind welcomed Riviera Maritime Media"
-    },
-    {
-      "Date": "2026-10-23 11:20",
-      "Article Name": "Balfour Beatty Wins Contract for Substation to Connect Three Dogger Bank Wind Farms - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmdNZVZnSmVxeWN4WW8zTUp1SWRiZUZTMVRkbmhVajFqUDFOM3drYldRZDBfVjU0dWxyTm1LZVozUGk2SlJEeG1felZ0dXp0UUF4ckZwTWtrc1VOU2g0ODlCSHFQQS0tb281amlxTnZ1QmRNVDBKelVBVHJXbkRQWVF1OW5kaHdpX1Y3WnlwZkw4aFhCVG1NOW41ekZSRWcxYi04c0dDNzdjYzFKYlVQT3BPY0x2cmlwQk50UHdYZUY?oc=5",
-      "Key Phrases": "offshore, contract",
-      "Summary": "Balfour Beatty Wins Contract for Substation to Connect Three Dogger Bank Wind Farms Offshore Wind"
-    },
-    {
-      "Date": "2026-10-23 09:13",
-      "Article Name": "Offshore Bat Surveys Extend Dublin Array Planning Timeline - Afloat",
-      "Article Source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDYyRXNpZ3pWY3M4SHRFNlNmbmpIYkQtV2F2bll6M0xvbk41NmxvMUZzWURCMnc4OEZKWHZudWhtQUlqN3JSSzEwZTJOODI2QjJfSnNCcXFlUnBwNHczbEJkSDhyMDVIc28teGhjb1d1aTRVel81aC1qRXUzX0xWb1pDRlA5MFNCMHc1bUVVUDIxZVgxUFRUTHoybFAtMkhqbEktcDRsQy11ZGhLOG45LURnZVFpREdIWG90a0ZkVk1nLUY3LWVFTEtSd1BNd3lnZUkzd2NIUVVJbW5ZbkoxWmVvLS1rUk42WmNNbQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Offshore Bat Surveys Extend Dublin Array Planning Timeline Afloat"
-    },
-    {
-      "Date": "2026-10-23 08:13",
-      "Article Name": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzUzTTVIMnd4VjlpelRuV25hS2x2dks5MDdFajFhdjhFLTZSLXN1Y2JMZkREcnVhLXJZVjU4N2cxeTlka3E0dzBFZHk4cG1FOUFxOGp5SldzWnlSOThfTV9UMnE2ZVNDM2cyRVJSWUtkQ1VVc2xJUHNvemlXZUVxMTNYTGFPUWFmZ1UxQVZrSUJmTC1lWUgxb3hMMVNBcGVBMnZiNDZwLUtscWpDWmhNVEd1a1FOU3hyRURWMGRKbDJUU3E1WEFMeXByTFdCV2NXUjcwTHVELXE5dHF0TE1EdjJ3?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Latest US offshore wind remand bid may rattle permitting talks, but Iberdrola project already stalled Recharge News"
+      "Date": "2026-10-24 09:35",
+      "Article Name": "Adani Wind Bags 696 MW Orders, Third-Party Book Crosses 1 GW - Rediff MoneyWiz",
+      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTA1b3YtSHlueGxQbUVNLXM5Tkw2YkdEZW9vWHZycmF6ZnBLdC1mT3RmLXFnRVN6eTgzdzBFNlNVSk5DeWtaejNiVXpVeGlVT0JBYXFZWkU5cHB0Z3RiNjNRWXJyVWVTS3RwdmVtZGFwNjE2bW5FMlpBU0VkZUpJT1R3czFTVW1xb2JrM3pUZ3EycEdBMWNTclprLXRiNjRwSUtVZkdOTjJaaEkzZWF1YtIBtgFBVV95cUxNZFF0NG1vdTNEbGJweVI4d3RFeHJwUkw3QTF5dXQ1bFFWcFFrWW8yYjJqZ1lfWjJnSzFDbFR6M2pUeWZ5bGU2d2lMcHZsWGUtd2piM3pfMk5yZkNkZ0w2aUlZWGhROXEyUDVmNmotQnlRTFBERHVmNkprdkF5ei1YV0IyT2ZTMWhVV0dJWUdXQndNb25WV2NqdklkdlpPYmprUmM0MndzZW5GT1lvanBGWXloMGNLUQ?oc=5",
+      "Key Phrases": "orders, MW, GW",
+      "Summary": "Adani Wind Bags 696 MW Orders, Third-Party Book Crosses 1 GW Rediff MoneyWiz"
     },
     {
       "Date": "2026-10-23 16:37",
-      "Article Name": "The permitting deal collides with Trump’s war on offshore wind - Yahoo",
-      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGxFMGxsX3V5eVJYMEhzaXJ1cGxPYVo4cS1KX0FGM0h2ZXMtblNtNU85SDJCbG5OaHJZUG5mbmprZDhMaC05VDdzOXRYbXBqSFpMTzM0dUFXWFFSOGhDd0NRSy1xVVl1TUJwbFktMy1OZ3NUN19GaUY5cmNvWExNRnZMb3VTc3lGWlQxTWxiQ2o4eENUZ0owZHRB?oc=5",
+      "Article Name": "The permitting deal collides with Trump’s war on offshore wind - Canary Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjFxVEZWQ2NCeE5BcHg5eWVma1hXZkJSam9QNkgxZ2c0azZ6bnRid2xwbS1MR2stMkJlbTR6dXo0QlZIT25vVUlUeVYzTTFsRnQ3Yy1nWXNySHBSMnlfbGVOaWVCWVNQY0FPb3k0R0FsZktrWVJYbjhGYjY0YVozVg?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "The permitting deal collides with Trump’s war on offshore wind Yahoo"
-    },
-    {
-      "Date": "2026-10-23 05:10",
-      "Article Name": "Floating wind needs grounded solutions - Ground Engineering",
-      "Article Source": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MREJLWW8tVkFVUklvc3NtVFo2MjJIUnEySjZxWUI2VEtyRDZLSmlORzFTSU5YT085bjhXSm9BTnJnUWtSQ3JDNA?oc=5",
-      "Key Phrases": "floating",
-      "Summary": "Floating wind needs grounded solutions Ground Engineering"
-    },
-    {
-      "Date": "2026-10-23 04:19",
-      "Article Name": "Aibel wins FEED contract for Wisting FPSO topsides in the Barents Sea - Oil & Gas Middle East",
-      "Article Source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BQnJ2cFFKRXBvZUx4b3F0Wi1UV2hzNXllbWUxWXJTRGZjZ3drVE9xd3pYNHdBbThySjVIRWtMc3FsOWRHZk1nZURGcENqbVdQcUdHZVczalpENEN5R2pnSmlkanprU1RCZ2RaZzlIdVk0amdBU3lJ?oc=5",
-      "Key Phrases": "contract",
-      "Summary": "Aibel wins FEED contract for Wisting FPSO topsides in the Barents Sea Oil & Gas Middle East"
+      "Summary": "The permitting deal collides with Trump’s war on offshore wind Canary Media"
     }
   ]
 }
