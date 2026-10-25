@@ -1,47 +1,33 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "rows": [
     {
-      "Date": "2026-10-23 18:19",
-      "Article Name": "GE Vernova Shares Rebound as Wall Street Bets on Strong Q3 Orders - finance.biggo.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ycmkzNHNSS3Vxb0FpUVpCVHlNZmlZam5KMXE5dzBqRkZvcUFOVmE1MkEwa3hRdWlOTFpRRUl6bFY5X1pNTTF3S0pQcngyT0tOV0NLd1dMVDV3Z005OUxsTnBGdmVQaERBLTZJcEFibU9JMmQwRmc?oc=5",
-      "Key Phrases": "orders",
-      "Summary": "GE Vernova Shares Rebound as Wall Street Bets on Strong Q3 Orders finance.biggo.com"
-    },
-    {
-      "Date": "2026-10-23 20:52",
-      "Article Name": "Nordex Signs 192 MW Contract with Mercury in New Zealand - Inspenet",
-      "Article Source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91VTQ4OXN0QkRWRS1VUEdDUlhOanlJeVQ5ZkF1X1RhWnRmTDIzVWtWRkNEWTB0N2lWeFp1Y2d3UzJ6eVJjcnJNTjlxb2lJN0JrMVhBdXpyVFlFcHVBcWpvV3AyY3F3QXRIOU5yaTk1ci1WSHJxcGNWRVB5VQ?oc=5",
-      "Key Phrases": "MW, contract",
-      "Summary": "Nordex Signs 192 MW Contract with Mercury in New Zealand Inspenet"
-    },
-    {
-      "Date": "2026-10-24 07:51",
-      "Article Name": "ACCIONA Energía Starts Operations Of 72 MW Wind Farms In Croatia - SolarQuarter",
-      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEtnRFlmdUI1cE54Q1VZSjc2YWVTeDZUT2NwSGgtU3REV3c2cm5hZWJBQVRtTnNuTUVDMkxWYmwtallIRFR6cUgxdEZiV3NibzJvWmdoMENVbnJmOGh4STlPVGVlZlBPcV9kVTRBeG1kaW5KeWxXSllDZV9iMl9IbmF2U2E4Z1hYem1ReENBLWlMcTZXYUtJNWN5aVlGaW0yOHBJ?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "ACCIONA Energía Starts Operations Of 72 MW Wind Farms In Croatia SolarQuarter"
-    },
-    {
-      "Date": "2026-10-24 10:13",
-      "Article Name": "Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity - The Economic Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX3VjUWEwOXc4ODZGdHBhdDg0a0FaQnhrNEZzZHFRaVRDSVNsQkgxcTZhQUl2VzZQRFl0QXJMYmpVMGlrdm1lcUstZnB6WldHMUpKSzVZZTBOTTdVMHlYVkNwT3BpSnlscmNweTVoNGxDVm4zVFMwLUstYlZldE51el94TWlMRkcxYVRtVmVva25rQWszZnlZZjBBb29LVkFwdXdfb0xLODI0elhCaHlOdDJaeGNET1ZmQUVkNUhzLXRCczVfZFRhS0VqWDdTYmQwdElqZWZNSFI4VWFGdlRtel9BVF83S09NQVNWa2Vn0gHzAUFVX3lxTE1VWG1wdW4yVzFKOXdfMGtMcWM4S1pxeVRBMHNOLUZvbUN2b3hPOUYwTE5DbTdDcGJYY2FkWEZ5eHBBRFhTSTJaM3lHelA3UWljNHc5T1VEdUg3ZFJUVEUxTWMybi11ZHlYTW5wVG5FY2JOZnphM1RrakVhTHRZeVd5SV9nNmczRElnUEQxV1ZqTFdoel9DczhwTG9qbklNVkdZLUM4UUdoNHdhV2I0akJkdk5jZmRtTUxlUXNQN3VNbWhRd0FnZ0NuVWtfMWdpR01QYnE3Q2NBaHVJdkpzeU8ydTlRRzRfd05jMkdyMU9LVUhYaw?oc=5",
-      "Key Phrases": "orders, MW, GW, turbine",
-      "Summary": "Adani Wind bags 696 MW turbine orders from 5 power producers, targets 10 GW capacity The Economic Times"
-    },
-    {
-      "Date": "2026-10-24 09:35",
-      "Article Name": "Adani Wind Bags 696 MW Orders, Third-Party Book Crosses 1 GW - Rediff MoneyWiz",
-      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTA1b3YtSHlueGxQbUVNLXM5Tkw2YkdEZW9vWHZycmF6ZnBLdC1mT3RmLXFnRVN6eTgzdzBFNlNVSk5DeWtaejNiVXpVeGlVT0JBYXFZWkU5cHB0Z3RiNjNRWXJyVWVTS3RwdmVtZGFwNjE2bW5FMlpBU0VkZUpJT1R3czFTVW1xb2JrM3pUZ3EycEdBMWNTclprLXRiNjRwSUtVZkdOTjJaaEkzZWF1YtIBtgFBVV95cUxNZFF0NG1vdTNEbGJweVI4d3RFeHJwUkw3QTF5dXQ1bFFWcFFrWW8yYjJqZ1lfWjJnSzFDbFR6M2pUeWZ5bGU2d2lMcHZsWGUtd2piM3pfMk5yZkNkZ0w2aUlZWGhROXEyUDVmNmotQnlRTFBERHVmNkprdkF5ei1YV0IyT2ZTMWhVV0dJWUdXQndNb25WV2NqdklkdlpPYmprUmM0MndzZW5GT1lvanBGWXloMGNLUQ?oc=5",
-      "Key Phrases": "orders, MW, GW",
-      "Summary": "Adani Wind Bags 696 MW Orders, Third-Party Book Crosses 1 GW Rediff MoneyWiz"
-    },
-    {
-      "Date": "2026-10-23 16:37",
-      "Article Name": "The permitting deal collides with Trump’s war on offshore wind - Canary Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjFxVEZWQ2NCeE5BcHg5eWVma1hXZkJSam9QNkgxZ2c0azZ6bnRid2xwbS1MR2stMkJlbTR6dXo0QlZIT25vVUlUeVYzTTFsRnQ3Yy1nWXNySHBSMnlfbGVOaWVCWVNQY0FPb3k0R0FsZktrWVJYbjhGYjY0YVozVg?oc=5",
+      "Date": "2026-10-25 03:32",
+      "Article Name": "From oil rigs to offshore wind: Singapore shipyards chase Europe's energy-transition business - The Business Times",
+      "Article Source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNazlnYUFMeDhQemFXTXFlYUlLbUdCSTBCMzhac19Wd1ZIRzBkNTR1c2JnYWpBRjBjNmZEbHVmQlpySUU3cVNka1lHX0MzYzZuS0JUdm5tT25faUVGeC1ZUlo0SUpvSVoxenlZV21BQmpiODJ5Qm9QRVJfLVBTRGtqS0xtRzA2NFBvY0RFYzh4R0xHaTlGbWdiTVlISVZvMUsxV3NVXzhWaERObjI3c2J5WHNPN3RLWUNhcVB6TjZPODdIbko4emZRSHNOVVFuQ3ppUThRNm54RVNOZlhKOTV3ZzFvYzQ5VXIw?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "The permitting deal collides with Trump’s war on offshore wind Canary Media"
+      "Summary": "From oil rigs to offshore wind: Singapore shipyards chase Europe's energy-transition business The Business Times"
+    },
+    {
+      "Date": "2026-10-25 16:00",
+      "Article Name": "Nordex announces first New Zealand order for 192 megawatts - ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVFoZEkzWTRpM1I4UjNzXzBOWGNxN1JleUNKLVFkUEdYamhEX2V4U3hPNTdnZHhRWXgxT29XS29fUkJQbGlCMGxXbU0wMVNRd0R3YXR6cGQ2QXRlMlM5MzJOcHQ2U3dNd2hWZDJyel9qNUM2UmxlTUt3M1FXbkk2bHZoc2ZhaUlVd0ZRc3N5WUZKcXFvMkF3TVJNTHVmY0YxLW9UbGNiTzdrbXAxckJYT1ZEUW0zd0tkdS1wSXNB?oc=5",
+      "Key Phrases": "order",
+      "Summary": "Nordex announces first New Zealand order for 192 megawatts ad-hoc-news.de"
+    },
+    {
+      "Date": "2026-10-25 11:55",
+      "Article Name": "German manufacturer unveils 300-foot turbine blades projected to capture 14% more energy than predecessors, with production planned for 2029 - EcoPortal.net",
+      "Article Source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14RWJ1cXl3OFV5amVIR2FPbW51WENMdkgzMjNCdkxjSGkyT0FXdDVodm1LM0NDaWwtOWdzbEl3ZzBvSnlXTVpYaHIzanA1aUNCeUNTZ1dtcEx4a3k1RXlWTVktMVhQSXlIMzRtRUlnaW1oc1lSLVJHcA?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "German manufacturer unveils 300-foot turbine blades projected to capture 14% more energy than predecessors, with production planned for 2029 EcoPortal.net"
+    },
+    {
+      "Date": "2026-10-25 05:49",
+      "Article Name": "Offshore wind project faces Trump administration challenge - NewzTodays",
+      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHZHeDAyS3ZxMUFjclhXMUdGekszZ1J3dUpua3JzT2JyZDFoOFBYVnF2S05PeUUzMk9OSUdXbGZvTU45bWlkZFFnOUVvcU9JVWxvWERubjdLakI1VHZqbWkydm5yTFR2X2N6NjEtZ2h5QXI1TE5QSmtaODBxdFlMRmpMQXEzUkNwWFlfTXVB?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Offshore wind project faces Trump administration challenge NewzTodays"
     }
   ]
 }
