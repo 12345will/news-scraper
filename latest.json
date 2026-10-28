@@ -1,222 +1,131 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "rows": [
     {
-      "Date": "2026-10-27 11:25",
-      "Article Name": "Germany's Siemens Energy to Open Wind Power Maintenance Base in Hokkaido as Japan Courts Foreign Players for Offshore Wind \"Localization\" - BigGo Finance",
-      "Article Source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BLUpXd01zc2RhaDZhZXgzVFo5aWRqc3UyaGFCME9hOXZpcnVxVHdXWnVrSDdhRW9wTkdoWndYWTF1MWZUSlJMczhTUmpEcjVEX2x0eG9HZkVKTjBENk96SEZOMHZ1Q0x6bzAzWFcwMXFac0g5dkE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Germany's Siemens Energy to Open Wind Power Maintenance Base in Hokkaido as Japan Courts Foreign Players for Offshore Wind \"Localization\" BigGo Finance"
-    },
-    {
-      "Date": "2026-10-26 19:46",
-      "Article Name": "Atmos begins construction of the 470 MW Parron Maam Marang wind farm - Inspenet",
-      "Article Source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCTFFmWTk2ZGs2aHBjVGJON3h6eFI2V1VNRk9ja1VWY0VRUGFzeVQ3cUFWWWRkX2dPWUQwTVRTTWNCakstY29LTlplRURNZmNVakN0aGhMcUJDdXJfZlJ5SWlQTkZRMmtSaUNzQnJzdm01dw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Atmos begins construction of the 470 MW Parron Maam Marang wind farm Inspenet"
-    },
-    {
-      "Date": "2026-10-26 18:56",
-      "Article Name": "GE Vernova selected to supply gas turbine for new 372 MW combined-cycle power plant in Côte d'Ivoire - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TRDdqZjRPaTlzb2tXdmdmaF9aOFpBZHZPX05nYXZlb2doSEU4TENnSlJIOFVVTjg4UXdrTTVRV0lISm1BMWxTWmo1Z0JaQUtaYlpjZko1VjU2UV9HOHZ6MmktVTI1eTQ?oc=5",
-      "Key Phrases": "MW, turbine, supply",
-      "Summary": "GE Vernova selected to supply gas turbine for new 372 MW combined-cycle power plant in Côte d'Ivoire Energies Media"
-    },
-    {
-      "Date": "2026-10-26 18:22",
-      "Article Name": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push - gCaptain",
-      "Article Source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjhtVTdWNU0yRk9RQnlpYTdEbnhuQWNMdWo4QTdnVXhlX2RKSTZSV0NLNmRFdzZDSnNtdDhJNnRHc09JeGhnWlZORVdILTVueEQ2UTlXTGF6WnhqYjVtLXVsRVZIdU1NOEIxNU14b1pocXdSc0hJU0dZQU5aZ0VuZFlMaHE3RENjclE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push gCaptain"
-    },
-    {
-      "Date": "2026-10-27 10:32",
-      "Article Name": "GE Vernova secures 372 MW order: GE Vernova stock gains 1.03 percent - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDI4OWtIb05OWmJOeVQ2RUJudWItOFl5UVN3YlQ2TDJMMU5aY1AyaTFEN0tCczc3dE1GZXo1cmcwOVJXdXB5b25GR283dGJ4Z19oN3dlTnJyWUN1R1d6OTFrUndSd3I4aE9pcG85SVd1UzBhS1NoZXVhVVJZWkFSNEJlbThseTVveE5WcU42YVRTMEozOVpyMWItTXdUeXhyWnd5Wno5TzlENkZ4alVBTWVGZFpoemR4T2k1d1FhX2VUUWdWMktOTzFR?oc=5",
-      "Key Phrases": "order, MW",
-      "Summary": "GE Vernova secures 372 MW order: GE Vernova stock gains 1.03 percent ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-10-27 09:42",
-      "Article Name": "Installation of six wind turbines completed at Vento Energy’s 43.2 MW Breti Wind Power Project - OC Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFJNcTlYUnlCOW1KbHVUTVF2WlY1TTZWTXFHd1A1RXZTSDROREJuZE1uYUdtbE9KeVNwSGhXSkt3NF9kaGktNkxLMHd6M1dvRVhqczVqLUVQZTJEX3FSdHVzdWRYRHdPQWtERlVrZkV5ZTZRaHgyR2lUVUtXcEh3dURuMnZoYmVVa3Freldvc3hBNWVxRl9ZSl9HLUpReUp5QWZ6R09ndU9wbC1oLWlwekx4MnphZw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Installation of six wind turbines completed at Vento Energy’s 43.2 MW Breti Wind Power Project OC Media"
-    },
-    {
-      "Date": "2026-10-27 10:19",
-      "Article Name": "Alternergy completes sea-crossing link for 64-MW Alabat wind farm - Power Philippines",
-      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVhDYkRENTlYNHNqWE5ZR1UzUnNtQjREeXNZend1dVQzR0FRN252cmQ3SmlhWXo3d09lN2VVRGhqMmhicnpWMWdEZmFXQXgzSU9yQklIMnZmZmw2SHY0STdnNmR5dWQ4c2pfWkcxSUJrZzZzNktSdHpfekJIOGFQUkNRVDdITW1sRnRNN1pmVWFXYU5GUWd1YmUtTQ?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Alternergy completes sea-crossing link for 64-MW Alabat wind farm Power Philippines"
-    },
-    {
-      "Date": "2026-10-27 08:02",
-      "Article Name": "Nordex Group to supply DenkerWulf with turbines for a 51 MW wind farm in Schleswig-Holstein, Germany - Renewable Energy Industry",
-      "Article Source": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNTk5RnVPWGVHNDM4b1U2UHc2RHg5c1QzdDBBekplZ295UXRoSV92OWctV25sSzhISDZOaG5lZFZBbkl1X0NNRy1HVVRwOXZMZFk4enJ5UnBKbE9xTW9GZW96dXZjYkctSWZUUHl2cnFmNjFZenpSVElSTlZWYWF2U3UwMjFScHJldHRsM2p5cmExYTN1cFc3NFVucV9CalByQ281dGNLUURiUmZWUEQ0UU84bThKVFRnbzdTdHI4UjVUZjJwaGVEcmc1cG83SllVX3R6TnJRZTNYeHZhVUdvTGZPUnhVaVJtTVFKZ0NqaXAtZ1RxZklpS0YweklEQQ?oc=5",
-      "Key Phrases": "MW, supply",
-      "Summary": "Nordex Group to supply DenkerWulf with turbines for a 51 MW wind farm in Schleswig-Holstein, Germany Renewable Energy Industry"
-    },
-    {
-      "Date": "2026-10-27 07:14",
-      "Article Name": "Nordex wins order for nine turbines for German wind farm - Investing.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFR2SUhHa2Y5QU90V1huenBOTVBOUzl3T0xWV2ktRUtMaXpsTnBSSjlPZ2M0bkRCLXQ0U05hUWRKU2VDcFZENU9KU2JpdmZqUnZBRGxPcW9ZamZvRFB1czJUWVdJaWFkT3ZHZ2ZDMEFUaWVLZ1psRUh2NnphblRDNnY4VUx6YnhzRU1TcTM2UGtsa3BGTWZSeXRiRnVzNmpaSS1YbmVsa2wyaXhtb2ZtNUh0SzBvY2lGNVE?oc=5",
+      "Date": "2026-10-28 13:00",
+      "Article Name": "Vestas receives German order for 43 megawatts - www.marketscreener.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUl0RFJvblRJdWhKbU5Yb24tSmJjclNGbVljaHJPdUdPNHJ1WlNDM2JqQ3FqQXJzUDRKcV90TVVUZlVRalEtVWpUNUl2UEdJbGktTFhnNjBPS2hhWDY3VHNRSUhDWDU4Q0NZaVRrTzJ5WUV3dDRFVVN5UVN3TXR0Nm1rSzE5VkVfNm1GOUNjZU9hcnNVQUxMa1lNTXVCVWs?oc=5",
       "Key Phrases": "order",
-      "Summary": "Nordex wins order for nine turbines for German wind farm Investing.com"
+      "Summary": "Vestas receives German order for 43 megawatts www.marketscreener.com"
     },
     {
-      "Date": "2026-10-27 07:16",
-      "Article Name": "DenkerWulf orders 51 MW of Nordex turbines for German wind farm - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0YyZ2JrU05wSEs4VVo2S253SzEwZ3ctRmViNjY2M1VlZ25MSTlONk4zOE1SdGlPNzVkLTdjMjM4cmgyU0NBMmZSTW5KRXZBNTRONENKS0ltTk0tbVV0dWxyTmpsdTZnUW1nMzhuTU1aSzFQOWtIVEVfTl9JNDFHT0ZiSEg2ZEo1M3VUNW1nN05fS0Z5UGtpal9jWVdOZENZclo5VFlB?oc=5",
-      "Key Phrases": "orders, MW",
-      "Summary": "DenkerWulf orders 51 MW of Nordex turbines for German wind farm Renewables Now"
-    },
-    {
-      "Date": "2026-10-27 07:55",
-      "Article Name": "Nordex Group to supply DenkerWulf turbines for a 51-MW wind farm in Schleswig-Holstein - ASSETPHYSICS",
-      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEFQOW5WTFZwVDZOMU5YeEdpUGp3TGVqOEM3LURzTFZMb2U3ZHpzd2pNOER4N3Z5b1ZLV1pOcmJ4cjYwcWpDZC1yOC1nR2R3dUNQVEtkVjNzT2ZIMEVIcElhYjBMdEFLM1NJZFk0WDY3dXJJNkI1X2pFZXVCRXQyY0hIYTMyaHkyZEREVTJpOGhNS0xWRXRUeW1hZGFFRVhaekZqakF2T3VtRngwVDMtbg?oc=5",
-      "Key Phrases": "MW, supply",
-      "Summary": "Nordex Group to supply DenkerWulf turbines for a 51-MW wind farm in Schleswig-Holstein ASSETPHYSICS"
-    },
-    {
-      "Date": "2026-10-27 07:27",
-      "Article Name": "Nordex Wins Wind Turbine Order for German Wind Energy Project Bredenbek - www.marketscreener.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVIxcy0xZjVwVWJNUXQ0aVpHUlQ4cHB5eG5oLXhDbEt2QmRoY29tdm9UWmNmaFJpTEVLUlNhTkN0Z1hRZGlGaUZqOXZfU25lTVk5RU91NmhPQXVVUFRyelg0ZHdLeF9CWEM5cWJZdXQwdldSUENoclFKVlIwYk1pd3dEVlNEMzRRM293RWhaTER0MHUxNEtKTmtRY3dKeFFQSjBSUjd4YWFEYkVWUzBXVy11NWk2eHRIM2xfS0JLU1BaZw?oc=5",
-      "Key Phrases": "order, turbine",
-      "Summary": "Nordex Wins Wind Turbine Order for German Wind Energy Project Bredenbek www.marketscreener.com"
-    },
-    {
-      "Date": "2026-10-27 06:31",
-      "Article Name": "Nordex To Supply Turbines For 51 MW Wind Farm In Schleswig-Holstein - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUo0TjNoSW5CWDRibF9jcURGQ0VrS3N3ckFNOGI1RWYtSjF2dDBieENqV3BtUHFRLVVacVpBT3B6OE1mNjlvbFo1N014NUZLSWgxVGp0d0UxTGw2MS14OUl5RS1KMnMtd2lWV3E3dUdBOG11SXdFcVRicWlQUE41dENDNDNWSjFZMHFhVE85S2dmdkxyM1B4dHhZSXdueDFwUDVvbk5kTkJBNjJubjZtRFRWT0VxTjhnall1RHhxLXhZbEhBcDNoaEJBR1J5R28zaS1j?oc=5",
-      "Key Phrases": "MW, supply",
-      "Summary": "Nordex To Supply Turbines For 51 MW Wind Farm In Schleswig-Holstein TradingView"
-    },
-    {
-      "Date": "2026-10-27 08:06",
-      "Article Name": "Nordex secures 51MW German turbine order - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLVVYNVZnOEJlNUVMRHhNSXpjUm5sWDRzdlI4Tm9qYk1xdTNDeEdUQl9CeVE2NVVKNDBySU5YaDJIZklQdGZGOVF5M0UyWmVFeTFqa00walhic1FSVENHN1JReTI3dlN6d1kyTm0xWVBabldpR3BHRWxxNVR1VldpZERLaEJJdw?oc=5",
-      "Key Phrases": "order, turbine",
-      "Summary": "Nordex secures 51MW German turbine order reNEWS"
-    },
-    {
-      "Date": "2026-10-27 01:25",
-      "Article Name": "German turbine group enters Aotearoa New Zealand with order for country’s biggest wind farm - Renew Economy",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFZsbGZ1ZUVISHJpVkpicTdYQ2RsREFsejFZRDhudmZfa1ljb01XaEZrY1A5ekw5X2ZqMmw2cFU0cVhGdzZwelZIMGxybzdZMHFkYmlOWmU2M05TeDhselBvX0pWQVNWQlBWVW9ITVR2b25YNTZOYWFkRkNfeFRBQmpGRkVrcmxWWTgyLXRVc3RPcUNGcksxWHEzXzllTThmWGJ3Z2J5TXl2TUpydFJSZHdPSmhMejU1V3JtSHF0d0jSAcABQVVfeXFMTWxWbGxmdWVFSEhyaVZKYnE3WENkbERBbHoxWUQ4bnZmX2tZY29NV2hGa2NQOXpMOV9majJsNnBVNHFYRnc2cHpWSDBscm83WTBxZGJpTlplNjNOU3g4bHpQb19KVkFTVkJQVlVvSE1Udm9uWDU2TmFhZEZDX3hUQUJqRkZFa3JsVlk4Mi10VXN0T3FDRnJLMVhxM185ZU04Zlhid2dieU15dk1KcnRSUmR3T0poTHo1NVdybUhxdHdI?oc=5",
-      "Key Phrases": "order, turbine",
-      "Summary": "German turbine group enters Aotearoa New Zealand with order for country’s biggest wind farm Renew Economy"
-    },
-    {
-      "Date": "2026-10-27 06:33",
-      "Article Name": "Nordex SE (0MEC) Secures 51.3 MW Contract from DenkerWulf for Schleswig-Holstein's Bredenbek Wind Farm - Kalkine Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3pCTk1vd2xmSTV3TVZwZnZ1b1FrY3lDbVFfVFBWU2ljY0s0OWJ3RmxUZk1CQUg4VjJZSFJ2Y2hCUkt0SWlWRW5GekIzTWlpNVM4dU5MUmstamZRM2huUWRpdVpZa0dhUE51c1R3Z1g5N1BFZFlRT0R3VHpIRDBxMUF2SzMwRXJpMmMxYXBPSlZ3cWNmdjA0dXlyVHdPVVZvLUhFa1M5Szg0VmlFT1F0WjRpdjloWDQtTDRnMUY0Z0RtWjJhNHk1VVRJdmJ3bnZNM1RmNF9Td2tMSG5GdVE?oc=5",
-      "Key Phrases": "MW, contract",
-      "Summary": "Nordex SE (0MEC) Secures 51.3 MW Contract from DenkerWulf for Schleswig-Holstein's Bredenbek Wind Farm Kalkine Media"
-    },
-    {
-      "Date": "2026-10-27 14:20",
-      "Article Name": "Nordex Pairs Fresh Turbine Orders With Raised Margin Guidance as Analysts Lift Targets - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlJFTTFZSFVGWlh3ejhFa1JXejVpREtTbXpxdW5VckkzSlE3V0owZzJaLTZVYkVwd2JrX2VrRU5LNmpTZU03b0tNcXVLTUV1MVdrX3h4N3lxa2FBQlBPMHFmQVk3czNRRWlVNjJDTml1WG5kWjFDRTlHbnQxQThMcmJ6Zy1laTZ0ZFlLRkZRYm1jckJYSUZvZjFrd0F2ejBiMkVfNlMwMG1GcWxMQjRubFJ6djZrSmlVcEc1VVgyai1HQUs2dGNxYzYwbHZoZjkyLTRaRUIwOXZVWjFmNE5JY1RNZEhVd09pS0Z4SnNmUQ?oc=5",
-      "Key Phrases": "orders, turbine",
-      "Summary": "Nordex Pairs Fresh Turbine Orders With Raised Margin Guidance as Analysts Lift Targets ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-10-27 07:10",
-      "Article Name": "Nordex wins order for nine turbines for German wind farm By Investing.com - Investing.com UK",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGRfcXlvWjEwRjhKS25feklRYnpIY1RJcVZJc2g1WnhlM0dNSDlMX3FkeFZnSjFfRWE5LTRzRkl2cEhBSWRHREFOZTB0dkNxNFRKYTdzcS1RdDdOOFlveTFDUUEwMHVBWjNfbmh6SzlFWXZtZ00zQjE2MkhmTklubnVVNVNhd1ZyZTNKcS00YTRDSlJVQ2ZiNm42cTdnY1ZlVEZUQXNfZTJGY1hpOUdyeFFLMVB0MXR4?oc=5",
+      "Date": "2026-10-28 13:21",
+      "Article Name": "Vestas bags 43MW German order - reNEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wSVRoazJKWW1HZ2gyVEpvSDNPVTlFcEVsSnBYVWpMQ3k2b2wtTjFWX3E3alh1RU5YUndXNk1zQTZXbm10OVhTd0drS1BkYmZQSFFLUDlqanAxbzdFYm9oeHVEc21iQVZ3dk83eXNVZExqWlUx?oc=5",
       "Key Phrases": "order",
-      "Summary": "Nordex wins order for nine turbines for German wind farm By Investing.com Investing.com UK"
+      "Summary": "Vestas bags 43MW German order reNEWS"
     },
     {
-      "Date": "2026-10-27 15:52",
-      "Article Name": "Sunsure Energy to Supply 30 MWp Solar Power to Evonith Steel - Construction World",
-      "Article Source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXNjeWFJQVNwUS1fT0hlaDFmN2ZtWTJLR21sUC1WYzdJc3RMdkpwekhURm5oRmMwakgxaFh4T3FZbDJoZEJXX3VmMWhJOE9PUC1lRzNJcGIyRXpmenFfdjk3UDJWSHB6d0tpNHl4VU00blY4eDliOFEyWFJ2Z3lBaWxKb2NFdUlKSjVpajBQcDFDUTdDZkp1UnpHcHVKUk14emoxN05OTkU2UENFODVF?oc=5",
+      "Date": "2026-10-28 13:37",
+      "Article Name": "Equinor and Siemens Gamesa warned over safety breaches at world's largest floating wind farm - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnN3dlZXRFVQX1htWkktOERJeUVDME5qTEtKTTRMWHdFQWIxOUk4LUUycU5qOGdRNVpCZC1kSTdMaUlKMGowbmVfbHZyR1oxcGNOU2doQ2tId0EwQTZrNE9CbTN4aGFka1Y2ZmJzMko1Vmt3cy1uLThXZk1PTmtiT29mYUxQWWVDSXZpTmFCTnRRMDl6Yy0xYTVseWFCMGZSLU1zNVdoVVliUUNGaXpFQjB6bkVfaGEzM1pfS0Y0M3E1eXdDTHNJbkxERWZPa0NjTzVKdA?oc=5",
+      "Key Phrases": "floating",
+      "Summary": "Equinor and Siemens Gamesa warned over safety breaches at world's largest floating wind farm Recharge News"
+    },
+    {
+      "Date": "2026-10-28 09:21",
+      "Article Name": "Germany offers oil giants offshore wind tender exit as minister bows to pressure - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVBmbjR2SGtHcTFYbUlPcEVrb3RvbXZKOTBmN2J4dkhXM2FlbzQtR3B0M1ZsN3JhcE53a3dTdWdWdDVOVDROdTRuQWJMbUdmV19WczEwZURjMHBud2h2WjhHeVRlZFJueHJkZ0RCSGRXM0JWUE9hdUhCcW9FN2xzc2hSTFV4ejl0RDktTHRzcW5rRkFHV082QkFFOXZnU1lRMTRWNWtwekdnUmN0dUZESDM4dGp1SHFxTHJKTTJERFVab01qa2o0?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Germany offers oil giants offshore wind tender exit as minister bows to pressure Recharge News"
+    },
+    {
+      "Date": "2026-10-28 16:10",
+      "Article Name": "GE Vernova announces Trench Group acquisition with Q3 results - The Daily Gazette",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObURjVkVKenRfNTFrdXc4U3V6d2RWaXNuN0RiUjdxZW1xcUxqMDdJSXRTWmFJY0dMclNfVUNsVHh2TlF4N1V0M1dEZWZfdXFGbFRQTDlJZHpkRVlLcmtfcTVhVzVheV9fVndjSFVQRlRyU0xYWDh0SExPZDZvRWZlZ3J3eUp4UkF2NzY1Z2dVUmFyVzMzUXUyNzhxXzlSRkhNQ0JPbW1Od04zRXk0SHRXc0NZZTA3Z05SdVZvVmtlNk1hUQ?oc=5",
+      "Key Phrases": "acquisition",
+      "Summary": "GE Vernova announces Trench Group acquisition with Q3 results The Daily Gazette"
+    },
+    {
+      "Date": "2026-10-28 14:21",
+      "Article Name": "Offshore wind investor - Manila Standard",
+      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQl93RVlCVlFYZTlEeC0wVExaMTJIYXZ2MW5qeXZmby0wcTVIMWFhdmd4NmF1WjdxMWljSU1DVjVKTHVFNlNqb1hXOGhBb2lta3FDUUEwaWY1QkFna3pqYi1GTU9hODV5dkdTLU11dGMzTjM5c21rNnBMWE9KY296Wk5TNkQ3TW9nWHRSSzc2NTA?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Offshore wind investor Manila Standard"
+    },
+    {
+      "Date": "2026-10-28 09:04",
+      "Article Name": "EU’s Industrial Accelerator Act must explicitly include Japan as supply partner: Hydrogen Europe - Hydrogen Insight",
+      "Article Source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeERabWhrYlFvajdCazZfdTB3TVgxUmZwaFU1ak1CelRxRllsOWJZWDc5dmRJQm0zVE9fMjJmbzZORWtzYkpaMF9XZTRCN01udHhjNDJBQnpqV1U4SkJnYXRIQUIxd0tKX1dXZUNRODEwQ1dLQWUxRk5CcGZoYnFXdXBMb2RTMXJNRzkybkpOcFNtOThKa0JJdHdtaFM0cEhGRkxXcFdwLVNBdE5lS2FGekNPaDFLZ1otanJzekFuVEU3cG5mN0FKWnJfamhXempNNEJKRWJyZXEyYm52UmpB?oc=5",
       "Key Phrases": "supply",
-      "Summary": "Sunsure Energy to Supply 30 MWp Solar Power to Evonith Steel Construction World"
+      "Summary": "EU’s Industrial Accelerator Act must explicitly include Japan as supply partner: Hydrogen Europe Hydrogen Insight"
     },
     {
-      "Date": "2026-10-27 14:18",
-      "Article Name": "PGE and Ørsted Add BGB Group to Baltica 2 Offshore Wind Team - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnFxbldWWE95dVY2SmtudnA2Rl85eTItSW1TNlItQm1xNHBlRUg0blFUaVVSZlZCb05kUDdEQ2dzWUxPS3E5QnZ3U2drTmluVF8yWDNhc05SUkVpWG42VnlnZEw5dzRrVHVIX2k3QXNpZzR3LW0zb3RDZmo2TVVXQU5laXBibE1kRnNKWGZoQ0FUZV9EdlU1ak1JYlF0X2dkelE?oc=5",
+      "Date": "2026-10-28 03:46",
+      "Article Name": "Nordex Group receives 192 MW wind turbine order from Mercury, entering the New Zealand market for the first time - Energies Media",
+      "Article Source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZFpOSnR1dmM4QmlCVjZyX0lNd3pOaC1yS0lhN19qa0xnOWlieXFDNVVaSUo0SmNhT1VjUUlKYVVQbThRNU9DTzRSSm93UzhkMXlFcHR2MmtacEpJeDR3WmNhd2hJSVl3X1BvRg?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex Group receives 192 MW wind turbine order from Mercury, entering the New Zealand market for the first time Energies Media"
+    },
+    {
+      "Date": "2026-10-28 13:07",
+      "Article Name": "Ørsted Marks Arrival of Final 272-Tonne Transformer at Hornsea 3 Offshore Wind Farm’s Onshore Converter Station - DredgeWire",
+      "Article Source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeERBVENhd1pMS3AzenU5YldtZmtGSjNiUmJOUFZtS0hIblp0TzUzbTVBNF9telJHamIybkVKM2I5MmZ4QXJwWkhBeGhSc2lGUDNuRkwtNG5ac0pVX0FYRzNKSUNGd2JwUXlVT180bDBYVVlkVGJPTDY0SWdmUEYxdDhDWW1UV1gtQmNRZkJra2c1N2FKdEpOelRZa0RHVWFtdi01R3dDQWt0a0xkRWQ1Z1RsVVQ5X1FKQ05OUVh4NGxiSnkzR2dUT1dQdkljem8?oc=5",
+      "Key Phrases": "offshore, onshore",
+      "Summary": "Ørsted Marks Arrival of Final 272-Tonne Transformer at Hornsea 3 Offshore Wind Farm’s Onshore Converter Station DredgeWire"
+    },
+    {
+      "Date": "2026-10-28 13:37",
+      "Article Name": "BGB Group Lands Offshore Substation Work at Baltica 2 - Offshore Engineer Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbjZWM1lJNTcxdTBkRUdVRmk4R2JnS3VMbVFjY0xsa21sYThvd3VXbDZhQnhVWWFpS3hWVmxIeGFIeEZGWFh3UVlGM1JUYlBVT2JpQ1RJWkdOcjJvWUZiNFZpU21JQTUtdDdfTUtZeWhTM29md1JXZi05LXZaT1FLdHJiYTZmSUJUbTY4amVmNFZFVWQ1OGVpcEpjMA?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "PGE and Ørsted Add BGB Group to Baltica 2 Offshore Wind Team Offshore Wind"
+      "Summary": "BGB Group Lands Offshore Substation Work at Baltica 2 Offshore Engineer Magazine"
     },
     {
-      "Date": "2026-10-26 18:51",
-      "Article Name": "Hai Long, East Anglia TWO among offshore wind projects reaching key milestones - Offshore Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNk9ES0g4NkozRFJpOTFLXzZ2MThVamdwNURQVXZkWHFEMXNxS1BaX1piclpYRE8taTNiVkdlS0doXzh6RlRGTi01aUkyQ2p4dk5JRGhVTlJnSlNtRmdlUWlzODZ2dktaNVgwdm5lVkVaQXlDRUU0dm5DLTRJQlJ1T29qYVR5TUhlY1dfelVnd25UVTV3WHZ1YUVBZlliS2Mtb1hIMTlKVXFQRzlZNzBrV045RGFlZUN6ZXpibHBlakNxem1RN0piX1pNTzFndE1aMTZv?oc=5",
+      "Date": "2026-10-28 09:07",
+      "Article Name": "A new approach to environmental monitoring: SeaMe lays the foundations for a comprehensive assessment of the marine environment in offshore wind farms - RWE",
+      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzB1eS1RcE14VmNHSlVPNU9fdmdXcnNPeHNidEwzaV9HSElXR2pGbGhqejlMY2pjQzcwWk1zWUJIN2ZDWlFxUktuRUFXWU5aUnpWRkZwVDlEbzNtSDBMMk9tOXpjdF94djdUQVhCQTFJMzI0TjhRM3Y5ZlpmbHpzbnBudlpDeGRQY0RNbGlMOEhxRzFZU0ppSEQ2U1lJbUhvNFIxM0Z5bmpFX0FiN1ljM2JR?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Hai Long, East Anglia TWO among offshore wind projects reaching key milestones Offshore Magazine"
+      "Summary": "A new approach to environmental monitoring: SeaMe lays the foundations for a comprehensive assessment of the marine environment in offshore wind farms RWE"
     },
     {
-      "Date": "2026-10-27 15:31",
-      "Article Name": "BGB Group secures framework agreement for Baltica 2 offshore wind farm - TGS | 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGxsY0ROcTFScnpDdHJUeTNmU05NVmlKUFBHemhJa0wzQTBBUWlGRHBoOE5DSnMtRjc0cS1LY2QtRmFGRm9NRy1seHRIdnQ1MmJLRHNvbWJySk5BUVloY1JhQk95R25CX3N4aDUyS3dUYWtKSDRNVGcycVQ0R2tLOXJxVDhmRzRfWmZ6eW5rMlZMbGxWTUlXVG4xdk9lQXR2ejRQa2xfWEVMLUJLWnNNSQ?oc=5",
+      "Date": "2026-10-28 06:58",
+      "Article Name": "RWE’s 2026 Earnings Case Hinges On Offshore Wind And Trading - Finimize",
+      "Article Source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWJyWmxUcm9yRFhNbUJQakZ2REhHYU9la2xqT1Q3UmFXYVV2R3ptbkJYREVqN3ZWYWxzLXVYd1F4bnZ5cXRqZ1pkMlRudkFiakpOQXVkY3JJTmtvN095M1p3LWRSR2ZET0d3bDdTbkJhTVhTSmYyUFQ5VjVQalkxelhlbnZ3UWRmZkl5WVVVdU5RZw?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "BGB Group secures framework agreement for Baltica 2 offshore wind farm TGS | 4C Offshore"
+      "Summary": "RWE’s 2026 Earnings Case Hinges On Offshore Wind And Trading Finimize"
     },
     {
-      "Date": "2026-10-27 12:14",
-      "Article Name": "DN Colleges Group Takes Top Spot at Global Offshore Wind Awards - Grimsby Live",
-      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajlHWkNNR3BpMVlRSVVZSUlraU50Rk9BZFhGVzgtMzVYMFRXLXFWb3ZOSUIxMktTU2xDWXF1MEVrdzRrYnVfVnZMbGdnODVGUHhhcDFVaHhSd3RLVWNTTnc2MWljekx3bDBJVVhGUmNPYWgzaG9wMzJmOXJ0SlJsWG5WQlhwVlEyYkZCTU1n0gGOAUFVX3lxTFBqOUdaQ01HcGkxWVFJVVlJSWtpTnRGT0FkWEZXOC0zNVgwVFctcVZvdk5JQjEyS1NTbENZcXUwRWt3NGtidV9WdkxsZ2c4NUZQeGFwMVVoeFJ3dEtVY1NOdzYxaWN6THdsMElVWEZSY09haDNob3AzMmY5cnRKUmxYblZCWHBWUTJiRkJNTWc?oc=5",
+      "Date": "2026-10-28 09:59",
+      "Article Name": "RWE’s SeaMe project completes initial offshore testing - TGS | 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVBzUlRGcV9MQWRmNTVpU21zVzVDOHFRRF80eVNabUg2eFl2anU3bnZwZndBUFByejBDWlNmRGxKSmF3dEViZ29UdFZSQm1IUFoybnNkM1dPUHVQeC1vN2F3UzlZcV95S0tIdnpaQVhmOFhXX2NSejBSUDN3dEpzNnA3MGRJSWpTUEU2dEp1WHZrNVhuLVdWWVNjaF8?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "DN Colleges Group Takes Top Spot at Global Offshore Wind Awards Grimsby Live"
+      "Summary": "RWE’s SeaMe project completes initial offshore testing TGS | 4C Offshore"
     },
     {
-      "Date": "2026-10-27 12:02",
-      "Article Name": "ZITON refinances offshore wind fleet with European banks on infrastructure terms - Dealroom",
-      "Article Source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjZueTBIeDE4TW9taVZvanljNEE4ZWQtcmZyLUdQUEtFUjVUa0NlRmlUcTJkN2hYemd4SXhlLU9BLVg3MGhwMTNZTklXRzMxaGZnTlkwZjB0UHBoTGxTWTRlYW5UZ1V2eEt6UTluVGx2RlhiT2RLTWtERzFlSU91NktJdDBWbWVEMVhHY1ZrOFE5U3FxaGJaQ0xSY0pCeTRwem43UjJPWS1vajNXekE5ajB6Ui0?oc=5",
+      "Date": "2026-10-28 14:26",
+      "Article Name": "SeaMe lays the foundations for a comprehensive assessment of marine environment in offshore wind farms - Energy Global",
+      "Article Source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQjB3YUYtWXdUN0xhLWY0TkhGdnRNMXU2ZEdyTF9ZQWc1UmtCbEN0VjdRT2pZT1J3cjlGaUwycXdPejZ3N0hTUDVsLUY1N09fVTMtaDhvNDd4YVZCQjJZY2doSkdJc191ZEJQckNfWHBkTlE5Skd4bXhTZlo1YVJrZXF3WWxWUmx0b2oxUkNlbV9tQTEyWDR3TXh1NkwzN1g2TG16TGxVeGdSZFJYdy1tMURpMXVjV0dQR3NjZHN2RFpIaHIweXBEaVgxbnJIS0RBc1NxR29KV29Qdw?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "ZITON refinances offshore wind fleet with European banks on infrastructure terms Dealroom"
+      "Summary": "SeaMe lays the foundations for a comprehensive assessment of marine environment in offshore wind farms Energy Global"
     },
     {
-      "Date": "2026-10-26 20:37",
-      "Article Name": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGR3UUJ1UmJMMzJVVDNwY2x5RlZxdHFPbHBLczd4Qmc0SWFmdU1RaVhKN0VxcGtDbWFpQ2ZhUS0xdTNKNm9GYU1WYmQ1eEZIZ2xOWmhTbldkc1NyaXpuNDJYYklPR1ZjbVRrYzA5cGtfLWFpUlc1d0hody1mODRuWXNxX3p6M1g0UnpOLWw5N1dwTE5aTXdKem9NUFNIbmNOclpOSFN2NmFNdWlVS2pPdk13bGJkOWtGcVlNck9HdE1BbURiVTE1LXBJdTE1dw?oc=5",
-      "Key Phrases": "orders, turbine",
-      "Summary": "Despite Trump hurdles, US wind turbine orders climb to three-year high of 2.8GW Recharge News"
+      "Date": "2026-10-28 09:53",
+      "Article Name": "RWE commissions 3.7 MW battery system. RWE stock stands at EUR 57.61 versus EUR 57.56 - ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaFZvNUU1VFo1WFRuemF1dXhSaFFRVkJFckFMems0VmNLQW5FV1pDQllETTJjbDJiby1tUGxWSGRrZU5GWlZFMU5UZ2JQWmp6RUxBTmZDTUx5Y0M3M0ppRGV2TjluN080OHR5NVk0R0FsWlhsa0dYbDZNM09TM19FOTdhbW1qblY1NHUyQWdjYjBFZXkxcE1Kak56MHdKaTY0VklGWlQ2bXNzdEliNm1vaGNxam9Ea0Jiamd0ay1BVDJEdG52S0xZTjQ2ekxoeE0ySlNrbkx5elV3VFRpU24yVw?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "RWE commissions 3.7 MW battery system. RWE stock stands at EUR 57.61 versus EUR 57.56 ad-hoc-news.de"
     },
     {
-      "Date": "2026-10-27 12:28",
-      "Article Name": "Iberdrola to supply MediaMarkt Spain with over 160 GWh of renewables - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xWMmJBMUdpdFplRW5iYWNiVl9fdFoxWG5GS2NTUEFjX2NNZDdYQk1NaXc5Sk4yTzh0UkROWmktdmpXeEh6TjNIMklOc1RKckhYWFFOZG1fMzdYNDg2c3lhX0VwUWNPY2c1M29NZm11cU1sVTVnNXdLYlF0bm05Wm9xbkN2Mkw0YWwwQ0Z2V3c1Zm5oUWtVNzhoVVpuY0hvY0tHRm85a1l2Sndi?oc=5",
-      "Key Phrases": "supply",
-      "Summary": "Iberdrola to supply MediaMarkt Spain with over 160 GWh of renewables Renewables Now"
-    },
-    {
-      "Date": "2026-10-27 06:15",
-      "Article Name": "French projects ponder Chinese wind turbine dilemma - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSjlnVXhucXdqQVpRNlh2WkxlRkkxQW5Jd0x4RHpmalZNd1BBdU14M0ljem9ncFBkNk92Wi0xeV90THktSTV3MXFYSXNCclhiemgtb2YzYVNEUXE2OWgzLWFXTUd4X3lJbVd6SnloSTlOUWZ3eXp4TGxHVGNzZklldm9hRGtaQnd6aTFmYjhyOTFjQW5nODI3YVJ1eDdLUnZaNElYMEVCVDh6Zw?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "French projects ponder Chinese wind turbine dilemma Recharge News"
-    },
-    {
-      "Date": "2026-10-27 13:28",
-      "Article Name": "Equinor Clear to Drill Wildcat Well in North Sea - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQk0zUGV4N21XZjZHV2ZMYjVLYUo0TTJHU19iYmdaSUpBUjVaWDdIV3hPSXhxeFRSSmhRdEloR2J2LXpkNW9QXzJjVmt3QnpYWWtXZWlVT0lWeGsxdUgtRnRwaUhpUFBLSjUxWkRSakZWLTh0OFRsaXAtemNBVlJyRkZtWnF6dDdGR25RWGR0TQ?oc=5",
+      "Date": "2026-10-28 11:25",
+      "Article Name": "Delayed vessels force Equinor to postpone power production from US offshore project - EnergyWatch",
+      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FUGw5d2d1d2JBeGxFeThUc0FZUGE3NjhFRmtjM3l6QTZBb2ZKYk5UTzJmX0pndFFnYnIwODg3bHpuUk1zZnhQa3hJVk44M3dmd1pHNWczSUFrU1NzR09yQlQ3R2V5cmdMSG1N?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Equinor Clear to Drill Wildcat Well in North Sea Offshore Engineer Magazine"
+      "Summary": "Delayed vessels force Equinor to postpone power production from US offshore project EnergyWatch"
     },
     {
-      "Date": "2026-10-27 11:47",
-      "Article Name": "Seaway7 Wraps Up Cable Installation at 1.4GW Offshore Wind Farm - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNWJ3NlRSVk9DbEVmLU1lWEpmMVh3QW1NaGZkZmFlVGQxaGh0UU5lWWNnV3JLMVJqdWZQUERIZWNTdlF3RXdXRHo1Q1ZBSWxQeW9va3hvay0yTW5FWUJVRzdTWnU5elNSZFZMT0hGcmRXVnBheXFJdWo3bTVQS0daaF9sR0d4VE5HZlplaGlXNlQtMHBpbWtRTjk3VFl3eFF3VjJz?oc=5",
+      "Date": "2026-10-28 09:52",
+      "Article Name": "Norway risks never scaling up offshore wind, BCG warns - EnergyWatch",
+      "Article Source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSFZtYUxNUzZ2aWwtMV8zd2VhNEdCU3RmY05VTGNEcmlSdmsxWXZEVDFhclQ4Y3VGc0lTR09FdmJnbVAxR2x6c0hlMEU3SkhuQmpEdGw1MHczdGFGcmlhWktpUTNtczd3bzJkWF9pV2t4dkU?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Seaway7 Wraps Up Cable Installation at 1.4GW Offshore Wind Farm Offshore Engineer Magazine"
+      "Summary": "Norway risks never scaling up offshore wind, BCG warns EnergyWatch"
     },
     {
-      "Date": "2026-10-27 11:13",
-      "Article Name": "Equinor, Aker BP Join Forces to Develop Challenging Offshore Discoveries - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNby0talhLMlZzRnA5cGl3X0JHOWF6TmJta254MmxaaTdpS0EweG15WVd0S0RPQ3N0eHFnbzkzX0ltREx4UzBNZ1B3cnU0VXg5Y2djVVhIOHZ2Z1JYVmNCeHB1ZVJKel8yNTh5WWl0VWZmUG9hbERCbWo4dnA1RTR3Wjl4Y1NSNjgwRlhudmM4NUJxMUh4UDVpWXY1b2FTa1NHQzRMQjd2ODdpSGt1V2c?oc=5",
+      "Date": "2026-10-28 14:21",
+      "Article Name": "First-of-its-kind marine robotics test and development center opens in Norway - Offshore Energy",
+      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzRlMHlzTUdIc2d6bFM2OFpZTTFNaVEycFVOR2xOLXdwQXZkWm43dFFGZmZhY1RGbFJzRXNBTE00c2IxSklkbzdLM3RxMVZwSTUzdnlxVWFvQlpYU0JnMTdjUmZLekxYdDBYR2E1RjF1WVlCTmxBdDZyWkczajljZXk5YWRqNnIyUjZ5ZDM4TjdmNFBTcVB1cTFhUjZjbnVYQWVvSW80cTZoZk9nSlp2WjN2dHlCbmc?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Equinor, Aker BP Join Forces to Develop Challenging Offshore Discoveries Offshore Engineer Magazine"
-    },
-    {
-      "Date": "2026-10-27 10:36",
-      "Article Name": "Siem Orders Two Subsea Construction Vessels from China - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmVZYVRZWXpVSXdzRnczdkVZYnpySnpWUUF2OVdqWm91aUdYUGRUVTlfQTJialdUSHN1c2J5WHBKWGg4MUhGRTg3cDRpR1JjdHNGZElzWTVqbFdBVVVRNWlzWXZlTE14MU9hOW11aUZRWjNNMDhLV1hfSHdnN1pLRmZDRVdtTThkYXRLTmdBOHI3VzhDVmpvZ2tOcmY?oc=5",
-      "Key Phrases": "orders, offshore",
-      "Summary": "Siem Orders Two Subsea Construction Vessels from China Offshore Engineer Magazine"
+      "Summary": "First-of-its-kind marine robotics test and development center opens in Norway Offshore Energy"
     }
   ]
 }
