@@ -2,123 +2,249 @@
   "date": "2026-11-24",
   "rows": [
     {
-      "Date": "2026-11-23 15:20",
-      "Article Name": "Vestas certifies 6.5MW turbine for Germany - reNEWS",
-      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYjZjVlc0U1Z5eTgxUmJSdDVxOGRTeVdoOXoyd013Qlc4b1ZiT0tabDRZMnB5bjRKZkhCbkt4b0RYWE5aV0xsNDlQeDlwNl9mRVEyOG83b3M5NDhSZ2hUMUlmbHR3RmlJODNhOHRYdUlrdWV2eUNQcUliT0NXOV9ubTlfeUZyZw?oc=5",
-      "Key Phrases": "turbine",
-      "Summary": "Vestas certifies 6.5MW turbine for Germany reNEWS"
-    },
-    {
-      "Date": "2026-11-23 07:34",
-      "Article Name": "JFE Engineering secures five-year offshore wind maintenance contract in Japan - Windtech International",
-      "Article Source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMm9PSGVHdjUyc1hfc0F2Mnc3V2ZTXzVzSnE4T2ctNXQyQnczNUxHck8zcVQzNU1fclFmWkxWejVRclpYMmJQWHZzSXhtRVN5aTM1TjVDRzY2LU5rRTZ5bzdlNTBLQnVLZXdHYVYxY1p5WG1lMndBNVV3X3l6d2FQUzkxNkVuWGM4WHQ2ZzZBRk5Fa29lUUF3eUNVNHZURE1FQ1EwVWZCMktyOEFvMGVONXVnbmFmenFCYUlmYndVREJxVWx6aUNsb3ozTmsxNHlSdFNtYVBR?oc=5",
-      "Key Phrases": "offshore, contract",
-      "Summary": "JFE Engineering secures five-year offshore wind maintenance contract in Japan Windtech International"
-    },
-    {
-      "Date": "2026-11-23 01:33",
-      "Article Name": "Say Yenilenebilir stock wins EUR 1.32 million wind equipment order - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenBkTnFpVFpzMXVqSHV3R0hwOWFJdG4zX0hpQXgwUzE4dUVKbGxuMjZRNWJKZVhER0xvLVhra2xTOUJDQ1Y1dk1JalhOV2V2Z1hHbF9JYzRJdUxjYlpxWkQtRkhSRk9ETEY2OWVDQXp6SnB6U2p3NHpoSF92Zi11R2ZtMnBGSjlCTENvcmEzSGpoNjFjZHp1ZU16bXZJaWtCS3hfeVZXTExnOTdxRnNiUjNTR2I2OFJFekNGeTVjSEMzY3M?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Say Yenilenebilir stock wins EUR 1.32 million wind equipment order ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-11-23 14:01",
-      "Article Name": "Strike brings Siemens Gamesa offshore wind turbine factory to 'complete standstill' - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWJFOHRLZm40cWJZRHZVZTdyeGZDQkRHOVJVc3pOcmRoWFdGaXpIT2h5cjBXYmNHbnFCSjVNaU9rUDZObmdpc2JScmFpTEJ3Y0FKT2RSaWhQLU5XcHNJVjBTZ2Y4YU9GSDZZNi1GTWROc1owOGg3YmQ2SWY0TVIwakZiZUVOZUM0YlZrdnBBeG5yRzFjOHlxSEpoNzhhX0NPNXdhSDhoZS14LTZlM3Z3M0pZTVhKSjFIbWFHQkcxdzdSUkwwLWF0aQ?oc=5",
-      "Key Phrases": "offshore, turbine, factory",
-      "Summary": "Strike brings Siemens Gamesa offshore wind turbine factory to 'complete standstill' Recharge News"
-    },
-    {
-      "Date": "2026-11-23 07:56",
-      "Article Name": "GEV (NYSE:GEV) Record Orders and Huge Backlog Put Gas Turbine Demand Boom in Focus - Kalkine Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmc2YzIzQmVIU1hTRjI2cmdkeEdJOUNmM2NGQ29HZWFMbFdSN2dRbDVyZjhOZXhjNzM0VDlBUFNlZ1Q4SEQxaE5DWjB1NTJocjJHR0U0MDROTm5LeGp1Y3VLYWV0SDBNaEZOSFhTd1E1ZXI4YXR3Vm5DcHk4bzVEODJhQmZfckh0eVJvYzZNcnZhUlYtMW5uT1lwc1U1VUVwMUZ4cTNlbEdPZ2RuV3NISDI1a3BUMUhscHNjemJR?oc=5",
-      "Key Phrases": "orders, turbine",
-      "Summary": "GEV (NYSE:GEV) Record Orders and Huge Backlog Put Gas Turbine Demand Boom in Focus Kalkine Media"
-    },
-    {
-      "Date": "2026-11-23 15:12",
-      "Article Name": "GE Vernova stock: November 17 wind order remains in focus - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZm1zRFNuYUlhbG5BckdLLVpHYjZaV1BzWlZSRnViWHd4b0l0T3BBRGhuMFlRdzZrSlc3aWNiY0pNMmZvVTA0Wk4tRWVJUzNYdnZuSFRkVEhMYUhYdGpmbW9QZ1pFT2pKMGNMekY1ZnRQZ1pQM1luVi13bTFOcU8wVndrWkUwbFlVWm9JUFVpTktwMXpmUVBqbWdvbWhWcW9IVWUwaDQzTzMxZ1phUXJEQjdUUkxnWHNYN0Rv?oc=5",
-      "Key Phrases": "order",
-      "Summary": "GE Vernova stock: November 17 wind order remains in focus ad-hoc-news.de"
-    },
-    {
-      "Date": "2026-11-23 06:03",
-      "Article Name": "AMEA Power and Ming Yang Sign Contracts for Wind Turbine Factory in Egypt - energynews.pro",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3hrbFFsczJ5d1l1VEZOMnMyTnI0UW5YWWtUdkx1cnZLRi1QZVU2SnMxZFdtQ0J0TDR5RXFnbm1VVjBmeTZKTzRHUXZPRmgwVWM0SkhieDNla3Z5ZUNyaWVBdXVTYk9SSExWN1ZQZks5UzBYV3E2MkFIVy14UjUwZHUxRE9WRDVyTGJueF94VEdhOWlta0hLN3JVaTNtOEJQ?oc=5",
-      "Key Phrases": "turbine, factory",
-      "Summary": "AMEA Power and Ming Yang Sign Contracts for Wind Turbine Factory in Egypt energynews.pro"
-    },
-    {
-      "Date": "2026-11-24 00:03",
-      "Article Name": "Green Volt locks in Siemens Gamesa floating wind turbines after Mingyang setback - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVEhpMU1TeUFQSjR0SC11WkxVY01JbmItTU0zMEtwdU9Ja2h2akxlMmkwel9TWW1DMTBmNmdobHdCYVZ0UFk4Z1F0ek9tdzEwWDhUOTkzOUhNaVNaVk1MN2VyY2d5blB0Undya19UUlZJV3M0cDF5YXBQUVV4aVpTRE00TC1VS1JPRVA3NDA0NldIb1ZrdkFJSklkVUgyeWoxZEZEbDdfSndzYzA5S0x1eU90SFFDU2N2MW5rQmhaYU0ySHZ5cXJ4T3RSeHJMUnNm?oc=5",
-      "Key Phrases": "floating",
-      "Summary": "Green Volt locks in Siemens Gamesa floating wind turbines after Mingyang setback Recharge News"
-    },
-    {
-      "Date": "2026-11-23 04:05",
-      "Article Name": "AMEA Power to Build Egypt's First Wind Turbine Factory - CairoScene",
-      "Article Source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlZRbm83QXRuRzVTOHZZQjhFb29GNzF0QjRKbUR0eVkzX19oSjhfSWlUVFAyTlZLWUdta3hGU3daenJGVC1VNlRTT25zdXFrU19namZTUktaTXEtUTExdk5lMDYtbUd5aXQ2b3lidFFyS2ZXQWhUWkpFMURTNjdfS0hONER6UFh0ZWc?oc=5",
-      "Key Phrases": "turbine, factory",
-      "Summary": "AMEA Power to Build Egypt's First Wind Turbine Factory CairoScene"
-    },
-    {
-      "Date": "2026-11-23 05:17",
-      "Article Name": "Ulsan accelerates push into offshore wind, green hydrogen - 헤럴드경제",
-      "Article Source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kWG1idVZ1V0ZwLXBpMGFmaEFaVGQ2THNacjJ6amtJUUprcFBFT3BPNExYZFhHOVpTR0NrVHVNSjBxV3pmbHM2UzREM29oY2V5ODVMenpMNA?oc=5",
+      "Date": "2026-11-24 09:11",
+      "Article Name": "New York doubles down on offshore wind after Trump election rebuke - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcG10TTVQRlJPaF9IX0dZSHJ2MzFaNWhacGtqcVFxVmtla2xTSDN6UjA3aFJ1Q2V5MUpSdDRPWWcyR1dFc3JwM2dTSW5vLUw2T0VaMHRmek9WMHQtRlF6TnRUdjVfWkZZTHkxLVc0c1Z5LXJGWkhMOU96THJhYTBDRjI3SnVuWWFSaFJtRG90Ti1XbGphTXkxbDdtTkR2NkRLSFZFcTZ4bU8zYXI2Y1BOY3Y5enZGMHFiZFhUd3F3?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "Ulsan accelerates push into offshore wind, green hydrogen 헤럴드경제"
+      "Summary": "New York doubles down on offshore wind after Trump election rebuke Recharge News"
     },
     {
-      "Date": "2026-11-23 06:01",
-      "Article Name": "Nordex Locks In Vattenfall Pipeline and Dutch Tower IP While Albanian Order Opens New Market - ad-hoc-news.de",
-      "Article Source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVHptaG5qM3B3U0E4M1BKa2dxeEQwWFNubnJMZ0VXSE0xWTlldjJYZ1Rld2YwR1VXRXBrTlJZMWdWdEltcWxZXzYxcjVSZWFiLVpoeHFlQnN4T1BKeEZjeXdEaHZOT0JfSWR0ODUtNTFpRElNOTYwS29BS2ZHaTNWWFJldUFiTU5kdEpZbGk0M05EZDNhQ2dSNXpoZS1BVmVReXhqRkVQdmRwWUh5VTdBU1pPT2xGSnQySUNkLXlaMmI1VVdHbXdFZUpXYmlMbDNnYzlZMkpoRUZNSmlRUVM5QUJnNnBWc1FMV21MNzI3SEJLbEJlb29R?oc=5",
-      "Key Phrases": "order",
-      "Summary": "Nordex Locks In Vattenfall Pipeline and Dutch Tower IP While Albanian Order Opens New Market ad-hoc-news.de"
+      "Date": "2026-11-24 18:58",
+      "Article Name": "Marshalling underway for Nordseecluster B, OranjeWind projects in the North Sea - Offshore Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHlYTjB2UkRDRzFHSnR0a1JHc2FvRGppX3J4S0ZseFVVdUQyUk1STnF5TzBMU09seGM0YUk4alNoS1ltakdSMDVwdnNpVnBjdklud01lSlhGWDJMTUtBempZeGxlSUZWbE8zTndmekVUZ0lfTmJ5LTIzQlBocGhkR0FFT3FPYkhIY3V2RnY2cEFSbUdSVk03TTM5ajhId3Z2M0drVUxUOHRvME1BaHNCR29kQnpXcGgzREdTaFozOV9XN3lVV0E4MGNIcldRWU5XazdmSQ?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Marshalling underway for Nordseecluster B, OranjeWind projects in the North Sea Offshore Magazine"
     },
     {
-      "Date": "2026-11-23 03:55",
-      "Article Name": "STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket - Facebook",
-      "Article Source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR19kN1ZrRW02NVhteUVqOUhQOFFVeEFiRlNCN01EaXR4WmhwNG5ob25IZFplOXlBSUhwdm9sTWNINWhYaFJ4a3pjNWdUVEpoUDJhT2czeF9RSVBsVFhGN2xmcW85bW5hSTVfQlAzSGUwQXhBXzlmbjRSWWNoTVVENXgxS1FUMnk5WGI2UGFzT181bWFvUmtlMEZYek53Uk9OM0VnQTRpWDhvaXlUbW80MHczdkdqQ1ZPdjZnQlc1ZlB3aWtxVmpzNFZwVmZRTFpmR1ZUYWkzYmNSeGVPSnpKanh3?oc=5",
+      "Date": "2026-11-24 14:02",
+      "Article Name": "Goldwind Explores Wind Turbine Component Factory in Egypt - Egypt Oil & Gas",
+      "Article Source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQV9HSUdHcDZ4RldScEkyakE4bDExRkZWRDN2aGVGVUN3VWlBWS1QYWVzT3RXcmRra2lZN1ZNbFZIc0R0NENDdUZxak84UGFKWG5pQTR6WHpmLUxJY3B5X3F2c0FBZmR6dE9NdHZncWdpd1hHcHNwVDF1U1pvRGltV09tRUloaHVRcEl1bTkxMUlldw?oc=5",
+      "Key Phrases": "turbine, factory",
+      "Summary": "Goldwind Explores Wind Turbine Component Factory in Egypt Egypt Oil & Gas"
+    },
+    {
+      "Date": "2026-11-24 13:16",
+      "Article Name": "Argentina: ENReGE authorized access to the transport capacity of three battery projects totaling 264 MW in the AMBA - Energía Estratégica",
+      "Article Source": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT1Q0elNwNDVReGtYYTlmNFFJdDJSNGtFMVY1MDdmd1F1LVQtY1RYcGtJY0lOcVdubnUzSElmY0FIeUJCTXQ2MVFWZ2Q2LUd4WUdrUzNPT1NQcURRVEZIQ3lIZDRZS2FCSUtXN1V2dUh4Z25JMWUxcWNRYTFGZ0ZaYTRlX0xQRy0ya3BmVjNKQ0FKWUhYTUVoR2doWHp6YU94R0hpX193UlJXcDJYOUdKdVZiUkJFUDJiYVF5T3dULVFEWFcxN1RhdjF2NWVoYkwwbHdhQXdmMDUzQklqeHVrWEpEQlFodVhRU09GSjZQaGxtNEluVlE?oc=5",
       "Key Phrases": "MW",
-      "Summary": "STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket Facebook"
+      "Summary": "Argentina: ENReGE authorized access to the transport capacity of three battery projects totaling 264 MW in the AMBA Energía Estratégica"
     },
     {
-      "Date": "2026-11-23 08:55",
-      "Article Name": "Suzlon Energy Cyber Attack: Wind Turbine Maker Reports Incident, Sees No Critical Impact - NDTV Profit",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUU9HbXhfUU9QcGhsMUdYWEhZV2EwZzRVU0NQRld5ZUM5cVl4LUUyME1UTnNQTWZSanZhS1E5cGduU0V1QXlUR2pHeE90bXVhY3QtTUlZQXlHQUtXOGlYaWhUZy1HWlVQQzB2NHFYb1BJVnBoQUVnNkU0M21CWVZFUDY3U2J1OVhsSnY0ZDZ5dlp4aXBMR2FwSVRBLTdMUHZHU1FGOWtYWXl1bUxINEctX01maml5OE50VkxjdTRJUzRLNzFjUGdMQm8yd9IB0wFBVV95cUxNZGdmU1lfWElPSnVVaGcwbWM1ZHQtZkMxR1BxcUVkUlVHZDlXbS1aRGM1bmRfaHB4ems5ODMwYlNKcFgwa3ctMTBsWWNLS010U2k1b0s1VXdRSjJqenJvU0dtMEdVU19tRWFlRU9nbEdYTnFHSE9oR0FDNDVTbTZkZkk0dzFROERLbUNJRF9OOURESnVUcmdVU2d6OWdSMlhiNHU0ZlZlUlk4Vnh5aGJCTW9Pc0FxY3lwS200RnJEWWdvclhHRkVKc19WOWUyYWI3YTNZ?oc=5",
+      "Date": "2026-11-24 09:31",
+      "Article Name": "Envision expands Tai Tam wind partnership - reNEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXhtMTJSa2U3SG9pQ1pUSG01M3JHNVNvSzItcFFrNUtEcmcwSWJoaTI4Wno2T3lRRElTUzFjRWs2N3I3Wk04OS1ZdUZCTEE2M2ZHX0dBZEdycWVBdGJDMFdtUlNHVFZiMVBnN3ktUDloWHBuMTVKc0p6a1ZLaVFGZWZZVFU?oc=5",
+      "Key Phrases": "partnership",
+      "Summary": "Envision expands Tai Tam wind partnership reNEWS"
+    },
+    {
+      "Date": "2026-11-24 11:07",
+      "Article Name": "Mingyang claims black start success with 11MW onshore wind turbine - Wind Power Monthly",
+      "Article Source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWR3OFg3T2ZScG5WU3h3NFNYeGNoMUFVc3pZSWxpUFFrZzBCSmVpUmpMNWhCZExsTURFNTd0ZkQ2U21lNVdUeVlHZDJYYUxpWk1TLWtuN09wa0JKVVVES3FiTS1xSGNwZkdjVE9FQ2JqSXRfZUFkX0s1bGctWUtWRFlRTVZRTGU3cW13OGJFWm9RbHpQZlRUVmoyTm1GZGN4MXVnTmMxa1pUT2s4ZzUw?oc=5",
+      "Key Phrases": "onshore, turbine",
+      "Summary": "Mingyang claims black start success with 11MW onshore wind turbine Wind Power Monthly"
+    },
+    {
+      "Date": "2026-11-24 12:50",
+      "Article Name": "Green Volt Reserves Siemens Gamesa's 15 MW Offshore Wind Turbines - Offshore Wind",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE5iX3FWeUVXVTlJZEhaSmZYZ0VLb3owdXFTVzRyVTdfbjd0TDQ1X2JJRjZ4NHpYVTh0S0Z6c3psMm54MDN6ZlVfbEVGbDZQUkR3UmM5bGUyanozWlZhU2JGa0dIQ1ZHdFpXYXUxVG1idE5BNFpENktmZWRvdW9BMzlHTGFWamgxeW1kQVU5ck9FVVl1eG50OVU3UWVqMzFOaEtLbENhUQ?oc=5",
+      "Key Phrases": "MW, offshore",
+      "Summary": "... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
+    },
+    {
+      "Date": "2026-11-24 12:32",
+      "Article Name": "Mingyang claims black start success with 11MW onshore wind turbine - Trending Now Sustainable Construction",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeENZRmVzRVhidXB3UlQ4aW16a0NndWU2V1ZCczFnMjloOVFmdHlzSUdsZ3BWTmF0ZURDTk1ZZ0RiUjV2N1ZqUDUwYnJfLWxjeXVWTF9ONUxjZGRPbF85YUZUSDZzRzhWd0xPbDhIVXdiWHNXdFJjeU5JQy1EbHViMkxMeHoxN3NNUEM5TllsaGMwZU5WcGpMMzE1LTBpSC0wWmF1Nm51WnZXdEE1NGtvUFkyODI4YUg0WkF1U1ZQNk9VekE?oc=5",
+      "Key Phrases": "onshore, turbine",
+      "Summary": "Mingyang claims black start success with 11MW onshore wind turbine Trending Now Sustainable Construction"
+    },
+    {
+      "Date": "2026-11-24 20:04",
+      "Article Name": "Ming Yang plans Philippine wind turbine service center - Daily Guardian",
+      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0FGZTZDTjBIMmFwWC1CZVRkZy10VS1WVFBaTHlQMmlsN0hMc2hnY25lakJoMUxjSmdTRnQ1ejhYQnN5ZmllNFdpNTBzUldBWmRsZXhha2tnSm9zYUZNVVlXbjJTWjQ3c3JRRWJaellFTGg4YmNNa041dHJSd0Rnd0x6a1NCakw5V2RZXzBXV244Mk8tSktv?oc=5",
       "Key Phrases": "turbine",
-      "Summary": "Suzlon Energy Cyber Attack: Wind Turbine Maker Reports Incident, Sees No Critical Impact NDTV Profit"
+      "Summary": "Ming Yang plans Philippine wind turbine service center Daily Guardian"
     },
     {
-      "Date": "2026-11-23 09:27",
-      "Article Name": "New York Funding Offshore Wind Port Upgrades - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXdCaTNpazM0Sld6QXhJRkJJbDhaRE1ha25jT25Gd1FwYy1JeVl4ay02WkdmS1dyU25jcWc4MVN3OGxwZHI2T292MTZzMkExRzhhdWtxc0JFamczSWF2Q0xsalBVcEZURkNfWVR0WVh2cEJzQlR2enNpWmpVRVZzUGRlOU5vOXZXVERSTA?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "New York Funding Offshore Wind Port Upgrades Offshore Wind"
+      "Date": "2026-11-24 09:40",
+      "Article Name": "Ming Yang Smart Energy Group eyes PH wind turbine service hub - Power Philippines",
+      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHpweXkzamViWFFOXzFSTnF0X0ZmckFMTWZwQTltbUxlMDY4LWVZazVBamE5bU90Y1hxUHBSLWZ1T1R5RlZLSDJlVTRidHBlUFBPbEhrNDMwTTU0YUNTMVBQTjF4YkdOa3JHRXlhcDJEc0p2TmlObTgzT0ZDZHBwU25LWHpFV2tNWEtlR0h3WXVoRmlLSHc?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Ming Yang Smart Energy Group eyes PH wind turbine service hub Power Philippines"
     },
     {
-      "Date": "2026-11-23 12:15",
-      "Article Name": "First Monopile Batch for Nordseecluster B Arrives in Eemshaven - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVRqMEF1TlRnbG5ycEt3WUY3SDB3YkE0VldjZVN3eGpETkpqZkh0MGo4Tm0yUEp6al9DbzlJT0xreW5ELWh3ZkZUeFltbDVtUTFJR0pDR1FUdVJCR1lhOGlSLWpSUE9zcFQ2OHprTE1TYll5TjBFS2ZydWdLRlI1SG4xc1lJVmdQYUEzM3lXSlFldTNxeC1SMDJ5a3NaUnNDNm5XcA?oc=5",
+      "Date": "2026-11-24 07:39",
+      "Article Name": "Marcos, China’s Ming Yang eye typhoon-resistant offshore wind projects in PH - thechronicle.com.ph",
+      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1QxWFFoUU1VdTlYa01xV3NodENCV1ZuTk9GcmRERjhCLXQ5bGVITVZxMmNxbGgzX1VDNl9wNTB0eXYwSXFVaUpsRlRBZkJncUxna1U5NTVLWGkxdGpXZHdaTmNLUjQ4NFBwckEyU09yTFFlaWRDWFEwNHRXV3lKY1YzNTFHYUFtUklZcHVtQ0pqMlU2M2ZwRzVLRlR2NnhDVmJadnJn?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "First Monopile Batch for Nordseecluster B Arrives in Eemshaven Offshore Wind"
+      "Summary": "Marcos, China’s Ming Yang eye typhoon-resistant offshore wind projects in PH thechronicle.com.ph"
     },
     {
-      "Date": "2026-11-23 13:55",
-      "Article Name": "First Nordseecluster B Monopiles Arrive at Dutch Port - Offshore Engineer Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc284Z2NsWTBIR2ROX2kyWHhFNUFISFFqR2tIUFMwRS0xLXFDTjFuaFJCbFJYQzJ0ZEdMM1cxR3puVVhMZ3R1WEhqNlhCeHNEcThReGhIZTJKczIxcFg2XzM4eGxTVHA5TVAybGQzRTRTcUF1aUNxUlhIYTl6MHdzTjN2SzlqZVJVUXdpZlNSQldidEs3eHc?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "First Nordseecluster B Monopiles Arrive at Dutch Port Offshore Engineer Magazine"
+      "Date": "2026-11-24 07:09",
+      "Article Name": "Nordex lands deal to equip 133-MW wind farm in Romania - Renewables Now",
+      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZll5SmpZS2FvSEwxZ092X24zd2VncUVmWWZ2eHYxcVdQMFBYLUpuTkhtdG95R1ZZLUdZejBXWERpZHBjZTJrT1NzbXNhNEU3S3NJQU5tOHFJVjhUbE5lVmVyWmVWaEc1TkIxV3pSb1FzZUJoUTRnV28tb1YzaE5zQlZ2dkwwd0dNNGk4SmtSWi02Z3kxQUVKNDFB?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Nordex lands deal to equip 133-MW wind farm in Romania Renewables Now"
     },
     {
-      "Date": "2026-11-23 17:58",
-      "Article Name": "First foundations for Nordseecluster B arrive at Eemshaven - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb05HSEFjUHk3SDRScGFOajBDTU01VjFIVEo1MEJwR1VKYW5XVTR4M0trWVNTUGdPUGpPRDhjMGVDZ2FaQTZEdUF4UWZtc1VYdVlKcW1aZTFrMWQxc1BQc0IwekV5MWNxa1FTMnBucTRqbGVKc0xKckRFT1N3c3NsNl91OU8xLW1qYUo5VGcwV0ZjY3lEZ1ZqR2tBR0QtaUNa?oc=5",
+      "Date": "2026-11-24 21:15",
+      "Article Name": "Nordex wins 133 MW wind turbine order from Electrica in Romania - megaproject.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1VLZG93alQ2bHRhVjVpY2tOaEtVOE5fSjNBNnYwR1V4ZnUyTFZJUE5CLXJRTnBLTEJsSklORERfd0dCdl95NzhBdk1kWEUtRDhoTWYtcUZtN0NhaU5kSGZJbnFiSTNCNklIZWhKbVJRTEFoT0U0bEYzcjR0UDF4YzJNSmlqaV9jZnB3MG9zLTNaT0tGemxRVmJyRkZ2QnhuaE5zWUJB?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex wins 133 MW wind turbine order from Electrica in Romania megaproject.com"
+    },
+    {
+      "Date": "2026-11-24 08:07",
+      "Article Name": "Nordex receives 133 MW turbine order for Romanian wind farm - Investing.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanFVNm5JZ2NENFUtdmdaTnVBY0JCY2pUdTVhWjV5ODFxMFNjNWhTcEVaLWNoLVdXV2tlNmlFTDVId3pyUzZlVTVHeE5UUU5BODV0NWFsb0Y0aHc1cjU0bGNaRkdXSFBxR1pMTmktU25nY3JIbzY0XzM5eXhHS2hWY2pxQ3U2ci1QVHJmZnJJbk5FTndZNHBHa0x1SnRDUXRaelg4RXNaT09jSElENnlsOUttTzdubXF5UUY3Z0h3?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex receives 133 MW turbine order for Romanian wind farm Investing.com"
+    },
+    {
+      "Date": "2026-11-24 08:28",
+      "Article Name": "Nordex secures 133 MW wind turbine order in Romania - Windtech International",
+      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXZEbmZlV09XQl9YMW9oZXpWMDhYYnluSDZpMGpYTHBJMGFSSnN5S0NsdUdTbllZU1NDVzhaQTV2NzlFSW9qcmJMZW15dXVTV09aYm01b0FYVmVOVVJ4bTFRY3FQZ2JrVWxzRjE0Wlo1ZzJ5NDdVZXoya0NLOXVmMVh3dWYwaDVfRFdQdXhveUJNRjFzTm5WNExIQnRyNkJEYjlGUmlLN2s5cUZrR3ZMVTgxWQ?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
+    },
+    {
+      "Date": "2026-11-24 10:22",
+      "Article Name": "Nordex Group has secured a 133 MW order from Electrica for a wind farm in Romania - ASSETPHYSICS",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenl3STFuNUR5dk8ybVRrOGRyOTZNM1NPR1diVVJTWGExX1NMbkVqY1pJUFBMNXRaUUVqU2drb1BTLUxqY0dvOVlQdmRnY3ZqWG8ySzFvUmtjUFY3UkdJeFBIQ3lsamxaYllJTzFVSVBjcW5DS3RDMWNIbGpDQ2RKd3lHM0ZISDVVVTVpVWRzd1hEOUYwN2h1MnFDYkNLcEtOM3E5dlpFSFUxdw?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Nordex Group has secured a 133 MW order from Electrica for a wind farm in Romania ASSETPHYSICS"
+    },
+    {
+      "Date": "2026-11-24 06:32",
+      "Article Name": "Nordex Group Receives 133 MW Order From Electrica For Wind Farm In Romania - TradingView",
+      "Article Source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc25IWDh0Y003WkVlZDVwMFFHdkNxTmI3T0p5eEdRbUpVMXVGc1o3SjQ0QTVlX0ZsT0cxeTRKQ3VCbFlkVXZWRmJoU0dzMFRnazJVMjBielFpMkQxdUxidGdXcG51Rm5oV0M1T3pBSlg0Q3I3bzZLVFFkNUFLUXJPNnNhR0RaM1FXRmstNk1Db0JxYjB5bE5Ca1VGc2N0UXRjZW9QbHdrSDlsVjZUUDdRLTlkaEhndDRUZ3R2RnZwbWtvdGVVNGtQM3JnNkppUGhQMjdpUXJ4QmEyMTdM?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "Nordex Group Receives 133 MW Order From Electrica For Wind Farm In Romania TradingView"
+    },
+    {
+      "Date": "2026-11-24 08:13",
+      "Article Name": "Nordex Secures 133 MW Wind Turbine Order From Electrica For Romania’s Crucea Est Project - SolarQuarter",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHo4MDFhYVo4UEQ0MXJsNTVzWlJxVnU4RFNWUEpTZnBhY0VZdmFBOFlEMDcwWE5jLWo4MnFIeDRrRzIzeXlyYmtXY2RYM2t4VVhGTnZ1QVJ3Ym01d0lVWC1XM0praHEtdVJqakxiWlZwc3J2eWRRWWU0T2poS3lPZzlkRldzN2dNXzduVXBPcGFjcjNkVDA5R2Y3Zkc5V1Y1dkhSZTZaRjkxZ3NMNHBFQzNTbXlDY1VkSVdqM21MejU1UQ?oc=5",
+      "Key Phrases": "order, MW, turbine",
+      "Summary": "Nordex Secures 133 MW Wind Turbine Order From Electrica For Romania’s Crucea Est Project SolarQuarter"
+    },
+    {
+      "Date": "2026-11-24 09:07",
+      "Article Name": "Nordex secures 133MW Romanian turbine order - Trending Now Sustainable Construction",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUjNQNEFIeHFMeVNpTWJvcHJZclVTZk55THNCY2dOOThsTE4tR0RWeUdmeTZrYmZ6aHRpaVBVb3Z0UjhGN0xiUENHYXo4R3gzd1paOGRjRjVGckNGS3hLNHpEbXdxZG1ZbUVPQ253UHlOY295MVRTcEVXLTM0SXprZEJGMlUwNzJjRUl2WTNpMHMzY1ZGaEdLNTR6ZlR6Z3ZJd0lCUmpLWlN5bUVkbS12Vng0QmlYc1NJc21MckFYUm1qZ25XdTRJUUhlQnJDc1Y1TndQbzMtSHl4cXI3Sk5lQWdYb3Vxa0pRVWgybDhTRFRwdEVFUFgxQ1JQTDNYWGM5Tk5DV2EwdE1OTi13WnBvVmpkWEpfaV95VzNrMGMwZ00?oc=5",
+      "Key Phrases": "order, turbine",
+      "Summary": "Nordex secures 133MW Romanian turbine order Trending Now Sustainable Construction"
+    },
+    {
+      "Date": "2026-11-24 06:31",
+      "Article Name": "Nordex SE (0MEC) Wins 133 MW Order from Electrica for Crucea Est Wind Farm in Romania - kalkine.co.uk",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHZsRWRHVnFmSzJydEd6NFprd2JCSFJBY3JfSnROV2pDUnNkUWZRcENFaHhBUjhqdm1uQnhNUHRwS3J2OXBIZ2l4VTY2eTJJZlZSMFY3Z2paaHA5UWp1TDBMU09fNlFRRXh1VHp5WnYzS01ycWdfSzdfSDdKazZHTmdlcmRPaUkxLUhYYzVKZm5reU51VnFKb3VJM1NpNEM1Sk5OLWVSMU1NRHJCcXlIc00zbnMyMTRRVlljaEdWMHJQZw?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
+    },
+    {
+      "Date": "2026-11-24 06:30",
+      "Article Name": "EQS-News: Nordex Group receives 133 MW order from Electrica for wind farm in Romania (Nov 24, 2026) - www.sharewise.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR0gxWS15aUZzM09hNVZOMTZhTFdKQm1KX3BGaEcxMDdNeXlNTXY4Qm5BNDBYd1A3THZJRXhkY3o5bUQ4M0l1a0xwei1JTFlIOHRVYkJvZFFaTGhDQVZxeXk4aGZNZVRjbkRXaURVZE91SHpaRmw3b0V3N0JxdnpGMXlPal9FM1JFdDhHWUVLLWlfRmdaTURuVWx1WUF1cGFndDRqR2hDX1lwQzhRMHF2NVE0OWQwM0JVOHptODliWVhvT3hTNXltdUlKRFlhUzB2NGp0ZWRzVFBvRlcxVW1PRlUxU2NkOTA?oc=5",
+      "Key Phrases": "order, MW",
+      "Summary": "EQS-News: Nordex Group receives 133 MW order from Electrica for wind farm in Romania (Nov 24, 2026) www.sharewise.com"
+    },
+    {
+      "Date": "2026-11-24 14:15",
+      "Article Name": "UNI-FLY awarded helicopter crew change contract for Baltica 2 offshore wind farm - Vertical Mag",
+      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGxkNWQ0OVdsN3Y1N2FIcHZmZmM4cXJuSktMZFF2VUIxNEFjallScktIYnVlcmJQOWtBWVBTWEpZUzdSajlnWEJiN0tINk9Fd3NfbmVoOWlwT3RrSmp5YUNTRDN3TWEtUk9CSzhSNE04VFVIRXVIZWtkQnVyZUxMQ1NHUVo1SmtNV2tRTGNEckJ4dWhmVWJkVkFidGVKZVFSQ21QSE5OeVAzM3pwVzMteURXZ0FMbUV5WXVmV2dlSDJiZw?oc=5",
+      "Key Phrases": "offshore, contract",
+      "Summary": "UNI-FLY awarded helicopter crew change contract for Baltica 2 offshore wind farm Vertical Mag"
+    },
+    {
+      "Date": "2026-11-24 10:42",
+      "Article Name": "Grimsby to host new offshore safety training centre - The Engineer",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHhyTzNNc0g1X2VUeDZYS25iT2Z5aWw3Zk5JTm1BQUx5Y2kzLUhDM2tFdlNlWXBxSXpZa2dSRkFrcVhGb3lCcmpNUjlOdGJMZTN5MWF1VjhDd05wVkVCNHpPWkI0X01GdmwzT3ZRSmVFQmltWHA1LWg5V2h0NHlEQjN0cTR4MWV1X0lHazI0SVplS29PeUVNTmxiRjBBMENF?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "First foundations for Nordseecluster B arrive at Eemshaven TGS 4C Offshore"
+      "Summary": "Grimsby to host new offshore safety training centre The Engineer"
+    },
+    {
+      "Date": "2026-11-24 14:30",
+      "Article Name": "UNI-FLY secures Baltica 2 offshore wind helicopter support contract - TGS 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFlXYnhtMnRRMXZsYUw5ckNJOUkwemM4TnpFNDc1dzU2cUlSVDc3bzNCZzV3dVY4amhSaXRUM3RkUHdXbWo2bFdTMHNJZmFnSEh3QVBtelJxTThvbjlOYlhkWGpRNXVSR3p5OEF1dDd5SHhYQXE4SmM2THlxOGhER0ExMWp6bWNIRVVVTHlhVkx5eklHajh1TjZfbGNFU3NoTHNaLWlYZVFWTFZQ?oc=5",
+      "Key Phrases": "offshore, contract",
+      "Summary": "UNI-FLY secures Baltica 2 offshore wind helicopter support contract TGS 4C Offshore"
+    },
+    {
+      "Date": "2026-11-24 15:00",
+      "Article Name": "UNI-FLY Nets Helicopter Crew Change Contract for Polish Offshore Wind Farm - Offshore Wind",
+      "Article Source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblRxNktHVVNwODM0cXNZSE84dW93RjdfUzBacENrNnJBNmMwakxzWlRDVjRXR0lNUDV4LUphTzFlRkFkZTh4UGFqcTlLdGtselljUUswYmVsZ0ZqSENNRmR6cE5vLXdGOUVGQ0t2UWJ1UFV6ZkYzV1J2WHlYWWxLU2xVRzlmZl9YaWhoXy14dXNNX3YzWmd0aUdCUnJRMFl0QTZ4dVcwSDgwLXBiVGxwM2pkQWo?oc=5",
+      "Key Phrases": "offshore, contract",
+      "Summary": "UNI-FLY Nets Helicopter Crew Change Contract for Polish Offshore Wind Farm Offshore Wind"
+    },
+    {
+      "Date": "2026-11-24 12:17",
+      "Article Name": "Offshore wind training centre opens in Grimsby - DPA Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1l2eDA0cTZfLTFJdE5YblBYTFU2RTVCUzh3bVhQcFdwZE9Zcld3TW1GY0ZsTnA2X09VQUt2U3kxaDNYYTFPZTk2cWdxbEJJRXVFeFJnRXR3MEFkbjdiMTdMMmZMZnNuZnB3Q2V2MXNhdmtXV3BUX3VjQjRmSUI0QTZjcktqbDV0RnlOZ0pFd3phbDdBeEZoNU9R?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Offshore wind training centre opens in Grimsby DPA Magazine"
+    },
+    {
+      "Date": "2026-11-24 06:00",
+      "Article Name": "How offshore wind is opening up opportunities down dock and up town - Grimsby Live",
+      "Article Source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHhVaml1UFZXekw1bHhwRTFMdVVfLThsS1RlVndET3I3Qkg4TmRERHJGWmpub2oyUVdYbUtpNmNXb2tzdHJCMVRLVzhIdjZkQjJmY19uQzNZdXJoVzU4RGxnYWs2UDZPcmgxWnl2TFhkY2h5NXYySkVORkliN3p4Y0hoNk5BVVFEall6ZlgwYVZhRXPSAZgBQVVfeXFMTlRBSmJLbmRpaDBFdklzZFktNzVyeHpPa3Btdl9ZQU92TmJDZERPdVAzMFFjRDBMcnBwN2ZOS2FNdkU1Wi1DTGdIb0ptQTBrcWpEQm5wYzA5blJsLXl5YTBVdlRhSFV5V3NGZlBMSFVkVkdJdlc4TVFfQlhxMFVITTBYQXNwR3liamYyWXYwaVFzMUNVRDhSV2U?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "How offshore wind is opening up opportunities down dock and up town Grimsby Live"
+    },
+    {
+      "Date": "2026-11-24 09:36",
+      "Article Name": "RWE receives first foundations for next phase of 1.6-GW Nordseecluster - Renewables Now",
+      "Article Source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjhkazVENUc5MlNJQUVqXzQyTUZLSFkzeEh0V2hyOXJOajhOLXNDOVlBMUNpQmlzZi1FdkVVWUVmcUZxckJvZFZCcXY4SFpocEV3Vzg4andFWmhQR0NXTU83bTdYOGtYSUVycEozQ0FZNEVLRzdYTU9La1g5UVE1aHRjMXIxVEVVMVBVRGt2MVladU0xcGJZVDFLZmtzTmUxMmE0UUw5azdVa21jeV9N?oc=5",
+      "Key Phrases": "GW",
+      "Summary": "RWE receives first foundations for next phase of 1.6-GW Nordseecluster Renewables Now"
+    },
+    {
+      "Date": "2026-11-24 07:47",
+      "Article Name": "Buss Terminal Starts Handling Nordseecluster B, OranjeWind Offshore Wind Components - Offshore Wind",
+      "Article Source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVEdCME9ZazNjemtGM0Zkekh5R0hfcTJmLW1EZG1yMVo2VkRLY3c2QUNCRnBfcE5oSl9EdG1wX2lSQ3MzMzJiaVRNQ2dLSFRSaU9ERWsxR1htRDdpSW1JWWdiZkxmelpsOVQtTG9UNzVPUnN4Qk1OR2pWQjM5dW40SjJ0RVB2dGI5dUloaHlBSlB6VldLSFBuRjJPdmxXQzZCaU44c29HY09fc1V2Y1o4NlBEQXp2WWNmbWRfNzJvZw?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Buss Terminal Starts Handling Nordseecluster B, OranjeWind Offshore Wind Components Offshore Wind"
+    },
+    {
+      "Date": "2026-11-24 15:00",
+      "Article Name": "Promotion: Why offshore wind must look beyond school leavers - EDP24",
+      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblpvaFo5bi1hWEpiUjJkNXlDSTNrOTJHY0J3SmJhelhTNFdmbjctYzdiM3loT0RsUzFDU3poTDl1Y3FoNG5DcGVSZnAwcmpfcG10c1BYWGhXdzcxNnNmMDgtMkRNRXY2cTBGTS12eUt3MjNyRURQZF9fd1JCU0pWMUdORkRLMHZfQi1ablJwUHVQZG1Y?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Promotion: Why offshore wind must look beyond school leavers EDP24"
+    },
+    {
+      "Date": "2026-11-24 12:56",
+      "Article Name": "Reckitt Pens 10-Year Offshore Wind Deal for Dogger Bank B - Offshore Engineer Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeERzSEMyMDR6dFZYaWhUOFJKNzN0UEdmXzJuODNqNi1HOWN5VW83aXFBcGU5UGxMTndMeTVGYlRrekk3VzNtX2hRblVZS2h2bmlnMjZHMFhucjFYOFRGMDlzbk5CcXBremxoZmVkR0JVbjhQVmNhS3ZudThiTzRlSHprZGZMdHVNdGFMdlU4VUJJWHZLOGp2WWw3SQ?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Reckitt Pens 10-Year Offshore Wind Deal for Dogger Bank B Offshore Engineer Magazine"
+    },
+    {
+      "Date": "2026-11-24 05:35",
+      "Article Name": "Jan De Nul connected the offshore wind farm Baltyk 2 to the Polish mainland - DredgeWire",
+      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnlrWDQwaFdWR3dWUmwwNWJUR1J3dlNZcWlHZFhjdnR4RlBsQmxIWmpJNTFxUXNPc0VEVERiQktUTDFDMDViLW9SUmZmYjVnM2VtTERJbUZhNUZOM013cmdQaGpYQWRlUlNxMlRpc0ZSZmFuaFJnQ3UzQkdxQk82ZW9aSGI5TDRrb3B4Y0RLLVBzMzR1ajNDbk1TdDcyVFJy?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Jan De Nul connected the offshore wind farm Baltyk 2 to the Polish mainland DredgeWire"
+    },
+    {
+      "Date": "2026-11-24 12:21",
+      "Article Name": "Equinor Extends Saipem's Subsea Robotics Contract off Norway - Marine Technology News",
+      "Article Source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXdWd2VYaEJoa2ZqWHpqSVY0U1VQUkpvUW5JdTk5YmQ5VXFuRnVVZmNudlNiRFVMLXJjV1hJNlFyZExDeHJGelNVdlFCWE11dHFZMklsX2tMMk1Ud3JlNDVQRncxOF9rdTNWclltR3FYMGxHMGpDX3RoeDB5YzhTNEc3U0E?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Equinor Extends Saipem's Subsea Robotics Contract off Norway Marine Technology News"
+    },
+    {
+      "Date": "2026-11-24 11:48",
+      "Article Name": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034 - Offshore Energy",
+      "Article Source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWllrQ0NabnlsREtlaVNVcl9GM0hSaDJrc3Z6YUtoY1ZsbEdhNVhpMm5nYVZIY3hEWXNBS2FzeHNrUElpQVlCcWxBa201VWRZelc5ek9fakpmb0tsSHlpeFdNSDExSzluTjZsSEJFeHlZeVNUVGY2SW5SVENZYUd4amt2cjBQYWd2WWxiWjFDX1lURlZJSTlMS2s0c1VtdHNFcmRsS1VvVWFBNWpRWnlJVFg0NUstUjFVWkRBY3l6YUVJOWt4cHBxVzUtd3J0ZHVZbjY4OFR6QlNjU0U?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Saipem staying on subsea inspection and intervention duty at Equinor’s oil & gas field through 2034 Offshore Energy"
+    },
+    {
+      "Date": "2026-11-24 07:36",
+      "Article Name": "Equinor signs gas contract running to 2044 - EnergyWatch",
+      "Article Source": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pajZqMUNZMnNDRnBtOFhSZC1vYmFrOFRLNUdRb1p0TFlROURaVHA0dkFDX2VUT2RpVGplUlE3LWRDb0VUMWt1UGtfNFA2Vlg4cHdsTDQ0VlVUcnVpWXhUNDhlWjJFbWxPYTctdVRTR2lUUQ?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Equinor signs gas contract running to 2044 EnergyWatch"
     }
   ]
 }
