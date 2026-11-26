@@ -1,306 +1,229 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "rows": [
     {
-      "Date": "2026-11-25 17:42",
-      "Article Name": "Vestas bids farewell to global offshore service campaign director - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEVlMFA5OXJMeExIWE9CbXFCY2xLMjdDZ1MxMWIxbW1lVUVfcTN2ejlNTkpPaHYydDVoa0FHUWFvMERkUkZWYnpYelAyczZwaVh2blVSWVpoQ3dRZFpaVnYyZENna2RUZzJHSkRsYm5xMHBoR2xSb0l2ajYxR19ZNm9DSlhzTTB4a3dzYlFwa2ZuS3hjUFM1S2JBUktJbGVHdDFzOVIwVjYwek5MSFlUMkNGZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Vestas bids farewell to global offshore service campaign director Recharge News"
-    },
-    {
-      "Date": "2026-11-25 09:37",
-      "Article Name": "Romania's Premier Energy stats building 99 MW wind park - SeeNews",
-      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjhfem82T000VU5yRzBWaTRLX1RRYVFOQXVCUEdSaTdURVlPd2hjSGc5dHRyWThKYTVRTEl2ZkZhZ3NKanlIV0VuaTRacVJHV3FQWGNxV2hNRnBWNWVzblBzb01CTWVFcElfNk5MX3RZNkl6WDBnOWdwUEpFSlJyUHU1cEo2d3Nqa3p5eDZsTlM?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Romania's Premier Energy stats building 99 MW wind park SeeNews"
-    },
-    {
-      "Date": "2026-11-25 06:31",
-      "Article Name": "Nala Renewables inaugurates 99.2 MW wind farm in Romania - Romania Insider",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczZPT0pXaFRUZlZxWHFsU3FJSmJyY29LTy01UnVhTDJMQVJzTU1ZYU95VzZ6TmlRbDVvSkI4R3VWRVlQdEN0MURmZjFXQnRTT3Jva3pZXzZpLTVjaDkyZHBWeXo2U0tmNjZ4anVCSzJUdER4d3ZEVDJjekx4c2ZFZFhfdExKVUE1UlJjaXQyUlBHY3FVUlVJZw?oc=5",
-      "Key Phrases": "MW",
-      "Summary": "Nala Renewables inaugurates 99.2 MW wind farm in Romania Romania Insider"
-    },
-    {
-      "Date": "2026-11-25 05:50",
-      "Article Name": "Skyborn Sweden chief demands CfDs as 'clock ticking' on permitted offshore projects - Recharge News",
-      "Article Source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc20xWGtXanp6UlRBZHFLUk5ZTk0yVGEwUkxpbUVYS0NxTFhTTGNnVkR4QV9wdVNDWlA1Ri1UeXRsU2kzLTBNOWFDNlBTc3MyaEdLLWIzSWtrbTJVN0k0WkxsMmtkMW1FYWdmMnNoTXQ2ZDZmTkdkNUI0SEtQVFduWkRwUFZSbnZPMzNCV01zRExLWVYyTmhaNTNESkRneG8xZ2xyZ0ZEWjNkd0xmSzQ4ZHJ0b2NSWV9fU1ZPbjJ6NlZTSnZoM3lNMmpvcVNTQQ?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Skyborn Sweden chief demands CfDs as 'clock ticking' on permitted offshore projects Recharge News"
-    },
-    {
-      "Date": "2026-11-25 02:36",
-      "Article Name": "GE Vernova marks 70 years of manufacturing operations at its Taubaté, Brazil facility - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZFhLUVFqaGI1cDJHTTFRSHk5aVp6QWhPWjROS1VKX0xHRTZ0cHR2akdTVUJyTEtYZWk3dU12X2d2dlRzbVlSS1Jkbk1QbzYxdnpvVXBUZ18ybGwzX09Sc2lhZkM?oc=5",
-      "Key Phrases": "facility",
-      "Summary": "GE Vernova marks 70 years of manufacturing operations at its Taubaté, Brazil facility Energies Media"
-    },
-    {
-      "Date": "2026-11-24 22:36",
-      "Article Name": "GE Vernova signs new turbine supply deal with wpd for Haseloff wind farm in Germany - Energies Media",
-      "Article Source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRFBtbzRtb2FkN0F0Wi1SVFN4RU9tMllPSGx4YndTeGF6MTd6N00wTVJRbXduSm5GanRYSlJ6Nmo1ZlM0Z1JqS3dBazdmQUJXQkZPSGdDMXM1VUdPaHZEREdSVHVKUQ?oc=5",
-      "Key Phrases": "turbine, supply",
-      "Summary": "GE Vernova signs new turbine supply deal with wpd for Haseloff wind farm in Germany Energies Media"
-    },
-    {
-      "Date": "2026-11-25 10:55",
-      "Article Name": "Envision Energy signs partnership with Greensteel for 400MW hydrogen steel project - PravdaReport",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTNuNHljNmoxUUJCSTM5SkFNWFFKVVQtT1BFWHpSaENMVnVTZ0d5Mjk5TDVOd2NoMnd0dVprbkFaeUNid0Z0QjJrVnlQNGZmZ3RERUxIcWRTRGYwVmlBOFBRRm41Q0F0OGhwRWgxNXJSQzU1ZElndzJFU01qc0txdDFaaF8yU0dLemdGVVZSZkY3YWU2UUE?oc=5",
-      "Key Phrases": "partnership",
-      "Summary": "Envision Energy signs partnership with Greensteel for 400MW hydrogen steel project PravdaReport"
-    },
-    {
-      "Date": "2026-11-25 11:06",
-      "Article Name": "Mingyang Eyes Offshore Wind Projects in Philippines - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTVMeElXM240UkxRVWRueC1lVW1xUWJZSUF5MzdpVjNUR1p6bEtsdEpDT3BmeE1JcExrS1FRT2xuRlNUZjgyWjB0R2xtdHBtYklXSHpzOUNwNVBQTHJ3bXNPa09SbjFONkFBV05fdWFKeF91X0JjczJGMmdmaEVYMEwtYmRfV054Z0IzY2hLdFRwMzljRUE?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Mingyang Eyes Offshore Wind Projects in Philippines Offshore Wind"
-    },
-    {
-      "Date": "2026-11-25 17:10",
-      "Article Name": "China’s Mingyang plans more PH offshore wind projects - Manila Standard",
-      "Article Source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2o2dC10ako0dUE1bXo1OUVLUThOeTVkWUY2dWY3T25MMDJyd3hiR2FlYXVTckF0Z3dublBuTzJCaWZaRDlqdXpraF9GaEMyR2ZFYTNkTkFObFhFQzdwd2lIc1hZLUhDanhxV2RaS25JY0xiZUxTQlF5d1FWMFB1ZDdQTmowNVQ3QUdNbWlLMjlQbHBuQXRBUzFPQVNwcWV5Y1BxaGNR?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "China’s Mingyang plans more PH offshore wind projects Manila Standard"
-    },
-    {
-      "Date": "2026-11-25 20:56",
-      "Article Name": "Mingyang plans $3.5-M facility for 600-MW Negros wind project - Daily Tribune",
-      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2V6eGg4U0R5c29rZkF0MVgxajNTbTU2M0VDX2h5OU5JWUhHU29sQ2JYd3NSTGotQVVOdmdWeFRKczFKZVh1SHZRMGVJT1JHdzR2TVlxNUF3MFFVQldSNVE4NGtIYUZmYmV1Y2w3YThfR0cwTU9Db2lCT0YwOFdlbU82N3FHRDd5TnVkV0hUNDRHeVdRYXg0cA?oc=5",
-      "Key Phrases": "MW, facility",
-      "Summary": "Mingyang plans $3.5-M facility for 600-MW Negros wind project Daily Tribune"
-    },
-    {
-      "Date": "2026-11-25 09:17",
-      "Article Name": "DTI: Mingyang eyes 600-MW offshore wind project in Negros Occidental - InsiderPH",
-      "Article Source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2JJeGNYMzFVekZrUGxjdDhfTlFhZTNzOXZSbXVSdDlQdG5nOWxPOVJRcW1mQWtvb05ja0pPUExMSkZDdGRaOEJhOUhlOEdVcndmcjNaYUtRSnRZaVBjMENaazlXTlFyMU0tR1g2dzhDZndjMGJKMm02ZVJZS2VMdGppNm94TFlTaHZrZ1hTbk9ZX0k?oc=5",
-      "Key Phrases": "MW, offshore",
-      "Summary": "DTI: Mingyang eyes 600-MW offshore wind project in Negros Occidental InsiderPH"
-    },
-    {
-      "Date": "2026-11-25 16:14",
-      "Article Name": "Chinese firm to build offshore wind center - The Manila Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS25qbS1fRVIySEs1SXZlZmpiNlg4cE1xZjA4NVJjOW5SQU53QzV3QjNWZVFaLVlVaFppbkxLdDFhRXFhVkM1ejJzYWh4Zm9iTlRETFdEMmtpd3FPQnBFUzhHU3ZOZWY2NTZISFZGeVhLczJXZE9fdTlvTm41TUJUSHY2NzFkMTBIVnpieXlOQmVINjJvRndyZ2d4QmxHNUVPN1hFNmswdWs4QVZOS2pPdNIBtgFBVV95cUxQSlFCRWFiOW1yemt0enFJbWdwYnhUV25lNkJVeGtXYVdGOUg0cEZwT3ViZWF1bGJLejJrQW1fVGpfa1N4NUppN3ItSWw4dXoyLTYwRnhZUVpfUWdQR0psRkN2T0kzMk1OcnQ4X3MydmxGRC1DR3J0SGRWaGVZaVhVbk1oS3Q2anBXbjZXTWRWSmZuSm9iVnItQlZrWXcwZWhTY19aRldfQ2RxMjM1Y3lKckN1LTBtZw?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "Chinese firm to build offshore wind center The Manila Times"
-    },
-    {
-      "Date": "2026-11-25 05:04",
-      "Article Name": "China's Minyang eyes developing offshore wind projects in PH —DTI - GMA Network",
-      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZLLV9ObHRQZXZkVEhJMHoyQmJNTmZKUUtING1JWTRyeXdjWWZOYlBYcnNTRWxXd1BTZEhMS09KMnBpTVlKcXEzOGs2enZtVlQ1RXhQcW0tZWtieGVQOVZuUG5XYXlXa2tZcU9QTEF1RjV6N2dRcUtNYXY2WFB3X0tuS3VkR25fX3EtM2dSRENCSVU3T2JBdGpMYkRIb0lwNkdhRzFQd09vUE5ValN2SlhFNmsyVXdZYnVqS3BoRi1FbmVBZEHSAcsBQVVfeXFMT0MyTE5LVmNQeGM2Ylg0c2hxSmdZcVJfZVlxb2hHYXVndDlGUnpmUThaQ2FRUG53Nkd1M3pReU9JMmxuVXBxNGZDbEpER2Q5eUs0c2dkVVl4ZTNYblpiQ09hRDc5cDlobjJKek5ZVVYtdzBRQThiSnNxTjlnZ1MtMlhtSWZaejFZdGFHZmVYYW1aNk50S1BuWXpRMjlHbTZicTBEcDZRWWdPNGtXWnJvN3pqcFQtTGwxTjBZU0YzQ0lnMHBDSE5UUFdCZlk?oc=5",
-      "Key Phrases": "offshore",
-      "Summary": "China's Minyang eyes developing offshore wind projects in PH —DTI GMA Network"
-    },
-    {
-      "Date": "2026-11-25 03:46",
-      "Article Name": "Mingyang plans $3.5M facility for 600-MW Negros wind project - Daily Tribune",
-      "Article Source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmxENXVHaUw5SmNzTHJHd2lrUHp0ejdTUkJiVHFwTDBIa2hvdHhhZHo0bW9taHZNQVBaRGhnZXZUYmhQand6dW04R3FUaEs0RGpaNnBjRHVBUTUtNVdMOUZuRWwxWTEzNEpiTnBCVHZqdkc5M08xRU9kdzh0XzVOcHMwVlBIZWM0WHdXYTViZHh0ZGJBMy1J?oc=5",
-      "Key Phrases": "MW, facility",
-      "Summary": "Mingyang plans $3.5M facility for 600-MW Negros wind project Daily Tribune"
-    },
-    {
-      "Date": "2026-11-25 12:40",
-      "Article Name": "Nordex Group receives 133 MW order from Electrica for wind farm in Romania - Energy Global",
-      "Article Source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVV3Z1hNN0hSb3JNdzhDVXJVcDVWaWhJaTZfcUpuR2ExbzNFazVZelE4OUJFblVXVUZXUHFBcGF4TGgwM2N0RGIxZnBiMnJ0Vk9Ia055TkJWenZockNDN0M4RHpuVmlaS1YxNkttQnJPTmpoeXFiTzZGM1NTRk5QNkFnZUtuZ3pfdjhGRm03NWozU0Zoc3hkQ19ZczliSFgwa29MNmlxeHdwVGRpWkhDZDBuQXktVmZxU1E?oc=5",
+      "Date": "2026-11-26 12:51",
+      "Article Name": "Vestas wins 293 MW order in Romania from Rezolv Energy - Renewable Energy Magazine",
+      "Article Source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSmg1TlNoRVg5VEtQWjh1bFp6Vk92ai1ISklBXzJMYmJVNm4teXl3Tjdxd0NEQlBpalRxTUtpbHU5Q2dHUE41S0lzVHo5ZkZhU2ZDNjhXcHk1Zi1hN3lmeVVTa0lZS1dXNlM0cF9NaHh1V29GUGgtUU1GM1UxVGN4Si1zTDRBbEtIVmRMN21uWXVXaUE?oc=5",
       "Key Phrases": "order, MW",
-      "Summary": "Nordex Group receives 133 MW order from Electrica for wind farm in Romania Energy Global"
+      "Summary": "Vestas wins 293 MW order in Romania from Rezolv Energy Renewable Energy Magazine"
     },
     {
-      "Date": "2026-11-24 22:44",
-      "Article Name": "Nordex Group Receives 133 MW Order From Electrica for Wind Farm in Romania - Yahoo Finance",
-      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUd3MjZVV19PWE9meG5kVFdGQ05WNU5SQ2ZlQk5TTGVxMjZZODBHRF9pa2UyUzFkQkEyTV95VFpCRGx1YURDWEFGSThpOHhGbHlNamo3NWFkQzEteDVMZmhyRG9GMG9mcWgyZzZZMXBWblR4UzJzaVVNb1VvTzBMNXFfSkpEa29fOFdzOGpB?oc=5",
+      "Date": "2026-11-26 12:31",
+      "Article Name": "Rezolv Energy, Vestas sign deal for 292.5 MW Romanian wind farm - SeeNews",
+      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVNIZmtnRmhyUWhKQXg1QWkzYVRWOHRuWjRUZVZpSlhyNWZPOEVSank2YUJ6YldMaUt0OWtzRkZFLWotSFRza281Qlh2SHZpNXY4aFJXUy1aX0ZiLXM5MFJ4bUZCX2tDSXhSZF9CV2ZIWnVObDl4bTctcEk2WmhhSEo1WUxXc1cxZUVYRndwY0NpX3lDaV9qN3RKTQ?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Rezolv Energy, Vestas sign deal for 292.5 MW Romanian wind farm SeeNews"
+    },
+    {
+      "Date": "2026-11-26 09:48",
+      "Article Name": "Vestas turbines to power Rezolv's 292.5-MW Dunarea East wind farm - Renewables Now",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFZ3blIxUW9FS19RUWtDRE9tWlB3VUdvUkdmMU1IWm9wS3o4REtIRW5NcFh1cGRqUXpMNkhHMXhwYTlhMDU0cmJYandxaGVKZXJESjJuNENFVkRQVHVGSnBwS0N0MldCSlcwRThFNmw4TGlEek91bm03Q1NBMEkzenh5RThVTXd4LW5QTGgwVFM2ak4zeGs5eGRLVkFYWFNtMWNYenRiVQ?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Vestas turbines to power Rezolv's 292.5-MW Dunarea East wind farm Renewables Now"
+    },
+    {
+      "Date": "2026-11-26 15:29",
+      "Article Name": "Vestas to supply turbines for Rezolv Energy’s Dunarea East wind farm in Romania - Business Review",
+      "Article Source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjJ5c3ZIaXBYRW94MHlpU1NVRGlFRGhFRXdBN2dPTmxwLS1NS0FRZVZJdkZvZzlvWEk0YXlfbzNBeHE1NV9acWFURzlYZ2V2WE92cnVpZnJaZjRPakhUYUc3TUE5VWg4S3RPV3hLdTBIMkpyakxFMHllelNYSmMwYkJYVHFrODhSbmgwVGw4RkxRY01la3M4WnpHSlJfaXY1RWYyZTdvMWdaNTBSS0ljVEdWazJxS2JGaHNz?oc=5",
+      "Key Phrases": "supply",
+      "Summary": "Vestas to supply turbines for Rezolv Energy’s Dunarea East wind farm in Romania Business Review"
+    },
+    {
+      "Date": "2026-11-26 05:49",
+      "Article Name": "Siemens Gamesa lays down floating wind marker as Vestas bides its time - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHVwU2gyd1NPQmJScmxLbDh0R3E3QTZIVFN4WDNvUWJFcnZYbzAwWEhYWnR0c1Y3aGVmWmJ2dEFhUUF0ZzBYa1ZkbkpQMmlXN3VudGN0MEVuWXA1NXcxdUVId2ttX1NxR2U5bWpqUlQwcUhMRlA2Tk1jVnEyZkdDbmV6SWlMc1EtSktveUx2RnJUX0VRWHYzRnRBZXpzYW0wTldOOFBzeC16OEZhRWliUzFqWkxJRThzbG50Vw?oc=5",
+      "Key Phrases": "floating",
+      "Summary": "Siemens Gamesa lays down floating wind marker as Vestas bides its time Recharge News"
+    },
+    {
+      "Date": "2026-11-26 09:26",
+      "Article Name": "Vestas to supply turbines for Rezolv Energy wind farm in Romania - Windtech International",
+      "Article Source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2JORHFwbUc2dXUyNXlMVjR3UUdrX0tBWTlPSWptQ0FDOVFaSnZiOWk2bnNNeWJDeVpfR21Cc3NuQlVhbmh4cHBQZV9NT01nOEVranRRSjRjVXA2QWZKelR2UlBaVkJLSndFV0pCQTZOOXZSVUVRQTdFeW1rSTM2M1hFcTBJdjhYVFZCbk1SaEpHRk1raExneDR6cFMyRDBhUkhrUE1Ba1hLdXN0N1RkSXhxRUs3ckQ3dnlpM0FDeEZNQzVP?oc=5",
+      "Key Phrases": "supply",
+      "Summary": "Vestas to supply turbines for Rezolv Energy wind farm in Romania Windtech International"
+    },
+    {
+      "Date": "2026-11-26 10:46",
+      "Article Name": "Vestas lands 292MW Romanian turbine deal - reNEWS",
+      "Article Source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3dxTS1Hb1hLMXhpRWo1R0Nnb0RSTzJ3ejdmQzAtOUd4VnNXRlJtWjZnMFJCVFBkYmpQelNlZWtJMlZOdG52T01wTHFpem1JanRZQm1PWnF3TmlWZE9RSmNwTjZ3cVVoZG5EY3packtoN0NkazF5RFZ3OVVnWmZYTTJOQV9SQQ?oc=5",
+      "Key Phrases": "turbine",
+      "Summary": "Vestas lands 292MW Romanian turbine deal reNEWS"
+    },
+    {
+      "Date": "2026-11-26 19:37",
+      "Article Name": "Vestas to supply turbines for Rezolv Energy's Dunarea East wind farm in Romania - Agerpres",
+      "Article Source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHpaczRQbDRSUmhrNWw5WXFSZUw5V2FDeTJVM0RVN3BsaGpBMGxtbXJSTkJNTV9HU1RVOEhQVzQxdWR5Y0NSUExQY0VCOXVlcjFkZWp2Nm1iSnNjR2stWG5IcWdFX2JuckNXa1hwWVZqYWFoMEdjekFjdEhCTWdSWWpRUFVsTVZFYmNqUGxxaEVHb0xPUVZIOVE0bVlJU0Y0SGlmcEx0VzdRSjdXTlIwZDVxSGNKNFlRYkwzNDlUMEZuRFFfeUE?oc=5",
+      "Key Phrases": "supply",
+      "Summary": "Vestas to supply turbines for Rezolv Energy's Dunarea East wind farm in Romania Agerpres"
+    },
+    {
+      "Date": "2026-11-26 10:03",
+      "Article Name": "Siemens Gamesa lays down floating wind marker as Vestas bides its time - Trending Now Sustainable Construction",
+      "Article Source": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbXRLY3lGSXlwZlNUU1Zwc0RRMEQwRXlsSGFMaTI1ZXZTUDNvRHlFYlVscXU2bW93VGk2clFDRHJiXzVQNjhkNkVtTjBZS2FRS0JtSmFvbEhHYVQyWS1DQlFCX1F2dHdsejQwMFdyWHVYZGlEbUo3bVF2NDhDakd4dWgyZl9jMVJMT3lPcTFFejJQbFctVDBWZzRBTVAtdjRpNUxWdHJhYlZxUy1ZTVBqSDUwbGtFM2o0b0dESHItNmpFalpNMVM4a0d0eEdHZnUzRlAxV05VazJWenVaQzdNZmJZNHJ2bDRjVm1NQVR1LU1CNTRkRklJbFBhRWl5MmM4X3BwWlQ0TXFlU1FBUy16a0ZrenN2OHRaTzRoZE9aNzdQdWFMTmdQYl9nOGRIOXJMNDZRUVRjYWF4NTZLOEUtS0g1aS0?oc=5",
+      "Key Phrases": "floating",
+      "Summary": "Siemens Gamesa lays down floating wind marker as Vestas bides its time Trending Now Sustainable Construction"
+    },
+    {
+      "Date": "2026-11-26 11:33",
+      "Article Name": "Vestas receives 293-megawatt order in Romania - marketscreener.com",
+      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVktCM3Qwb05ERlVQMDRNWTh6U1Z1WGtVbUZfaTBrU21hSHM5Um1ZYnNiMWxzVlhQaEpsTGJEbDM1Q2JpNElCX2ZCXzROdThRd2hHR0s3bEV0SV9HUWZfSTJ2NGRiLUNpdUEwdkhRRkVZeGhtem04b0N2dVRwc2gtQUhkYURwWkE2STVrdjZoRGV5ZHhEVE1PV0RzV1ZOcmM?oc=5",
+      "Key Phrases": "order, megawatt",
+      "Summary": "Vestas receives 293-megawatt order in Romania marketscreener.com"
+    },
+    {
+      "Date": "2026-11-25 23:23",
+      "Article Name": "NSW greenlights 1.4 GW wind farm - Ecogeneration",
+      "Article Source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBteVJjOUtIcWhzX3BYVnl6d3ZQb29paDdYaG9Cb1BPbGhqUjdXTllFXzVLb3QzZHp5Nk1QdnRvNG9HalZjdllhdXVwNjExWGdYZExhdmVaTVZ1RmtSeFJVcFdwb0NBRm1ESlJ2b3RyX00tVnA1?oc=5",
+      "Key Phrases": "GW",
+      "Summary": "NSW greenlights 1.4 GW wind farm Ecogeneration"
+    },
+    {
+      "Date": "2026-11-26 15:19",
+      "Article Name": "Greensteel Australia si rivolge alla cinese Envision Energy per un impianto di elettrolisi da 400 MW destinato alla sua nuova acciaieria - HydroNews",
+      "Article Source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOTUyS0FEZU1fZ0NkdkszdXd0YmZMd2I2UWxydnVHSmtjRE5NN1RGaVBQM2xVZEdRc0FOQUxWREN2dnZlNjIxb2VxY0REREZwbzR5bVI1SnpzR2NGaXZ6TzJSSTNoU1pacTJLQTdKcUNBcUZoZXNlUmlMdTVMaHgtSHN3MXBPUlJGUnNsb29uTTBOeEpNRGpnSWtDazUzSEdwSEVtNWxTSDhEWFB3SXVhbTZ5TjI5TWNSc2NpS1ZFOUlyUFpCdHNKam1paGNCWG1rSktRTGFXMG84eXhLdWNmYmdNS1FTVmM0VmlDazNMWdIBgAJBVV95cUxQWGF3dS1FTThFTE4xYm5KbjA5WE1rTXR1MGhVVTBpdWl5UWFfMkFON25KMFRtQVczaUUzSURpajBCYk95c2Fob2VfbWxUNmVldGR0QnFrNkRnREI2ZUp5SkUyNFd2bjI5RVpmYm5XeHdrWWRUVlZORGxFOEdUaElqTV9Yb1hPb2xoaV9YSjM4OUtGaDN2WGUwWGg4SGlyS29DVUJoVDFCYzljYjdyaFliMi1wWGtwbDc0ZlRnc2pYRjYyNkt6LVN2OUlIcnhkWl9RR2ZhYTM0aTloa0pFOThtTURJZ0Rfcml2MUdqbjl1Y3o0LTBSeEhEcU0xNlhmbGdj?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Greensteel Australia si rivolge alla cinese Envision Energy per un impianto di elettrolisi da 400 MW destinato alla sua nuova acciaieria HydroNews"
+    },
+    {
+      "Date": "2026-11-25 23:03",
+      "Article Name": "Envision Energy and Greensteel Australia study 400 MW of green hydrogen for steel - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjJkTnFWbVdrYmx0czVYc2F6VGJlbzZ5dm92R1hJd3liaU1idVBQajBjTC1VamJHUDdFZm9DQ083YmtiQ0U4VzBmWWZfcDNTUWNqZVV4UUwtUGVWZkRVT1dpSGVKdEowUE5yaUpid0hJWTU2R2k2cnMzR2ZYdjVZYXU3amtqYk11cTRqMzdzOUpnZGdXVnRjaXFUUkxRcHJISUo5RE9ObTZGRzA?oc=5",
+      "Key Phrases": "MW",
+      "Summary": "Envision Energy and Greensteel Australia study 400 MW of green hydrogen for steel energynews.pro"
+    },
+    {
+      "Date": "2026-11-26 08:03",
+      "Article Name": "Global Hydrogen dissolves its Żelechlinek green hydrogen joint venture for lack of buyers - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3JybjdsMG5YTmVyQ045dWhyYWt0Wk91RmpfT2VqQ1htdll6Mm9UaVlMNnVLTEcxR3ZFZ3RYeE55Y1FaLThBMWJqdm5IVzRGNWh6ajFvWFhKNTN3WG4zTnhaVjBQVVBWdzBBZzF3Z292TEs0dGhkeHN4czNvaHBibkZ5UUVLUGdqMVFhOXN6SHVSN3RUSzhZRmM0cFhXekJVQzAxUlNxczRiTmlscVJVXzZ5LWlvZw?oc=5",
+      "Key Phrases": "joint venture",
+      "Summary": "Global Hydrogen dissolves its Żelechlinek green hydrogen joint venture for lack of buyers energynews.pro"
+    },
+    {
+      "Date": "2026-11-26 03:49",
+      "Article Name": "Mingyang eyes 600-megawatt offshore wind farm in Negros Occidental - Daily Guardian",
+      "Article Source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTNlbUhyeWxtQ0JDa1BTSmxaUXZ1UEZ4dGxyNU95WFVoejd0N1pFcUJpY3NOUHVDNDhjS2pGTVpOSHUzd3BfSGtEM2hxcm5OWFJDMjNGdzhENDdCMmZqbXJpdXM4VnFrbTVJd1hsN3Y1NkdVWnQtSXZEOUVBTmtUX2plT2tQTGdjZ3RJbXVOeTFZOFVDRkRON3VaTXhQNUh1NWFuWDc4QQ?oc=5",
+      "Key Phrases": "megawatt, offshore",
+      "Summary": "Mingyang eyes 600-megawatt offshore wind farm in Negros Occidental Daily Guardian"
+    },
+    {
+      "Date": "2026-11-26 08:30",
+      "Article Name": "Analyst: Reservation of 15MW turbines gives Siemens Gamesa an advantage in the floating offshore wind market - EnergyWatch",
+      "Article Source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWWtzbDJDZE1HS3J3VHBjVjNDa3Qwd1A5RWt6UnY0NmhDVUhRMnl2MVlvTlJZbUpNdzhHTWVCaUxaQlFrWUhrRWk2aF93RlJrUlNLbTJqakZYbEZDcWg3bjlGUG1zNi04bnhz?oc=5",
+      "Key Phrases": "offshore, floating",
+      "Summary": "Analyst: Reservation of 15MW turbines gives Siemens Gamesa an advantage in the floating offshore wind market EnergyWatch"
+    },
+    {
+      "Date": "2026-11-26 14:24",
+      "Article Name": "Hyundai Steel Industries Plans New EUR 65 Million Facility to Support Korean Offshore Wind - Offshore Wind",
+      "Article Source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVBiZ0lTTWRhXzZrSm5FeElPeTVZRlUydVpLNU8yOWJrb2V4bzhkTFJWS1dXU24tVXU3SzEyZTd3akN0MEtqSG0wbGJZYTVxTVQ5eC1iVUJhMGFNWFh0dWRxZlU5TERwVFNwd216bW5yZTJteldvQktCVHFjeXhMY3k2OFFqZUgySUs5TnNWMjNYblFwczZ4MUNjeXlRZTdPWWtNMVlCRWlMOG9yOTRucWJ6ZFpLSFhJRDNNT0xXSXlBdEpfS2oxS2tB?oc=5",
+      "Key Phrases": "offshore, facility",
+      "Summary": "Hyundai Steel Industries Plans New EUR 65 Million Facility to Support Korean Offshore Wind Offshore Wind"
+    },
+    {
+      "Date": "2026-11-26 12:00",
+      "Article Name": "Romania wind advances with two onshore wind projects (232 MW) - Enerdata",
+      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUdOdGV5OXY0TG9SX1RZbjZoQ2U3WnhYN0dKVTZISWktWVEzemhqMlNHbFltOUlMRjdvcDVaTWs4eV9SMkRkcURFU1NyenJEdlROaERSTk9FOVN3dXlJY2FiT3dOTDdlQi05V2pXWDc2YkE5bDNhTjgwWE9kT3pxVHpiY0F0R0VzZVNNaE9UMXNDTWw0STBsWkRybXJXdk1POE1kWnBRRHo5OUxjSU44UGdtUlVYQQ?oc=5",
+      "Key Phrases": "MW, onshore",
+      "Summary": "Romania wind advances with two onshore wind projects (232 MW) Enerdata"
+    },
+    {
+      "Date": "2026-11-26 07:13",
+      "Article Name": "Nordex stock: EUR 35.51, up 5.37% before Xetra after 133 MW order - ad-hoc-news.de",
+      "Article Source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2M5UjRDM0oxNTZISTFkMm5Lb2tpR0tCOG1Ecnp2UnVKUjlLQjB0LVdOZ2lxOUJvNWE4SWNPTTY2eEMxenR1UDYzRFpvdWxGbEZreFE0RzFfZmJnUmVINHlmaEEyYTJVU0RnQjFMVkFNVTY2YWdFcHpvNzQ5MENkMG5sLTNtRDZ2M25ZYUI5cFYya3VJUjJJY0tqTGplNUpoZXBLUllJWmJUMFZ3SGhMZWJmMDI3RlgtNjlmQQ?oc=5",
       "Key Phrases": "order, MW",
-      "Summary": "Nordex Group Receives 133 MW Order From Electrica for Wind Farm in Romania Yahoo Finance"
+      "Summary": "Nordex stock: EUR 35.51, up 5.37% before Xetra after 133 MW order ad-hoc-news.de"
     },
     {
-      "Date": "2026-11-25 08:57",
-      "Article Name": "Nordex Group receives 133 MW wind turbine order from Electrica - Renewable Watch",
-      "Article Source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdURqVDFkaUFWV2d2aTNMYnVzVHRkTzdqckpkTV9xYjdZLWlCRk91YlQ1NFVoSUg3cUNNMHRZOUlWWmRfdVpqNWluRU9rc0JSQ2o0eHJZczJabWNGRjFzWEtBVXN4YU56dkhFR0JhTXRSa2FkdHpQdU9uLUJybkhwNDVzVm05dVdpR2FTOVZ4VEZlVnNWTkZqcE9ydVo3NTVxNXc5NQ?oc=5",
-      "Key Phrases": "order, MW, turbine",
-      "Summary": "Nordex Group receives 133 MW wind turbine order from Electrica Renewable Watch"
+      "Date": "2026-11-26 06:23",
+      "Article Name": "Suzlon Energy to Invest ₹200 Crore in Tamil Nadu to Expand Wind Turbine Blade Manufacturing Capacity by 1 GW - Chemical Industry Digest",
+      "Article Source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS19jcURYTzFINEFCTGtGdjNTdERtbllCc3dlV05ZcWMxcDVFNGpLQU5SOUg1RXg2cFBHY1lXc3JGLUxCVmZlSk5VdlYwdV9uaXl6U2NwcW9jR29kV3g2R1E1cGlpQ1lJNFY4S1FfTTQxY1VWMzVlTzdnT3FrelRuX1JRV2JBV0d2T1hOeWxvSXVkUEZjSVZCUEpWRmEydFJKSHp4TkpWNjFZRndlQ04yZUtUQzZFaWEyLXRtX0hsZjAzMm5LTTRjQzJoYTdFMkl5?oc=5",
+      "Key Phrases": "GW, turbine, blade",
+      "Summary": "... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
     },
     {
-      "Date": "2026-11-25 13:14",
-      "Article Name": "Suzlon begins development of 1GW blade plant in Tamil Nadu - Yahoo Finance",
-      "Article Source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmZLOXkyOVJCNkwtX0hDWjB6dzdmMWV5X252S3VFRWQ4M0g4OHZEMUhsWXBJYlVIdVhUODY2bE90MDVrdVpoUERNOFJhUDhOTVA4TExFQWc4bzVOOXJhSFpUSndkTmlGc1l0WEhPQzlja2lKZW1Ba1RoMDZERjJ0M24tWGJOS0xX?oc=5",
-      "Key Phrases": "blade",
-      "Summary": "Suzlon begins development of 1GW blade plant in Tamil Nadu Yahoo Finance"
-    },
-    {
-      "Date": "2026-11-25 13:21",
-      "Article Name": "Suzlon to build 1-GW smart blade factory in Tamil Nadu - Renewables Now",
-      "Article Source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGt1T2FCVS1vSDZEdmZSWkZJZ1AwUXdkSXVXTGlKbU5aeVlEM1JHeGJXUXphSVFFVkZiMDBPOUZWZ1FDVXFBWnBtYm1oMnhKajNJdW9zSk9qaENleWVnZVM3azdZeXNWNFIxQThBeXZlYWEyTU44V0kteXVpU1BDLXQ2QzNKU3ZhU0Y1ZTExS08tcnZsR1BvejlB?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon to build 1-GW smart blade factory in Tamil Nadu Renewables Now"
-    },
-    {
-      "Date": "2026-11-25 12:43",
-      "Article Name": "Suzlon to Invest ₹2 Billion in 1 GW Wind Turbine Blade Factory in Tamil Nadu - Mercomindia.com",
-      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzBPa0E5dTBua1BIczBBV1hvT0NiMEpWclVhcXBLQk9ETXhRMjg4cFVWWjAxOXFIT3g2T2Q4RVFfbGdUOENIQUxDNmV3VF90Ti1sdnhWR0JSUUhNUHRTZ3Z2RjlzNFpOb3c5aVZWV21UVG9hVGh3MGVsX2p2dTNJaEdxQ2wxZlJIZmUySjBPWnNNUWVRc2JET3FCREV1Y3FtMV9mVDVoSnZRYW91UktKQkN3?oc=5",
-      "Key Phrases": "GW, turbine, blade, factory",
-      "Summary": "Suzlon to Invest ₹2 Billion in 1 GW Wind Turbine Blade Factory in Tamil Nadu Mercomindia.com"
-    },
-    {
-      "Date": "2026-11-25 10:13",
-      "Article Name": "Tamil Nadu CM Lays Foundation For Suzlon’s Third Smart Blade Factory Of 1 GW - Saur Energy",
-      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDBKYUFFNjNNTG1OLU5CUldwWjVva3hrUmdyRER3ekJSZS1LaFI2NnpjVkZfTHRJRmFpMVJxb09CMjNiNG1DWGROU0dMbmdHZERpRXh5bFVJeVFET0pVcWpMYXFXMms5MU9mTW9VUTBueGpUOWVHT1UySWF4Mkk1ZFlEQ0pUZ3dWSTRMUkpVSGxScUtDeTZ1bG5KejN6M0ZyS1BlZVNBU3gtTWlrX3l3Nl9wSWFxejBDUXU1bkhJZmExTFp6UU9Bag?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Tamil Nadu CM Lays Foundation For Suzlon’s Third Smart Blade Factory Of 1 GW Saur Energy"
-    },
-    {
-      "Date": "2026-11-25 10:55",
-      "Article Name": "Suzlon's 1 GW AI-powered wind blade factory in Tamil Nadu to create 1,000 jobs - BusinessLine",
-      "Article Source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa2V3V0NRRzZnUjhUUEZSbWdocFJRZUxNLUtTWVB0MUJ4N0VRZXQyTWtLTGpDeWN2Z1BQT0REcTV2cUdrMjlNT2hjV21IamM3UHJ6Nzd6NFhDYTJWT1dfNEw2aGFEYTJ1S3FXTFpwSWRTVjNKN3Y3bmVaWTMwdEU2b1ZqUGpab2RkcDUyR09vVDU0SDVFUlNYZmNpdEVSWUpjV0dTVUR1clJGallHNHlINFYwVWNtcHRiV2tKYS1QNlY0NW00Q1dRelgwX3oxUEJWczhIeDF4LW82WURMRlHSAeQBQVVfeXFMTnNVZ294cEF4TDAxeXpPdGo5YlVySFBJbHFaTExCRFo0dnZ5RzktMS1Ec0JBZi03Tktfb0JLRl8tZm5fSnkwbWpHZGk3UF9FR3BJOC05emQtV0RUQll4c2EzUUdsYVJCbVpPYWhYUkFoQnJZM1BUR1ZPLWkxTkRzRTZVQkgyM3o1SXdyNjh0RWluQ2xSZXRqQkxmMXRlMVJmSndZVWVDWWtwakR2cnlRMG0zTzlmSGY5QlFNbm01dDdjejItazZBM1laSldWbUltQWpPbThiTlV6UjhvQUpTVTJiR3d4?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon's 1 GW AI-powered wind blade factory in Tamil Nadu to create 1,000 jobs BusinessLine"
-    },
-    {
-      "Date": "2026-11-25 09:01",
-      "Article Name": "Suzlon Energy to set up 1 GW smart blade factory in Tamil Nadu - ET EnergyWorld",
-      "Article Source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaVlOckVGTDVqVFBJWFk1MWpLakVVMnFsUWI0RHVkOWV1TG5samdkUklDY3paUmdibDBhdHRlaDJzdWhjRXRkb2VEWElyUEZneWxTWjZ3Q2dNd1FXdno1TVRORWFaaG92RE40RllMVnJsTjBpTGdCN1hnSWo2empVMFNyeGxzWVBiWTZITVBZdjFtakc5VllHUGtFaGxtMG95Q0ZPQ0REYjdtOU9YaWc4cnZ0XzFESFFTVTFBQmdyRGZobW1CQk9nYVA5SdIB0AFBVV95cUxPUjFZbTBmQTZfTHc0UWpmWFJFLTNqMDM3cHFOc1VleHBMRDJuWEU3UzlUcS1oU1pHMTdDNnV5XzZldmQ3R1dtb2JLNzJJVEVfUXNlUTVOcC16dThMWGlTcUkzd2NRbE1pYmxNa1pLWXg3VFJYSnBRRFgyd1pGM1liSjlfRlUwZ1FPMHkxRDBBTjZsSXBOdEhNT0VLb0FLbkdmUFVZQ0ItT1VPLU1MUnFZeFE0MS0xaWNhMTlyMkNMZ21UOWpGb3ItaTNnMUZtNFVr?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon Energy to set up 1 GW smart blade factory in Tamil Nadu ET EnergyWorld"
-    },
-    {
-      "Date": "2026-11-25 12:22",
-      "Article Name": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Facility in Thoothukudi - Machine Maker",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUJJamt6cHpQNXN6YXJ3UlJvbUdDRXZGb2hrVW5UZDhxM2g4cnlDMEJ4aHFQR2ItVk4wclVKZXViaDduUHhiUTA2a2tsUHd2d05sLVNjQVVxc2o3NllOSWxucVZ5VzM5STE3bmN0X1kwM1hveUxvUXU0NDUzdU01OGxDYnZhUVdDRF9GUE02YndaTTZVU29iN3JoMnZEVFZzS3AyajJCQXg?oc=5",
-      "Key Phrases": "GW, blade, facility",
-      "Summary": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Facility in Thoothukudi Machine Maker"
-    },
-    {
-      "Date": "2026-11-25 11:36",
-      "Article Name": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Plant in Tamil Nadu - Energetica India Magazine",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelI1S2dIMzFMT3lzbzRibE41eWRGbkI5LXFiVmhWQWFHcHJmdjQ5TUg5X1N2aGwxMVFCVm1WamtLazMxajJWNU5QS2toLU9wT1pzSUNwZDZkMmNnM1ZJSkRYSFNVamtrcnczZnd0Yi1CaWhFcndUOHN6TTVfVjRqdV9TSjRQSzNMVW1PQm5mTmZHZkZGem5HeGlwc1lFRU9VRDF6MnlTN3o?oc=5",
-      "Key Phrases": "GW, blade",
-      "Summary": "Suzlon to Set Up 1 GW Smart Blade Manufacturing Plant in Tamil Nadu Energetica India Magazine"
-    },
-    {
-      "Date": "2026-11-25 11:02",
-      "Article Name": "Suzlon Adds 1 GW Blade Capacity in Tamil Nadu for ₹200 Crore - Equitypandit",
-      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0RldXB6QkxuX3dWQ0VuZzBXdWFqTUJSUHZaYmJhN2M4Y0tuRkp5d1pqaGNkeGhCTjlhUnllUjg1OGM0U1oySVFfUXlueW5RQjJfTHhMcmNMa01Gal9vU2tvaXhMZ09SSHYzNk54YW42V0dROTJBTmMtdHIyc05RelJGdUV4d0t1MmxodnZReUdsRm13eG9JSHBtMU9ocXc?oc=5",
-      "Key Phrases": "GW, blade",
-      "Summary": "Suzlon Adds 1 GW Blade Capacity in Tamil Nadu for ₹200 Crore Equitypandit"
-    },
-    {
-      "Date": "2026-11-25 08:34",
-      "Article Name": "Suzlon Energy lays foundation for 1 GW blade plant in Thoothukudi - scanx.trade",
-      "Article Source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODc1WFpVZmNleUlUU3BHSzRPY1pQQ1hxNUJwQU8weXl6SnJRc1RhY0FzZXRuM05QZTNJc0c3dXYtRnkwTmREOHJfR1d0bFFJT3IwSEdjWTJ4STZaZ0Q1SkRvWDNqbTJMOEVuc1BsNlRCVWtUb3NEZEZIakhKb0FrRlVFSUc3enFmZ1BfVVJ1QUNpQ2tXek9yX09RdUFJQzRYQk1jakNOc2QwUHNJQjdJRmlYTVJONC15?oc=5",
-      "Key Phrases": "GW, blade",
-      "Summary": "Suzlon Energy lays foundation for 1 GW blade plant in Thoothukudi scanx.trade"
-    },
-    {
-      "Date": "2026-11-25 10:05",
-      "Article Name": "Suzlon lays foundation for 1 GW smart blade plant in Thoothukudi - Power Peak Digest",
-      "Article Source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Dc3Q3U2FzbVVteFZBZ1FGeVo0SG1oOHNLRHRaWFdsWU40OTFMR0Ftc2cwdy1YTXVZRGFvcU9pOVlFcUZRaC0zanE5VFp1MEZtYWZDMnB3U2VON2VRSVJJbFBtRDdDanZtR0tQZzhaSUhHYUcxcWhQQg?oc=5",
-      "Key Phrases": "GW, blade",
-      "Summary": "Suzlon lays foundation for 1 GW smart blade plant in Thoothukudi Power Peak Digest"
-    },
-    {
-      "Date": "2026-11-25 18:49",
-      "Article Name": "Suzlon Energy begins construction of a wind blade factory in Thoothukudi - BigInfo.in",
-      "Article Source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1lDYjcyR2Q1anFBRFhSeG04NVJsa1pWd0U2OXZ0VXdzWTlheFhiWGYwZHhlUHpnZFRfYXVRNDdxVFdoNU9OM1RTVzJNaEtzMzY0Q3ozWndxekc4RHQycHpwUFhnS1dIWVFjSzRJdHp6cFNSc21uX1RTTldBRFJkYTI0U3VON21GcUkzTWk1SlVuMlYzUElBT09wekI?oc=5",
+      "Date": "2026-11-25 22:33",
+      "Article Name": "Suzlon commits Rs 200 crore to a blade factory in Thoothukudi - energynews.pro",
+      "Article Source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEt6T0toc1NsS0lQSTNCN2lTVktscmJEZW5QUkhHNmVEbTBoLXN2YTZWMmFxQmZ0cFpZYXJoX1ZXc2FoSjBuZ0FNNS1BSVJQaVh4NTZkT3NpeGFnX3hMeEZQR1dWV3Y5ZVY1MjNCbGFnel9iaE1MNWxtS2F5VU1GUzNxYnk1SGotdTk1em9kdHo?oc=5",
       "Key Phrases": "blade, factory",
-      "Summary": "Suzlon Energy begins construction of a wind blade factory in Thoothukudi BigInfo.in"
+      "Summary": "Suzlon commits Rs 200 crore to a blade factory in Thoothukudi energynews.pro"
     },
     {
-      "Date": "2026-11-25 09:45",
-      "Article Name": "Suzlon Begins Work on ₹200 Crore Blade Factory in Tamil Nadu - Equitypandit",
-      "Article Source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzN6SmFzUExxRTdnWVMydW9fbXVBY3FiOGxjcjhWcGt1VnR0MHo0NGZ1bHhNMnljaDZlU2dzT1duVWJzN185RkRZZnI0QlR1M0xoZWs1WF9pVGFON3JOcVpoSTd2VFdGWlR4ZXI0UFVvU2o1X25IYk5PbkE4ZlZrU3VzOHdualZGU25HaXIyeUtrSkM2cll6RnhjNTQyT28?oc=5",
+      "Date": "2026-11-26 02:30",
+      "Article Name": "Suzlon to Invest ₹2 Billion in Tamil Nadu Blade Factory - https://www.mvapulse.com/",
+      "Article Source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckhKMUNYZUItWlh0aXBHX2tLZENQY0NkdS13bUNEYWVkVUE2ZEloZDNpZlBkcWdROFZsTmlGWE9HTnJKZ3NaX2FXLWxLTGNxcGlyNUl0anMxUWJLZVpDSHQ3S3hWZzk1eGdSdDBqLUt3cXRNc2ZFNEtONE5VUDdWdFFua3QwNWVQTGVyRmIwQ0ZmMEU?oc=5",
       "Key Phrases": "blade, factory",
-      "Summary": "Suzlon Begins Work on ₹200 Crore Blade Factory in Tamil Nadu Equitypandit"
+      "Summary": "Suzlon to Invest ₹2 Billion in Tamil Nadu Blade Factory https://www.mvapulse.com/"
     },
     {
-      "Date": "2026-11-25 12:01",
-      "Article Name": "Suzlon Energy (NSE:SUZLON) Foundation Laid for 1 GW Blade Factory - Kalkine India",
-      "Article Source": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb1Y1TFlnXzNuQkVkQWZVNVQ4WXlfVTVYTm56ejc0dV9BcGgwV1MtOWU2TkgyMVk2dzFvV1dESGpCSFcxU09PeVpoQzVlRUY0cGR3TkJPaXZrX3hWcEx0UjBERWtaUW9Cczh4UVNpbmE4YjAyZG1vNnBNcUx0TVM2ZGp3dlZITmExUHlrQjViVVJNTm9tTGlvWGpoTVJEVFI4N3NXMGdYb1FCU3ZDcXI4QzQyb1JVRWMxcmxCTVZGdEllb05USWNSZlpMWk9zbmZCT05xSDdjMjVhSk93eFNvUkg0OXVCS2Z2QW9IUUhwMFJlal8tX3UxUFRrLW5NSzNsSl9CWm9ycXA?oc=5",
+      "Date": "2026-11-26 02:34",
+      "Article Name": "Suzlon Lays Foundation for 1 GW Smart Blade Factory in Tamil Nadu - https://www.mvapulse.com/",
+      "Article Source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlFuNGxQY1EyTFZnREtQUG15NnozYkpKSGd4UzdscFZaMXo3Y2ZKVGhhTUhpQ0s0blJ5bzNvMlI5a0V4OTloWDRyY2k5RTBRWnZIZzJDMkJNR2lEUjBNT2xxMGU5b1c5YzBUXy1GR2EydGxvQnU1OFpBQjN5b3J4azVULXliZkQ0VEx3NlhtTVlwLVpId1E?oc=5",
       "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon Energy (NSE:SUZLON) Foundation Laid for 1 GW Blade Factory Kalkine India"
+      "Summary": "Suzlon Lays Foundation for 1 GW Smart Blade Factory in Tamil Nadu https://www.mvapulse.com/"
     },
     {
-      "Date": "2026-11-25 08:02",
-      "Article Name": "Suzlon Energy NSE:SUZLON 1 GW Blade Factory Thoothukudi - Kalkine India",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUNweWxwbGpteExaTlI5Z04xRmZCcE1kdnhJXzVuQjVScDNhM0psQ0ZjTjhhcEE4aDc3ck43NE5lckRGNGNUZV9fVjR2UmdUX2N3eGdfMlBQejlaSnNmNVMwcE50TGt6Y25rNGJHQnB6LVlsaVNRZlhJaVdGT004Q3lfLXlQMG9wRmNEVmxpVWJhQ1RXbjQ0YzhPLXhTVXBEbWpBT3BPRnlVYUFUeV8zcFdkODdzVW1Za1dUckk5blRJcExCV0ViRjlSZUJ6ZE5t?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon Energy NSE:SUZLON 1 GW Blade Factory Thoothukudi Kalkine India"
-    },
-    {
-      "Date": "2026-11-25 11:08",
-      "Article Name": "Suzlon starts AI powered wind blade factory in Thoothukudi - NewsBytes",
-      "Article Source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEpLRmxFZ21zNlE0dC1qeU1BSXZGa19WR01yWmsxQ3E0TjF0SGdxNmo3bHNiSTQ1ODV0Mzl4QnhwQWlFNllURG5OTkNNdHR3eXFQS3JsZG5rU2kwV0lRRGNoNWFxNzVvWmY2YVphMkFCWFNyZTZpRUZ6eGhNNUZGdjhWTThtOFZaYjBxT01TX2ZudU1YMDBTN1dsa29NUW0tbnktVnBXc2I0Zw?oc=5",
-      "Key Phrases": "blade, factory",
-      "Summary": "Suzlon starts AI powered wind blade factory in Thoothukudi NewsBytes"
-    },
-    {
-      "Date": "2026-11-25 12:39",
-      "Article Name": "Suzlon Starts ₹200-Crore Wind Blade Factory in Thoothukudi - Urban Acres",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2xneC13RDQ3MDhNV25PR3k5b1VlTURZTVJxSFhpaVNmLVlhUU9jbnplbnAzZEE0N0NMQzRRZmhGX2RMbW1LbHlDT1J2RVlZTDJtTExJb0VodUotZGFILVc4bFpUTlJnUWp4OTVqblVfdWZOWnliaWdqY3htbG1uTHB5OU9PQ05TM1BUOFdCcEQtTWFQa2djeVY4dVlkMy1fYml4VlZCQVdCQW9X?oc=5",
-      "Key Phrases": "blade, factory",
-      "Summary": "Suzlon Starts ₹200-Crore Wind Blade Factory in Thoothukudi Urban Acres"
-    },
-    {
-      "Date": "2026-11-25 10:52",
-      "Article Name": "Suzlon Starts 1 GW Wind Blade Plant in Thoothukudi - Urban Acres",
-      "Article Source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYk5USGhFNVRGc3ZHN0RZSEFGZ0ZSaUM4azBTeWlhSmt6SGliY1JnR0RPTDFZMjZ2cUQ0Vy1zRzg1QUhGdlFWUk11Q2hxOUg2R1Q5OTE0OEtwS0xmbEpFTXVXelNsa2RiTG80QWhTbWdJZUNlaW1XQXNDMmlidUhrbmNPQ201UFBVcEFtRXdSaWVPODItejkzY3ZhejNKaW1jWGhCTExIakltQnJq?oc=5",
-      "Key Phrases": "GW, blade",
-      "Summary": "Suzlon Starts 1 GW Wind Blade Plant in Thoothukudi Urban Acres"
-    },
-    {
-      "Date": "2026-11-25 08:13",
-      "Article Name": "Tamil Nadu CM Lays Foundation of Suzlon's 1 GW Blade Factory in Thoothukudi, With ₹200 Crore Investment and 1,000+ Jobs - PSU Connect",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEFybU5vRm5oNGhtcE1GdjlvZmY4cUVxT05wMjExZmczODhjbS1JYlVfdERDMWd1cjhZQ2pDSDE5U19rUG5ZVnpOR20tbjhrYXU0TXNCLS01NUR1LUpReV9wR012LUFyNERBTWlhWVJaOEhMVUoxUlp0Q1VsM1lDZEZDS0xlYkItcFhvYXA5V0d2NFUyNFZtY3Qzdk5XaXlV?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Tamil Nadu CM Lays Foundation of Suzlon's 1 GW Blade Factory in Thoothukudi, With ₹200 Crore Investment and 1,000+ Jobs PSU Connect"
-    },
-    {
-      "Date": "2026-11-25 08:12",
-      "Article Name": "Suzlon Energy to invest Rs.200 crore in 1 GW smart blade factory in Thoothukudi - Business Upturn",
-      "Article Source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc05QRUIzQWFTZzh6REJCcEhUX2JjdFJ6dzhsVUVoQzViN05nZ1NSSjl6NUx3cmNreDBPTGRUeGJNQ1JIWklnSWZXZHhKQXFMc2hNSjU3Umh0YmN6N2x0VmNxR0Jrc2JGMHhDemxackxob1otendkbVdVT0NEa0trdHNiM2JuRHZPTlpsRU1TZFRnSnBjVENBc3ZTM0NNNTJYODg5OHBhV3JDUjI4Z1JPTlhFdFN2Mzg?oc=5",
-      "Key Phrases": "GW, blade, factory",
-      "Summary": "Suzlon Energy to invest Rs.200 crore in 1 GW smart blade factory in Thoothukudi Business Upturn"
-    },
-    {
-      "Date": "2026-11-25 13:08",
-      "Article Name": "UNI-FLY awarded crew change contract for Baltica 2 offshore wind farm - RotorHub International",
-      "Article Source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnNNdmpjZzJwZ3FNdHgzaExQV1VadXJlU1FQOWlyc0QydWdVWTB4SXljRVNSTVo3bjNmXzNIcEVkUUdZMGhBWGRwZm1nWXJydTJhRTVneGJ2LTJyYkxUXzNwMnpzZ1VGU3h6ZUxPNkNvS3hKdnlmdjhjN0lST3ZJa3QwUkZTSE9Ld2FVcEo0MzByamlmY2tycHROUQ?oc=5",
-      "Key Phrases": "offshore, contract",
-      "Summary": "UNI-FLY awarded crew change contract for Baltica 2 offshore wind farm RotorHub International"
-    },
-    {
-      "Date": "2026-11-25 13:07",
-      "Article Name": "UNI-FLY wins Baltic offshore wind contract - Helicopter Investor",
-      "Article Source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUo3elZVMVlvbGgzM2xVZUh2VHpYNDNpNUNmRlRyZHJVNmdfZG1wcnVRblptNkxROHJQVzJhOVFicmM2SDk0RTN6ZVJvZnZibkk3dVYzelNlUzdjbTZuUmNMbGhTN0RGeXNoQmU4UGhQR2VVaHNTZzZ0bVFPRTZXQnd0VUF5S25OUFMzMHZjQThLZVNJ?oc=5",
-      "Key Phrases": "offshore, contract",
-      "Summary": "UNI-FLY wins Baltic offshore wind contract Helicopter Investor"
-    },
-    {
-      "Date": "2026-11-25 15:36",
-      "Article Name": "SmartestEnergy inks PPAs for 2.8-GW Vanguard offshore wind projects - TradingView",
-      "Article Source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObW5KMWViSjNmeElsM05ucV8tamRoS2x1Vmk5WnFBSDZpODg0SHljSThucDhfN2hiRWNEOVJLRGdmOF9FU0pWM0k0TktoTlRtMUxDVnVjV0QwMzVfQ2s0SHZ2cGxjSGxYR0ZxRTBiblJxaUpmREpoaGxDMERiLURFUFpuZ0tyVElyd1lobEIzdnk4bXhFWl9nc0oxWU0tU196LWVZNEhJcXpPandVVGlEMjQwcUtyamc1M1pYdHZ5NUw3QQ?oc=5",
+      "Date": "2026-11-26 09:59",
+      "Article Name": "Netherlands Opens 2 GW Tender for IJmuiden Ver Gamma Offshore Wind Sites - Offshore Wind",
+      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVZkSEpvbUlTN21EcmRBSFJBWWkzRHlOWEJYOHdxV015QmIzNVUtQUJFekRKQnZEMjQtcmRrR1YzaDdFVkg5d3BTN2tvdnIyNnFSLVFVbk9uSXFLdGFwNHllWERvRkRibnFVOHpEUTZQRDdTMjBISXJScUU3c1NIQjdhLWprTFAzV0NQSmN1dHB2VkdfSDNUMEhmSE1mVXB2TDBQQlQ1NTl4RXJncGdsYXln?oc=5",
       "Key Phrases": "GW, offshore",
-      "Summary": "SmartestEnergy inks PPAs for 2.8-GW Vanguard offshore wind projects TradingView"
+      "Summary": "Netherlands Opens 2 GW Tender for IJmuiden Ver Gamma Offshore Wind Sites Offshore Wind"
     },
     {
-      "Date": "2026-11-25 13:18",
-      "Article Name": "RWE, KKR Sign 20-Year Offtake Agreements with SmartestEnergy for 25 Pct of Norfolk Vanguard Output - Offshore Wind",
-      "Article Source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbWY4LWU0aVNOMVhSaDlGd2F6Ym5TeVdaNkwzdjRxbkxKbWhUTjZEaVp3RUppanBUYTBOSnBndE5mdEZQdUJ0MG4yV2trQ2swZnlaMFZ1TWVxNWZSVUVVdnNJVjNhOWpvM2RSVFNlVGFjdXdZVF96V2VBbDI1VU83Qk9fOEROd256Q3JyQldXZVRuTmpGdjRIQ2xUbm1aN3hLNm5KRnZQRGZLaVlXTVVSRkV6ZDFIYVRodFJxOWxuM2Uzc0RKQnlNdHpPWFZoQ0piV1FV?oc=5",
+      "Date": "2026-11-26 13:23",
+      "Article Name": "Sunrise Wind to Deliver Offshore Power to Long Island - Wisevoter",
+      "Article Source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWpkal91amotTXVaMV9GTE1JeWd6SWJQME9SQU53RjRiLXZINmI0cG5tV0tPeTUwaHBGWC1MT0dJcTdnSko2NDUtMlVHM0M4Mlkydl93SHVBMzVwMG5qeXBQcFJsb2dYQnY3eENORTNDZ1NFZTZJV0Ffc0tRNEwwWXhxNjF6S2l1Z0RoYU9n?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "RWE, KKR Sign 20-Year Offtake Agreements with SmartestEnergy for 25 Pct of Norfolk Vanguard Output Offshore Wind"
+      "Summary": "Sunrise Wind to Deliver Offshore Power to Long Island Wisevoter"
     },
     {
-      "Date": "2026-11-25 15:00",
-      "Article Name": "SmartestEnergy secures PPA for Norfolk Vanguard wind farms - TGS 4C Offshore",
-      "Article Source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWpCWFVFUGxRSjkybHBwUGdZRVhreHBKT282cE9aZzdkaXlBdjk0aTRYX3ZnWXFiaG1mM2NSRnZMNHZMWnRUNXIzenpydVZ3NXd5bHpOU0FKaEdybFBzSGVubGgyMGdRdXJla2tjV1JTeVA1QXhjSmk1UjdPdWw4Mk84c1pPTTFzZTdvc2NEQmhvcXhSUDRsSHp1U2dKUDh0?oc=5",
+      "Date": "2026-11-26 08:41",
+      "Article Name": "Long-term power agreements for Norfolk offshore wind projects - Ocean Energy Resources",
+      "Article Source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYTRrVE1oQ1RJT1lCSXYySC0zY3Z4RDNfQjZBR0djM1Q5ZkhubEs0bm9HNVBwc2ZpRTJULUpKaGpEN1FFNnVmVWJfTWFMQ0dlalBKd1R0aVNDT2xsX3VST1RJUVRoTGxQWU1OdjV4aHdvM2NfMlBRWDhWel9MbkVIX0pzT0p1elhoUU1IZnNSQWhXSmRjSUh1ZS13VmgzT1BJa2dlVFpDbUtTcms?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "SmartestEnergy secures PPA for Norfolk Vanguard wind farms TGS 4C Offshore"
+      "Summary": "Long-term power agreements for Norfolk offshore wind projects Ocean Energy Resources"
     },
     {
-      "Date": "2026-11-25 06:36",
-      "Article Name": "BW Offshore: Third quarter results 2026 - The Manila Times",
-      "Article Source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2stRjhUbF9OMXllb3drS1c5cHJQWUdrMmNqRkc2U2pOcGNkN3NGMlZyeFFONEJoM21kalVfVlJXNWIydFVlNXBCSGp5dkVYNGtpRkRFTUNiVTR4QTl2cDRlUjdSempzcGRvZDdGeHFlWjU4TzBUWGVLdzFSSXhjSTZpZ3F4UzJCQWN4VkFNUU1lWG9xTFpVWGczUk81b2JhZlNYQVBzMExxajFLNzJqRnhR0gG3AUFVX3lxTE9iQ21PTE94SjU4VVFSc0VHcmJoVVFvUEpjS0FYQTdoeFFKdnkyMDlSUGdkTFhrSl9jdjQ5UGxVRlNhWmFKMHluRDhnU20zNXYwX1J4MnJueVNGOXU4c0drMUNTTldPOWFBQ0xJR3h0Qk1GYjRsVXk0Ti1XYVl6WWU3bHdMWjFHRXZ4WjZkMDBxdm5PVHZiYVJTczAxOEQ3alAxQWlBQ29ITDIzYTNmQW9ETTREb3Nldw?oc=5",
+      "Date": "2026-11-26 17:19",
+      "Article Name": "Green Volt sees lessons learned on floating wind risks after Kincardine setbacks - Recharge News",
+      "Article Source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTnZhX2Z1am5mdE5hb0VycnRGVzduTTBhS0tNODNaRlVlNTNKdmVyMEdfWTJ5SHV1Q2pXQzdfdGtTZjNNN1o3VnFWS05CQUNWS1lVeUZnaWZVYjZ6T3dvcTdvMHZUaTlaQjVLLWMzdmZqVDR0ZEVpY2JEaF9UeW1ya1FLbjdzVnNROTNhYWZVMEhRcGx2ZVFianZ0VXBhS2xhMHNiR2M0UmlEblFJMGdKWVNHV3RxMkhuVXJrSGJYazRmOWRwQkhZNGRpbnQ?oc=5",
+      "Key Phrases": "floating",
+      "Summary": "Green Volt sees lessons learned on floating wind risks after Kincardine setbacks Recharge News"
+    },
+    {
+      "Date": "2026-11-26 14:50",
+      "Article Name": "Lowestoft Port chosen to support the 2.8GW Vanguard projects - TGS 4C Offshore",
+      "Article Source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUxkZzllV01yckxFZDN2MTR1MlpzNE52azNIcE1WcGV0c3RneWdNUlFMcDNzZEZmTklsMFM2WURTVTlFMmI0eDlNSm9BS0pHRVAxSWJNcHpKS2RMQmtEbDBWWmlGQ3pub0U4U1BmUkxTMzhRblZxMVFXcXgzSzN5MzY0WUlYclZaZnlBaVJjNldhTXYtY1BZaDNwZTRycm1TU2VN?oc=5",
       "Key Phrases": "offshore",
-      "Summary": "BW Offshore: Third quarter results 2026 The Manila Times"
+      "Summary": "Lowestoft Port chosen to support the 2.8GW Vanguard projects TGS 4C Offshore"
+    },
+    {
+      "Date": "2026-11-26 07:09",
+      "Article Name": "SmartestEnergy secures PPA for Vanguard offshore wind - Renewable Watch",
+      "Article Source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0ZoZElyV0FJVGxXR1RhMzJhS3RmdXRyMzNOWWJncTZXR2dPU29nQUVyaEtydkhhOFViUnNTWTNQZGpnYTdZckEtR1VNM0Nqc1d0T0lLSVhuVWlCMnlwY2Zaa1NZNkJvQ0hOOGxfMmphZG5Dcktfc0M4Sl9DSDFJbWlKRHlFMkVKaVBMNF9CSjM4Y3RBM0I1YQ?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "SmartestEnergy secures PPA for Vanguard offshore wind Renewable Watch"
+    },
+    {
+      "Date": "2026-11-26 15:18",
+      "Article Name": "Energy minister visits town port as major investment strengthens offshore wind hub - Lowestoft Journal",
+      "Article Source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGE4ZjBwbVREcmRta0FIUDdYbUxYdUZuQU01UDROcWdlRGdXaHdfT01JTXd0czB2Z0lUSkhtb0JyaC1MZUROT056MEJQWjJ4ZTF2S0oxUGs4SzQ1bDYyM19VOXJGNzZJYmxOWXczbml1cTJEYS1VUjduSGU5emtFSlR2QzFJMjZjU011RFRZYzQzVUxOQ3M0MGRfMWRIbjFXdC1CNy1EVTJQdUtpM2c?oc=5",
+      "Key Phrases": "offshore",
+      "Summary": "Energy minister visits town port as major investment strengthens offshore wind hub Lowestoft Journal"
+    },
+    {
+      "Date": "2026-11-26 08:41",
+      "Article Name": "Iberdrola completes regulatory approvals for Caruna acquisition - Windtech International",
+      "Article Source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1E2ZkZOZ05MNlJ0RWl3TDRjcmp5MC1LQVhQZzVnQ2d3RVZYZHFIdmFBaDYtV2VGd19CUVFTRERyU1lVbEJMeHp6MWR4TzVZSHJkTmpjRG9RZTdfVlhqYXlBa3dtMDh0NXRaMVpsN0loTkpGRFZNUllDb3FtajdsMTBkWEpCQlVHNGRfVEk4MjlScGtFT3JNakNBcE1tNFd6eHp1N2xOMDdkRml3MG9fOUFMQUJiZw?oc=5",
+      "Key Phrases": "acquisition",
+      "Summary": "... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
+    },
+    {
+      "Date": "2026-11-26 14:09",
+      "Article Name": "Subsea 7 S.A. (0OGK) Wins Equinor Contract Extension for Seven Viking Through to End of 2028 - kalkine.co.uk",
+      "Article Source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbGEwZ2NOc25hSExTUm1xY25pNlktajR5WTFKbTNrbmZ0UGxVTXZCOUVkMXZrb21yVTg3T3ZMQ0VQSW1Ha0hXeFl2N18zWE1JU1N6ZlFSYVp6MWI2TkNDclJ1VUF6cV93S2N4cjdzS1dLdTJJa19pMEg3M3Iyb05wY0pyQV8tUlVTQzdYZFl5ODd4WjBHZ2hHbkNRMDNfX3JSUTh5LUw4c1FfaWZoSnpHUGdpR012OXNYR0lqR2c3RzZjb3FsdUtWUA?oc=5",
+      "Key Phrases": "contract",
+      "Summary": "Subsea 7 S.A. (0OGK) Wins Equinor Contract Extension for Seven Viking Through to End of 2028 kalkine.co.uk"
     }
   ]
 }
